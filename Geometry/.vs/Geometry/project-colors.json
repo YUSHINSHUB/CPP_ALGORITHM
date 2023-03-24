@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "921fbfb7-22f1-412e-b846-a7c12706ef6d": {
+      "ProjectGuid": "921fbfb7-22f1-412e-b846-a7c12706ef6d",
+      "DisplayName": "16693_Pizza_Deal_B4",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
