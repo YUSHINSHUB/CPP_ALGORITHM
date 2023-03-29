@@ -10,7 +10,12 @@
       "ProjectGuid": "709d83de-e363-45d7-bb34-7d03ce51b0dc",
       "DisplayName": "Q14551_Card_Game_Contest",
       "ColorIndex": 1
+    },
+    "9451b00c-a15f-4172-9f38-93de860f95ce": {
+      "ProjectGuid": "9451b00c-a15f-4172-9f38-93de860f95ce",
+      "DisplayName": "Q13155_Common_Knowledge_B2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
