@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29ab7ad0-e308-44c6-9b8a-cc6c01b0eb39": {
+      "ProjectGuid": "29ab7ad0-e308-44c6-9b8a-cc6c01b0eb39",
+      "DisplayName": "Q15439_Vera_and_Outfits_B4",
+      "ColorIndex": 0
+    },
+    "709d83de-e363-45d7-bb34-7d03ce51b0dc": {
+      "ProjectGuid": "709d83de-e363-45d7-bb34-7d03ce51b0dc",
+      "DisplayName": "Q14551_Card_Game_Contest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

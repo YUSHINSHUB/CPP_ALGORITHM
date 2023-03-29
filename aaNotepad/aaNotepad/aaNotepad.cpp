@@ -3,15 +3,34 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
+#include <string>
+#include <algorithm>
 
 using namespace std;
 
 int main()
 {
 
-	int a, b;
-	cin >> a >> b;
-	cout << a * b;
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+
+	int n;
+	cin >> n;
+	int res = 0;
+
+	for (int i = 3; i <= n - 6; i += 3) {
+		for (int j = i; j <= n - 6; j += 3) {
+			for (int k = j; k <= n - 6; k += 3) {
+				if (i + j + k == n) {
+					if (i == j && j == k) res++;
+					else if (i != j && j != k) res += 6;
+					else res += 3;
+				}
+			}
+		}
+	}
+	cout << res;
 
 }
 
