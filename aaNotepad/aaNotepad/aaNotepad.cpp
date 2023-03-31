@@ -15,22 +15,36 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n;
-	cin >> n;
-	int res = 0;
+	int n, d;
+	cin >> n >> d;
 
-	for (int i = 3; i <= n - 6; i += 3) {
-		for (int j = i; j <= n - 6; j += 3) {
-			for (int k = j; k <= n - 6; k += 3) {
-				if (i + j + k == n) {
-					if (i == j && j == k) res++;
-					else if (i != j && j != k) res += 6;
-					else res += 3;
-				}
-			}
-		}
+	double gtog, gtob, btog, btob;
+	cin >> gtog >> gtob >> btog >> btob;
+
+	double gp, bp;
+
+	if (d == 0) {
+		gp = gtog;
+		bp = gtob;
 	}
-	cout << res;
+	else {
+		gp = btog;
+		bp = btob;
+	}
+
+	double temp;
+	for (int i = 1; i < n; i++) {
+
+		temp = gp;
+		gp *= gtog;
+		gp += bp * btog;
+
+		bp *= btob;
+		bp += temp * gtob;
+
+	}
+
+	cout << (int)(gp * 1000) << "\n" << (int)(bp * 1000);
 
 }
 
