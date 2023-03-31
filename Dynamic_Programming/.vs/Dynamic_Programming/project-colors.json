@@ -1,16 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "b85ecf8f-7791-4f24-b80d-ce169f0c6b8b": {
-      "ProjectGuid": "b85ecf8f-7791-4f24-b80d-ce169f0c6b8b",
-      "DisplayName": "1463_Make_One_S3",
+    "b67586f1-5406-4f81-ab77-2968597796bf": {
+      "ProjectGuid": "b67586f1-5406-4f81-ab77-2968597796bf",
+      "DisplayName": "Q1149_RGB_Street_S1",
       "ColorIndex": 0
-    },
-    "ab064295-62f0-4222-a553-67a3c55651ce": {
-      "ProjectGuid": "ab064295-62f0-4222-a553-67a3c55651ce",
-      "DisplayName": "2225_DIsassemble_Single_Number_to_Sum_Operation_G5",
-      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 1
 }

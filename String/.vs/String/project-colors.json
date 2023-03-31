@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "1172ac9d-ac17-4b97-9c0d-a0763543932e": {
+      "ProjectGuid": "1172ac9d-ac17-4b97-9c0d-a0763543932e",
+      "DisplayName": "Q5430_AC_G5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }

@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "460931f8-79a9-46fd-b687-f98eca466f1b": {
+      "ProjectGuid": "460931f8-79a9-46fd-b687-f98eca466f1b",
+      "DisplayName": "Q2615_Omok_S1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }

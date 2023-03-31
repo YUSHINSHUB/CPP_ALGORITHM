@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "591ab5c8-0372-4091-88bf-e4478dd07019": {
+      "ProjectGuid": "591ab5c8-0372-4091-88bf-e4478dd07019",
+      "DisplayName": "Q1918_Postfix_Notation_G2",
+      "ColorIndex": 0
+    },
+    "b2053207-fdcd-4600-a7e6-c73535255512": {
+      "ProjectGuid": "b2053207-fdcd-4600-a7e6-c73535255512",
+      "DisplayName": "Q17298_Next_Greater_Element_G4",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

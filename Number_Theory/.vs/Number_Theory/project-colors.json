@@ -1,11 +1,26 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "7a3dba3d-325b-4920-88b0-271029c4f5ae": {
-      "ProjectGuid": "7a3dba3d-325b-4920-88b0-271029c4f5ae",
-      "DisplayName": "2004_Number_of_Zero_in_Combination",
+    "91aa82c7-9ac8-4d3b-b8ed-de1e73b19852": {
+      "ProjectGuid": "91aa82c7-9ac8-4d3b-b8ed-de1e73b19852",
+      "DisplayName": "Q6064_Chinese_Remainder_Theorem_S1",
       "ColorIndex": 0
+    },
+    "7759ab16-771c-4d03-a902-a3fa6f1c3aa7": {
+      "ProjectGuid": "7759ab16-771c-4d03-a902-a3fa6f1c3aa7",
+      "DisplayName": "Q6588_Goldbach_Conjecture_S1",
+      "ColorIndex": 1
+    },
+    "3070c828-2a2a-445f-ab1e-273f6bf66733": {
+      "ProjectGuid": "3070c828-2a2a-445f-ab1e-273f6bf66733",
+      "DisplayName": "Q1850_GCD_S1",
+      "ColorIndex": 2
+    },
+    "bd1cec21-f88e-41ef-a92d-75c4cd6cd3be": {
+      "ProjectGuid": "bd1cec21-f88e-41ef-a92d-75c4cd6cd3be",
+      "DisplayName": "Q1747_Prime_Palindrome_S1",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

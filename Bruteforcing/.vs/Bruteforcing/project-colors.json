@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "e0a35496-f28c-4778-b8f0-d6c472f9daa5": {
+      "ProjectGuid": "e0a35496-f28c-4778-b8f0-d6c472f9daa5",
+      "DisplayName": "Q15686_Chicken_Delivery_G5",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }

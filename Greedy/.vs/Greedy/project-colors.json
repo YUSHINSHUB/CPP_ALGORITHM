@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "140da903-f242-459a-9754-212fc7153ead": {
+      "ProjectGuid": "140da903-f242-459a-9754-212fc7153ead",
+      "DisplayName": "Greedy",
+      "ColorIndex": 0
+    },
+    "7ca2ccb8-0419-4186-bcbe-d406b0c45ebc": {
+      "ProjectGuid": "7ca2ccb8-0419-4186-bcbe-d406b0c45ebc",
+      "DisplayName": "Q1931_MeetingRoom_Assignment_S1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

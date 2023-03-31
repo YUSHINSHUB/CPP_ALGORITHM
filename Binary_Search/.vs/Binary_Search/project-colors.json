@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "4eada395-ebdd-414b-af81-f87dd8e0a320": {
+      "ProjectGuid": "4eada395-ebdd-414b-af81-f87dd8e0a320",
+      "DisplayName": "Q2110_Install_Router_G4",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
