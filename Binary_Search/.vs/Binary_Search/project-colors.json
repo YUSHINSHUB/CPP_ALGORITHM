@@ -5,7 +5,27 @@
       "ProjectGuid": "4eada395-ebdd-414b-af81-f87dd8e0a320",
       "DisplayName": "Q2110_Install_Router_G4",
       "ColorIndex": 0
+    },
+    "547e3946-fd05-4dbc-99d8-59af45b7c5b7": {
+      "ProjectGuid": "547e3946-fd05-4dbc-99d8-59af45b7c5b7",
+      "DisplayName": "Q2805_Cut_Tree",
+      "ColorIndex": 1
+    },
+    "3ad61a97-67ba-40c6-baa7-0620239aa704": {
+      "ProjectGuid": "3ad61a97-67ba-40c6-baa7-0620239aa704",
+      "DisplayName": "Q1654_Cut_Lan_Cable_S2",
+      "ColorIndex": 2
+    },
+    "08fcf494-290a-4eaa-95ce-880c1e200386": {
+      "ProjectGuid": "08fcf494-290a-4eaa-95ce-880c1e200386",
+      "DisplayName": "Q2512_Budget_S3",
+      "ColorIndex": 3
+    },
+    "38591f94-613e-4722-b3f8-0b2ebb3cf83e": {
+      "ProjectGuid": "38591f94-613e-4722-b3f8-0b2ebb3cf83e",
+      "DisplayName": "Q18084_Expeditious_Cubing_S3",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }

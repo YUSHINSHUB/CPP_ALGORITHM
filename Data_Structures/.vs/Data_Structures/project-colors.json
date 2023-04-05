@@ -10,7 +10,47 @@
       "ProjectGuid": "b2053207-fdcd-4600-a7e6-c73535255512",
       "DisplayName": "Q17298_Next_Greater_Element_G4",
       "ColorIndex": 1
+    },
+    "85d2d6cb-b8bd-4426-b5f8-adc1e31f55ae": {
+      "ProjectGuid": "85d2d6cb-b8bd-4426-b5f8-adc1e31f55ae",
+      "DisplayName": "Q2002_Overtaking_S1",
+      "ColorIndex": 2
+    },
+    "1493909e-20e5-47a3-b718-3301364c0136": {
+      "ProjectGuid": "1493909e-20e5-47a3-b718-3301364c0136",
+      "DisplayName": "Q1874_Stack_Sequence_S2",
+      "ColorIndex": 3
+    },
+    "368f7b14-e114-47aa-9277-31e3c62f1c71": {
+      "ProjectGuid": "368f7b14-e114-47aa-9277-31e3c62f1c71",
+      "DisplayName": "Q1927_Minimum_Heap_S2",
+      "ColorIndex": 4
+    },
+    "85f61f36-4d2c-433e-b2e0-8aabf107ab3d": {
+      "ProjectGuid": "85f61f36-4d2c-433e-b2e0-8aabf107ab3d",
+      "DisplayName": "Q1021_Rotating_Queue_S3",
+      "ColorIndex": 5
+    },
+    "0b3089b0-15a0-4cbc-bc04-ba463409683b": {
+      "ProjectGuid": "0b3089b0-15a0-4cbc-bc04-ba463409683b",
+      "DisplayName": "Q17413_Reverse_Words_2_S3",
+      "ColorIndex": 6
+    },
+    "6b9344e3-2b4f-469f-abd2-0844e67597d8": {
+      "ProjectGuid": "6b9344e3-2b4f-469f-abd2-0844e67597d8",
+      "DisplayName": "Q1935_Postfix_Notation_2_S3",
+      "ColorIndex": 7
+    },
+    "26e728ee-1a72-4b4f-8646-8cde75f44909": {
+      "ProjectGuid": "26e728ee-1a72-4b4f-8646-8cde75f44909",
+      "DisplayName": "Q10828_Stack_S4",
+      "ColorIndex": 8
+    },
+    "dc71e51f-f984-4a8d-b939-d9794e811951": {
+      "ProjectGuid": "dc71e51f-f984-4a8d-b939-d9794e811951",
+      "DisplayName": "Q10845_Queue_S4",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 10
 }

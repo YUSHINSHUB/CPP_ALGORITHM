@@ -5,7 +5,72 @@
       "ProjectGuid": "1172ac9d-ac17-4b97-9c0d-a0763543932e",
       "DisplayName": "Q5430_AC_G5",
       "ColorIndex": 0
+    },
+    "46cee291-9f01-40ff-aa68-4329ae4b82a9": {
+      "ProjectGuid": "46cee291-9f01-40ff-aa68-4329ae4b82a9",
+      "DisplayName": "Q4358_Ecology_S2",
+      "ColorIndex": 1
+    },
+    "89fa73f1-52d2-415a-b5d6-698843b338df": {
+      "ProjectGuid": "89fa73f1-52d2-415a-b5d6-698843b338df",
+      "DisplayName": "Q1254_Make_Palindrome_S2",
+      "ColorIndex": 2
+    },
+    "e80facc4-e895-4ef0-beec-28bf19030da3": {
+      "ProjectGuid": "e80facc4-e895-4ef0-beec-28bf19030da3",
+      "DisplayName": "Q12891_DNA_Password_S2",
+      "ColorIndex": 3
+    },
+    "96fc65f1-1a93-49af-b01f-040555e18b24": {
+      "ProjectGuid": "96fc65f1-1a93-49af-b01f-040555e18b24",
+      "DisplayName": "Q14425_String_Set_S3",
+      "ColorIndex": 4
+    },
+    "5c20ba65-bae6-4645-a853-f087b13b4217": {
+      "ProjectGuid": "5c20ba65-bae6-4645-a853-f087b13b4217",
+      "DisplayName": "Q4949_Balanced_World_S4",
+      "ColorIndex": 5
+    },
+    "389b0946-db3e-4b6e-8e38-c83474153f1a": {
+      "ProjectGuid": "389b0946-db3e-4b6e-8e38-c83474153f1a",
+      "DisplayName": "Q1181_Sort_Words_S5",
+      "ColorIndex": 6
+    },
+    "dbd07d88-679c-4b91-87c8-ee57824e4da1": {
+      "ProjectGuid": "dbd07d88-679c-4b91-87c8-ee57824e4da1",
+      "DisplayName": "Q1439_Flip_S5",
+      "ColorIndex": 7
+    },
+    "054acdf4-bcdf-4ce3-b5a4-d7bdeb28fe75": {
+      "ProjectGuid": "054acdf4-bcdf-4ce3-b5a4-d7bdeb28fe75",
+      "DisplayName": "Q2810_Cup_Holder_B1",
+      "ColorIndex": 8
+    },
+    "18f309b1-08f3-411c-a260-553d05780b53": {
+      "ProjectGuid": "18f309b1-08f3-411c-a260-553d05780b53",
+      "DisplayName": "Q6996_Anagram_B1",
+      "ColorIndex": 9
+    },
+    "fdca537c-7924-4afe-9245-4b6f069ee166": {
+      "ProjectGuid": "fdca537c-7924-4afe-9245-4b6f069ee166",
+      "DisplayName": "Q1356_Equidigital_Number_B1",
+      "ColorIndex": 10
+    },
+    "bc515bfe-ce61-4f21-abea-a19ba09ce4c5": {
+      "ProjectGuid": "bc515bfe-ce61-4f21-abea-a19ba09ce4c5",
+      "DisplayName": "Q27930_Believe_in_Destiny_B1",
+      "ColorIndex": 11
+    },
+    "db37b108-c552-4a40-8539-664c8ac8a084": {
+      "ProjectGuid": "db37b108-c552-4a40-8539-664c8ac8a084",
+      "DisplayName": "Q15098_No_Duplicates_B1",
+      "ColorIndex": 12
+    },
+    "a607256a-cd0e-4fca-89e4-442b93dedc6a": {
+      "ProjectGuid": "a607256a-cd0e-4fca-89e4-442b93dedc6a",
+      "DisplayName": "Q15829_Hashing_B2",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 14
 }

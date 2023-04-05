@@ -10,7 +10,132 @@
       "ProjectGuid": "0e80fa88-8078-4399-b122-9994d3a9525b",
       "DisplayName": "Q1629_Multiplication",
       "ColorIndex": 1
+    },
+    "88d909f8-eb22-4c3a-a6cd-aa7f251d4923": {
+      "ProjectGuid": "88d909f8-eb22-4c3a-a6cd-aa7f251d4923",
+      "DisplayName": "Q2004_Number_of_Zero_in_Combination_S2",
+      "ColorIndex": 2
+    },
+    "dfc02208-d40c-4c84-8cbf-60c95f115c7c": {
+      "ProjectGuid": "dfc02208-d40c-4c84-8cbf-60c95f115c7c",
+      "DisplayName": "Q1049_Guitar_String_S4",
+      "ColorIndex": 3
+    },
+    "be4f5972-a261-416e-935a-4fca0da69c19": {
+      "ProjectGuid": "be4f5972-a261-416e-935a-4fca0da69c19",
+      "DisplayName": "Q2635_Continuing_Numbers_S5",
+      "ColorIndex": 4
+    },
+    "77af25b2-4bd8-4de1-a999-c784914ceb14": {
+      "ProjectGuid": "77af25b2-4bd8-4de1-a999-c784914ceb14",
+      "DisplayName": "Q4344_Above_Average_B1",
+      "ColorIndex": 5
+    },
+    "682eb4aa-441e-48e6-b420-a4b0bb394b40": {
+      "ProjectGuid": "682eb4aa-441e-48e6-b420-a4b0bb394b40",
+      "DisplayName": "Q2869_Snail_Go_Up_B1",
+      "ColorIndex": 6
+    },
+    "102396ad-37cb-4b09-aac8-c224c101b02e": {
+      "ProjectGuid": "102396ad-37cb-4b09-aac8-c224c101b02e",
+      "DisplayName": "Q2738_Fibonacci_Number_2_B1",
+      "ColorIndex": 7
+    },
+    "b94aba73-29d6-4deb-9879-8cb94b8bf783": {
+      "ProjectGuid": "b94aba73-29d6-4deb-9879-8cb94b8bf783",
+      "DisplayName": "Q1037_Divisor_B1",
+      "ColorIndex": 8
+    },
+    "807b4339-7d45-489b-a9ef-07bd045eeaf4": {
+      "ProjectGuid": "807b4339-7d45-489b-a9ef-07bd045eeaf4",
+      "DisplayName": "Q2163_Cut_Chocolate_B1",
+      "ColorIndex": 9
+    },
+    "46bb7672-7ea9-4b6b-88d0-a3ba821ba3ed": {
+      "ProjectGuid": "46bb7672-7ea9-4b6b-88d0-a3ba821ba3ed",
+      "DisplayName": "Q1373_Binary_To_Octal_B1",
+      "ColorIndex": 10
+    },
+    "a41538c0-8963-45b0-a223-00a293c71fda": {
+      "ProjectGuid": "a41538c0-8963-45b0-a223-00a293c71fda",
+      "DisplayName": "Q4796_Camping_B1",
+      "ColorIndex": 11
+    },
+    "c43dc3aa-5f0b-40bc-8363-fba8d6242303": {
+      "ProjectGuid": "c43dc3aa-5f0b-40bc-8363-fba8d6242303",
+      "DisplayName": "Q11005_Base_Conversion_2_B1",
+      "ColorIndex": 12
+    },
+    "166e95d1-2049-495b-9086-ea01cb27ab96": {
+      "ProjectGuid": "166e95d1-2049-495b-9086-ea01cb27ab96",
+      "DisplayName": "Q16968_Number_Plate_1_B1",
+      "ColorIndex": 13
+    },
+    "6e0207f3-cb8e-4521-a5d1-9fcad6d2e44b": {
+      "ProjectGuid": "6e0207f3-cb8e-4521-a5d1-9fcad6d2e44b",
+      "DisplayName": "Q12833_XORXORXOR_B1",
+      "ColorIndex": 14
+    },
+    "3edbe7be-ee7e-461a-84da-981f754f91e3": {
+      "ProjectGuid": "3edbe7be-ee7e-461a-84da-981f754f91e3",
+      "DisplayName": "Q17211_Good_Day_Bad_Day_B1",
+      "ColorIndex": 15
+    },
+    "023279e7-6c17-4119-878b-57f6285e8d91": {
+      "ProjectGuid": "023279e7-6c17-4119-878b-57f6285e8d91",
+      "DisplayName": "Q16478_Circle_Division_B1",
+      "ColorIndex": 0
+    },
+    "245af4d9-28b8-4769-8a7c-b414493adb39": {
+      "ProjectGuid": "245af4d9-28b8-4769-8a7c-b414493adb39",
+      "DisplayName": "Q1712_Break_Even_Point__B2",
+      "ColorIndex": 1
+    },
+    "0f989091-8e3e-4bed-ac0d-f84f13b9d949": {
+      "ProjectGuid": "0f989091-8e3e-4bed-ac0d-f84f13b9d949",
+      "DisplayName": "Q13458_Exam_Supervision_B2",
+      "ColorIndex": 2
+    },
+    "d22fdf4f-861c-489d-aebd-b60e5ed14580": {
+      "ProjectGuid": "d22fdf4f-861c-489d-aebd-b60e5ed14580",
+      "DisplayName": "Q1009_Distributed_Processiong_B2",
+      "ColorIndex": 3
+    },
+    "00a63ae0-1044-456d-8358-103a0e126f5d": {
+      "ProjectGuid": "00a63ae0-1044-456d-8358-103a0e126f5d",
+      "DisplayName": "Q1075_Division_B2",
+      "ColorIndex": 4
+    },
+    "de6860d0-392f-4d5d-9669-eb74a02b8585": {
+      "ProjectGuid": "de6860d0-392f-4d5d-9669-eb74a02b8585",
+      "DisplayName": "Q2525_Oven_Timer_B3",
+      "ColorIndex": 5
+    },
+    "b4c32f71-17d5-447e-a212-7e5f650a7eb6": {
+      "ProjectGuid": "b4c32f71-17d5-447e-a212-7e5f650a7eb6",
+      "DisplayName": "Q1085_Escape_from_Rectangle_B3",
+      "ColorIndex": 6
+    },
+    "c6e88058-c309-4c40-ad70-a012adf2bd5b": {
+      "ProjectGuid": "c6e88058-c309-4c40-ad70-a012adf2bd5b",
+      "DisplayName": "Q3053_Taxi_Geometry_B3",
+      "ColorIndex": 7
+    },
+    "5f14574e-2d65-400e-8856-afd3bfa61232": {
+      "ProjectGuid": "5f14574e-2d65-400e-8856-afd3bfa61232",
+      "DisplayName": "Q10707_Water_Bill_B3",
+      "ColorIndex": 8
+    },
+    "7f8478f3-7200-42f7-b0ed-0a0ebe6b9a89": {
+      "ProjectGuid": "7f8478f3-7200-42f7-b0ed-0a0ebe6b9a89",
+      "DisplayName": "Q16431_Cow_B3",
+      "ColorIndex": 9
+    },
+    "cb2e059e-0e82-4171-a153-c4d277b9e627": {
+      "ProjectGuid": "cb2e059e-0e82-4171-a153-c4d277b9e627",
+      "DisplayName": "Q14264_Regular_Hexagon_and_Triangle_B3",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 11
 }

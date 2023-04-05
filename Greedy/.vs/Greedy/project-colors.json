@@ -10,7 +10,32 @@
       "ProjectGuid": "7ca2ccb8-0419-4186-bcbe-d406b0c45ebc",
       "DisplayName": "Q1931_MeetingRoom_Assignment_S1",
       "ColorIndex": 1
+    },
+    "d63f87a5-9535-43e5-bd70-fb067a3ec882": {
+      "ProjectGuid": "d63f87a5-9535-43e5-bd70-fb067a3ec882",
+      "DisplayName": "Q1052_Bottle_S1",
+      "ColorIndex": 2
+    },
+    "b9f30d83-d923-4217-9a6b-ad69f6269cd2": {
+      "ProjectGuid": "b9f30d83-d923-4217-9a6b-ad69f6269cd2",
+      "DisplayName": "Q2217_Rope_S4",
+      "ColorIndex": 3
+    },
+    "ccac8853-2ce0-4399-9077-0e5b82d8e5d1": {
+      "ProjectGuid": "ccac8853-2ce0-4399-9077-0e5b82d8e5d1",
+      "DisplayName": "Q10610_30_S4",
+      "ColorIndex": 4
+    },
+    "f7c0ca79-9169-4c69-8067-3585a9373372": {
+      "ProjectGuid": "f7c0ca79-9169-4c69-8067-3585a9373372",
+      "DisplayName": "Q14659_HANJO_B1",
+      "ColorIndex": 5
+    },
+    "fffd713e-3b06-4ad9-bfe7-c6a2ed70888c": {
+      "ProjectGuid": "fffd713e-3b06-4ad9-bfe7-c6a2ed70888c",
+      "DisplayName": "Q2720_Laundry_Owner_B3",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 7
 }

@@ -5,7 +5,52 @@
       "ProjectGuid": "b67586f1-5406-4f81-ab77-2968597796bf",
       "DisplayName": "Q1149_RGB_Street_S1",
       "ColorIndex": 0
+    },
+    "ab1456ad-2806-419c-930d-afe4f3595ec5": {
+      "ProjectGuid": "ab1456ad-2806-419c-930d-afe4f3595ec5",
+      "DisplayName": "Q11053_LIS_S2",
+      "ColorIndex": 1
+    },
+    "dd194c47-7764-4684-8aec-abce4c64cb34": {
+      "ProjectGuid": "dd194c47-7764-4684-8aec-abce4c64cb34",
+      "DisplayName": "Q1463_Make_One_S3",
+      "ColorIndex": 2
+    },
+    "e96f30e8-d27f-40bd-9c60-195e557a0b58": {
+      "ProjectGuid": "e96f30e8-d27f-40bd-9c60-195e557a0b58",
+      "DisplayName": "Q1003_Fibonacci_Function_S3",
+      "ColorIndex": 3
+    },
+    "67e4b895-6065-415b-9ca7-38ddd49f5144": {
+      "ProjectGuid": "67e4b895-6065-415b-9ca7-38ddd49f5144",
+      "DisplayName": "Q2579_Climb_Stairs_S3",
+      "ColorIndex": 4
+    },
+    "c96e1d6e-7cbd-4e12-b43f-b18cc88d6e89": {
+      "ProjectGuid": "c96e1d6e-7cbd-4e12-b43f-b18cc88d6e89",
+      "DisplayName": "Q17626_Four_Squares_S3",
+      "ColorIndex": 5
+    },
+    "86d12e61-0606-4a21-8083-91be89a62507": {
+      "ProjectGuid": "86d12e61-0606-4a21-8083-91be89a62507",
+      "DisplayName": "Q2839_Delivery_Sugar_S4",
+      "ColorIndex": 6
+    },
+    "46e5e780-7925-42fb-9226-22c08de62468": {
+      "ProjectGuid": "46e5e780-7925-42fb-9226-22c08de62468",
+      "DisplayName": "Q1010_Build_Bridge_S5",
+      "ColorIndex": 7
+    },
+    "4f0a6100-db47-46d6-9002-483a7bc67f5a": {
+      "ProjectGuid": "4f0a6100-db47-46d6-9002-483a7bc67f5a",
+      "DisplayName": "Q14916_Change_S5",
+      "ColorIndex": 8
+    },
+    "47e36987-484d-4394-9e52-c2a356603d0e": {
+      "ProjectGuid": "47e36987-484d-4394-9e52-c2a356603d0e",
+      "DisplayName": "Q15841_Virus_Outbreak_B2",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 10
 }

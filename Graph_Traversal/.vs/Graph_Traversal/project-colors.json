@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85a5133e-0099-4b8c-8ff4-a13c889b1ece": {
+      "ProjectGuid": "85a5133e-0099-4b8c-8ff4-a13c889b1ece",
+      "DisplayName": "Q1260_DFS_and_BFS_S2",
+      "ColorIndex": 0
+    },
+    "ce9a9300-635d-45f5-982c-0266d9260832": {
+      "ProjectGuid": "ce9a9300-635d-45f5-982c-0266d9260832",
+      "DisplayName": "Q1012_Organic_Cabbage_S2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d0baefe-5d98-4899-887b-6a88fb366bdc": {
+      "ProjectGuid": "5d0baefe-5d98-4899-887b-6a88fb366bdc",
+      "DisplayName": "Q1297_TV_Size_B2",
+      "ColorIndex": 0
+    },
+    "491e9d03-1349-421c-8837-36d8224309cc": {
+      "ProjectGuid": "491e9d03-1349-421c-8837-36d8224309cc",
+      "DisplayName": "Q4153_Right_Triangle_B3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
