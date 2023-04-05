@@ -135,7 +135,12 @@
       "ProjectGuid": "cb2e059e-0e82-4171-a153-c4d277b9e627",
       "DisplayName": "Q14264_Regular_Hexagon_and_Triangle_B3",
       "ColorIndex": 10
+    },
+    "de821e70-9507-4614-a808-7820d2a4fa61": {
+      "ProjectGuid": "de821e70-9507-4614-a808-7820d2a4fa61",
+      "DisplayName": "Q13300_Room_Allocation_B2",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }
