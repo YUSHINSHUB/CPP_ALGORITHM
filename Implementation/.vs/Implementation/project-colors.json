@@ -215,7 +215,12 @@
       "ProjectGuid": "e49e4e5d-3cf5-45a5-95b4-8a2916aec27f",
       "DisplayName": "Q5893_Seventeen_Times_B3",
       "ColorIndex": 10
+    },
+    "f9e398ea-e5ae-4403-96e8-7259c6c53b25": {
+      "ProjectGuid": "f9e398ea-e5ae-4403-96e8-7259c6c53b25",
+      "DisplayName": "Q5355_Mars_Math_B2",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }
