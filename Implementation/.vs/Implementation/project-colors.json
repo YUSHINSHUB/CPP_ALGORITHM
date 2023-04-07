@@ -220,7 +220,12 @@
       "ProjectGuid": "f9e398ea-e5ae-4403-96e8-7259c6c53b25",
       "DisplayName": "Q5355_Mars_Math_B2",
       "ColorIndex": 11
+    },
+    "2acd963b-8174-4c17-9c1f-e537fad77684": {
+      "ProjectGuid": "2acd963b-8174-4c17-9c1f-e537fad77684",
+      "DisplayName": "Q2566_Max_Value_B3",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

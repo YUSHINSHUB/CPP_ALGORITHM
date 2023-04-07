@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q5893_Seventeen_Times_B3", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q5355_Mars_Math_B2", "Q5355_Mars_Math_B2\Q5355_Mars_Math_B2.vcxproj", "{F9E398EA-E5AE-4403-96E8-7259C6C53B25}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2566_Max_Value_B3", "Q2566_Max_Value_B3\Q2566_Max_Value_B3.vcxproj", "{2ACD963B-8174-4C17-9C1F-E537FAD77684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{F9E398EA-E5AE-4403-96E8-7259C6C53B25}.Release|x64.Build.0 = Release|x64
 		{F9E398EA-E5AE-4403-96E8-7259C6C53B25}.Release|x86.ActiveCfg = Release|Win32
 		{F9E398EA-E5AE-4403-96E8-7259C6C53B25}.Release|x86.Build.0 = Release|Win32
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Debug|x64.ActiveCfg = Debug|x64
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Debug|x64.Build.0 = Debug|x64
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Debug|x86.ActiveCfg = Debug|Win32
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Debug|x86.Build.0 = Debug|Win32
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Release|x64.ActiveCfg = Release|x64
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Release|x64.Build.0 = Release|x64
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Release|x86.ActiveCfg = Release|Win32
+		{2ACD963B-8174-4C17-9C1F-E537FAD77684}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
