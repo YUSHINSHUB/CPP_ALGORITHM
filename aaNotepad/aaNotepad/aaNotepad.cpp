@@ -15,36 +15,20 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n, d;
-	cin >> n >> d;
+	int n;
+	int sum = 0;
+	int min = INT_MAX;
 
-	double gtog, gtob, btog, btob;
-	cin >> gtog >> gtob >> btog >> btob;
-
-	double gp, bp;
-
-	if (d == 0) {
-		gp = gtog;
-		bp = gtob;
-	}
-	else {
-		gp = btog;
-		bp = btob;
+	for (int i = 0; i < 7; i++) {
+		cin >> n;
+		if (n % 2 == 1) {
+			if (min > n) min = n;
+			sum += n;
+		}
 	}
 
-	double temp;
-	for (int i = 1; i < n; i++) {
-
-		temp = gp;
-		gp *= gtog;
-		gp += bp * btog;
-
-		bp *= btob;
-		bp += temp * gtob;
-
-	}
-
-	cout << (int)(gp * 1000) << "\n" << (int)(bp * 1000);
+	if (sum == 0) cout << "-1";
+	else cout << sum << "\n" << min;
 
 }
 

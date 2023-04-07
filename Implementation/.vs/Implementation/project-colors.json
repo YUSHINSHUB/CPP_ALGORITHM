@@ -225,7 +225,12 @@
       "ProjectGuid": "2acd963b-8174-4c17-9c1f-e537fad77684",
       "DisplayName": "Q2566_Max_Value_B3",
       "ColorIndex": 12
+    },
+    "e05a5b80-4e82-4ea7-adf8-ee60ffa20ce1": {
+      "ProjectGuid": "e05a5b80-4e82-4ea7-adf8-ee60ffa20ce1",
+      "DisplayName": "Q1252_Binary_Addition_B2",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
