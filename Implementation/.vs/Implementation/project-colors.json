@@ -230,7 +230,12 @@
       "ProjectGuid": "e05a5b80-4e82-4ea7-adf8-ee60ffa20ce1",
       "DisplayName": "Q1252_Binary_Addition_B2",
       "ColorIndex": 13
+    },
+    "75daa0d9-af16-4f5d-bf6f-d4c69eaa04f6": {
+      "ProjectGuid": "75daa0d9-af16-4f5d-bf6f-d4c69eaa04f6",
+      "DisplayName": "Q2490_Yutnori_B3",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
