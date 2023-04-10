@@ -16,19 +16,28 @@ int main()
 	cout.tie(NULL);
 
 	int n;
-	int sum = 0;
-	int min = INT_MAX;
+	cin >> n;
+	int a, b, c;
+	int res = 0;
+	int temp = 0;
 
-	for (int i = 0; i < 7; i++) {
-		cin >> n;
-		if (n % 2 == 1) {
-			if (min > n) min = n;
-			sum += n;
+	for (int i = 0; i < n; i++) {
+
+		cin >> a >> b >> c;
+
+		if (a == b && b == c)
+			temp = 10000 + (a * 1000);
+		else if (a == b || a == c)
+			temp = 1000 + (a * 100);
+		else if (b == c)
+			temp = 1000 + (b * 100);
+		else {
+			temp = max(a, max(b, c)) * 100;
 		}
-	}
 
-	if (sum == 0) cout << "-1";
-	else cout << sum << "\n" << min;
+		res = max(res, temp);
+	}
+	cout << res;
 
 }
 

@@ -140,7 +140,12 @@
       "ProjectGuid": "de821e70-9507-4614-a808-7820d2a4fa61",
       "DisplayName": "Q13300_Room_Allocation_B2",
       "ColorIndex": 11
+    },
+    "505ca2bb-7dcd-421e-92a0-bf2383e91cfa": {
+      "ProjectGuid": "505ca2bb-7dcd-421e-92a0-bf2383e91cfa",
+      "DisplayName": "Q2476_Dice_Game_B3",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }
