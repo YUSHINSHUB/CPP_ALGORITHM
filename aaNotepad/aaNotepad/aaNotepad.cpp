@@ -3,8 +3,11 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
+#include <iomanip>
 #include <string>
 #include <algorithm>
+#include <sstream>
+#include <bitset>
 
 using namespace std;
 
@@ -17,27 +20,28 @@ int main()
 
 	int n;
 	cin >> n;
-	int a, b, c;
-	int res = 0;
-	int temp = 0;
+
+	int x, y;
+
+	int res[5] = { 0, };
 
 	for (int i = 0; i < n; i++) {
+		cin >> x >> y;
 
-		cin >> a >> b >> c;
-
-		if (a == b && b == c)
-			temp = 10000 + (a * 1000);
-		else if (a == b || a == c)
-			temp = 1000 + (a * 100);
-		else if (b == c)
-			temp = 1000 + (b * 100);
-		else {
-			temp = max(a, max(b, c)) * 100;
-		}
-
-		res = max(res, temp);
+		if (x == 0 || y == 0)
+			res[4]++;
+		else if (x > 0 && y > 0)
+			res[0]++;
+		else if (x < 0 && y > 0)
+			res[1]++;
+		else if (x > 0 && y < 0)
+			res[2]++;
+		else if (x < 0 && y < 0)
+			res[3]++;
 	}
-	cout << res;
+
+	cout << "Q1: " << res[0] << "\nQ2: " << res[1] << "\nQ3: " << res[3] << "\nQ4: " << res[2] << "\nAXIS: " << res[4];
+
 
 }
 

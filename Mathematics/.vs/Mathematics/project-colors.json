@@ -145,7 +145,12 @@
       "ProjectGuid": "505ca2bb-7dcd-421e-92a0-bf2383e91cfa",
       "DisplayName": "Q2476_Dice_Game_B3",
       "ColorIndex": 12
+    },
+    "472cefd8-2863-4a28-85c1-d171b7eec474": {
+      "ProjectGuid": "472cefd8-2863-4a28-85c1-d171b7eec474",
+      "DisplayName": "Q1673_Chicken_Coupon_B2",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
