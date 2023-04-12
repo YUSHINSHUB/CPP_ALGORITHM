@@ -8,6 +8,7 @@
 #include <algorithm>
 #include <sstream>
 #include <bitset>
+#include <vector>
 
 using namespace std;
 
@@ -21,27 +22,25 @@ int main()
 	int n;
 	cin >> n;
 
-	int x, y;
-
-	int res[5] = { 0, };
-
-	for (int i = 0; i < n; i++) {
-		cin >> x >> y;
-
-		if (x == 0 || y == 0)
-			res[4]++;
-		else if (x > 0 && y > 0)
-			res[0]++;
-		else if (x < 0 && y > 0)
-			res[1]++;
-		else if (x > 0 && y < 0)
-			res[2]++;
-		else if (x < 0 && y < 0)
-			res[3]++;
+	for (int i = n - 1; i >= 0; i--) {
+		for (int j = 0; j < i; j++) {
+			cout << " ";
+		}
+		for (int j = 0; j < n - i; j++) {
+			cout << "*";
+		}
+		cout << "\n";
 	}
 
-	cout << "Q1: " << res[0] << "\nQ2: " << res[1] << "\nQ3: " << res[3] << "\nQ4: " << res[2] << "\nAXIS: " << res[4];
-
+	for (int i = 1; i <= n - 1; i++) {
+		for (int j = 0; j < i; j++) {
+			cout << " ";
+		}
+		for (int j = 0; j < n - i; j++) {
+			cout << "*";
+		}
+		cout << "\n";
+	}
 
 }
 

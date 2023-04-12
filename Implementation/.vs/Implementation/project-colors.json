@@ -235,7 +235,12 @@
       "ProjectGuid": "75daa0d9-af16-4f5d-bf6f-d4c69eaa04f6",
       "DisplayName": "Q2490_Yutnori_B3",
       "ColorIndex": 14
+    },
+    "265c100e-129e-4798-b1ec-0accd6ba8f47": {
+      "ProjectGuid": "265c100e-129e-4798-b1ec-0accd6ba8f47",
+      "DisplayName": "Q10093_Number_B2",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }
