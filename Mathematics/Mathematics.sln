@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2476_Dice_Game_B3", "Q2476
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1673_Chicken_Coupon_B2", "Q1673_Chicken_Coupon_B2\Q1673_Chicken_Coupon_B2.vcxproj", "{472CEFD8-2863-4A28-85C1-D171B7EEC474}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2592_Representative_Value_B2", "Q2592_Representative_Value_B2\Q2592_Representative_Value_B2.vcxproj", "{B7F98BA3-60FF-4F57-B933-046A50BECBBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{472CEFD8-2863-4A28-85C1-D171B7EEC474}.Release|x64.Build.0 = Release|x64
 		{472CEFD8-2863-4A28-85C1-D171B7EEC474}.Release|x86.ActiveCfg = Release|Win32
 		{472CEFD8-2863-4A28-85C1-D171B7EEC474}.Release|x86.Build.0 = Release|Win32
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Debug|x64.ActiveCfg = Debug|x64
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Debug|x64.Build.0 = Debug|x64
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Debug|x86.Build.0 = Debug|Win32
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x64.ActiveCfg = Release|x64
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x64.Build.0 = Release|x64
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x86.ActiveCfg = Release|Win32
+		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

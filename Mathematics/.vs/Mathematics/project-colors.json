@@ -150,7 +150,12 @@
       "ProjectGuid": "472cefd8-2863-4a28-85c1-d171b7eec474",
       "DisplayName": "Q1673_Chicken_Coupon_B2",
       "ColorIndex": 13
+    },
+    "b7f98ba3-60ff-4f57-b933-046a50becbbb": {
+      "ProjectGuid": "b7f98ba3-60ff-4f57-b933-046a50becbbb",
+      "DisplayName": "Q2592_Representative_Value_B2",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
