@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15098_No_Duplicates_B1", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15829_Hashing_B2", "Q15829_Hashing_B2\Q15829_Hashing_B2.vcxproj", "{A607256A-CD0E-4FCA-89E4-442B93DEDC6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q25501_Recursion_Genius_B2", "Q25501_Recursion_Genius_B2\Q25501_Recursion_Genius_B2.vcxproj", "{EF47F1D6-5151-4396-BC44-34757FDE5C9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{A607256A-CD0E-4FCA-89E4-442B93DEDC6A}.Release|x64.Build.0 = Release|x64
 		{A607256A-CD0E-4FCA-89E4-442B93DEDC6A}.Release|x86.ActiveCfg = Release|Win32
 		{A607256A-CD0E-4FCA-89E4-442B93DEDC6A}.Release|x86.Build.0 = Release|Win32
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Debug|x64.ActiveCfg = Debug|x64
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Debug|x64.Build.0 = Debug|x64
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Debug|x86.Build.0 = Debug|Win32
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Release|x64.ActiveCfg = Release|x64
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Release|x64.Build.0 = Release|x64
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Release|x86.ActiveCfg = Release|Win32
+		{EF47F1D6-5151-4396-BC44-34757FDE5C9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
