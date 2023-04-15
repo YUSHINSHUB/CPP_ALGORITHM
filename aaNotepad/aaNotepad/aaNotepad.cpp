@@ -19,29 +19,45 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n;
-	cin >> n;
+	int t;
+	cin >> t;
+	int res = 0;
+	int a, b;
 
-	for (int i = n - 1; i >= 0; i--) {
-		for (int j = 0; j < i; j++) {
-			cout << " ";
+	for (int i = 0; i < t; i++) {
+		cin >> a >> b;
+		res = 0;
+
+		if (a != 0) {
+			if (a - 1 <= 0)
+				res += 5000000;
+			else if (a - 3 <= 0)
+				res += 3000000;
+			else if (a - 6 <= 0)
+				res += 2000000;
+			else if (a - 10 <= 0)
+				res += 500000;
+			else if (a - 15 <= 0)
+				res += 300000;
+			else if (a - 21 <= 0)
+				res += 100000;
 		}
-		for (int j = 0; j < n - i; j++) {
-			cout << "*";
+
+		if (b != 0) {
+			if (b - 1 <= 0)
+				res += 5120000;
+			else if (b - 3 <= 0)
+				res += 2560000;
+			else if (b - 7 <= 0)
+				res += 1280000;
+			else if (b - 15 <= 0)
+				res += 640000;
+			else if (b - 31 <= 0)
+				res += 320000;
 		}
-		cout << "\n";
+
+		cout << res << "\n";
 	}
-
-	for (int i = 1; i <= n - 1; i++) {
-		for (int j = 0; j < i; j++) {
-			cout << " ";
-		}
-		for (int j = 0; j < n - i; j++) {
-			cout << "*";
-		}
-		cout << "\n";
-	}
-
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
