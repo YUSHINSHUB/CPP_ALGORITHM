@@ -240,7 +240,17 @@
       "ProjectGuid": "265c100e-129e-4798-b1ec-0accd6ba8f47",
       "DisplayName": "Q10093_Number_B2",
       "ColorIndex": 15
+    },
+    "43d95124-227a-4149-937a-1d08659d5a24": {
+      "ProjectGuid": "43d95124-227a-4149-937a-1d08659d5a24",
+      "DisplayName": "Q1652_Place_to_Lie_S5",
+      "ColorIndex": 0
+    },
+    "ba51103b-b966-4ee7-89b2-f20f78648c7d": {
+      "ProjectGuid": "ba51103b-b966-4ee7-89b2-f20f78648c7d",
+      "DisplayName": "Q16916_Substring_B2",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 2
 }
