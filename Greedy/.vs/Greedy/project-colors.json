@@ -35,7 +35,12 @@
       "ProjectGuid": "fffd713e-3b06-4ad9-bfe7-c6a2ed70888c",
       "DisplayName": "Q2720_Laundry_Owner_B3",
       "ColorIndex": 6
+    },
+    "d4da9657-fee9-40a9-8259-1fcc338a89be": {
+      "ProjectGuid": "d4da9657-fee9-40a9-8259-1fcc338a89be",
+      "DisplayName": "Q2873_RollerCoaster_P3",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

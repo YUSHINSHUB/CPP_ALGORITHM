@@ -65,7 +65,12 @@
       "ProjectGuid": "b673fbcd-6306-480b-b208-04b37f13d671",
       "DisplayName": "Q2581_Prime_Number_B2",
       "ColorIndex": 12
+    },
+    "8c084c58-e88f-42ba-8940-a436a6e7a086": {
+      "ProjectGuid": "8c084c58-e88f-42ba-8940-a436a6e7a086",
+      "DisplayName": "Q2981_Inspection_G4",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }

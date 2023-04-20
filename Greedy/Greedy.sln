@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q14659_HANJO_B1", "Q14659_H
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2720_Laundry_Owner_B3", "Q2720_Laundry_Owner_B3\Q2720_Laundry_Owner_B3.vcxproj", "{FFFD713E-3B06-4AD9-BFE7-C6A2ED70888C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2873_RollerCoaster_P3", "Q2873_RollerCoaster_P3\Q2873_RollerCoaster_P3.vcxproj", "{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{FFFD713E-3B06-4AD9-BFE7-C6A2ED70888C}.Release|x64.Build.0 = Release|x64
 		{FFFD713E-3B06-4AD9-BFE7-C6A2ED70888C}.Release|x86.ActiveCfg = Release|Win32
 		{FFFD713E-3B06-4AD9-BFE7-C6A2ED70888C}.Release|x86.Build.0 = Release|Win32
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Debug|x64.ActiveCfg = Debug|x64
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Debug|x64.Build.0 = Debug|x64
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Debug|x86.Build.0 = Debug|Win32
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Release|x64.ActiveCfg = Release|x64
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Release|x64.Build.0 = Release|x64
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Release|x86.ActiveCfg = Release|Win32
+		{D4DA9657-FEE9-40A9-8259-1FCC338A89BE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

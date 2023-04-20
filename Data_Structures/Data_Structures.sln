@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10845_Queue_S4", "Q10845_Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17608_Stick_B2", "Q17608_Stick_B2\Q17608_Stick_B2.vcxproj", "{FB3D0B46-3ADC-48BA-9C76-8C5855C4D487}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11279_Maximum_Heap_S2", "Q11279_Maximum_Heap_S2\Q11279_Maximum_Heap_S2.vcxproj", "{C691C9FA-985D-4B85-A1B6-F56B7404D83A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{FB3D0B46-3ADC-48BA-9C76-8C5855C4D487}.Release|x64.Build.0 = Release|x64
 		{FB3D0B46-3ADC-48BA-9C76-8C5855C4D487}.Release|x86.ActiveCfg = Release|Win32
 		{FB3D0B46-3ADC-48BA-9C76-8C5855C4D487}.Release|x86.Build.0 = Release|Win32
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Debug|x64.ActiveCfg = Debug|x64
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Debug|x64.Build.0 = Debug|x64
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Debug|x86.ActiveCfg = Debug|Win32
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Debug|x86.Build.0 = Debug|Win32
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Release|x64.ActiveCfg = Release|x64
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Release|x64.Build.0 = Release|x64
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Release|x86.ActiveCfg = Release|Win32
+		{C691C9FA-985D-4B85-A1B6-F56B7404D83A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

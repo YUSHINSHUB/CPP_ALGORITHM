@@ -50,7 +50,12 @@
       "ProjectGuid": "693a7e0c-bb4f-4011-a17c-7652f7105a9f",
       "DisplayName": "Q3040_Snow_White_Seven_Dwarfs_B2",
       "ColorIndex": 9
+    },
+    "a5a75151-58ea-4019-a1fe-69fa470c78dd": {
+      "ProjectGuid": "a5a75151-58ea-4019-a1fe-69fa470c78dd",
+      "DisplayName": "Q1759_Create_Password_G5",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }
