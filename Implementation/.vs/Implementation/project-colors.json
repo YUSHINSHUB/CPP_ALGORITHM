@@ -255,7 +255,12 @@
       "ProjectGuid": "46590817-8b5a-4448-b090-8747d733f57b",
       "DisplayName": "Q10424_Algorithm_Final_Exam_S2",
       "ColorIndex": 2
+    },
+    "390279b4-0a00-48d7-a61d-478243b7a274": {
+      "ProjectGuid": "390279b4-0a00-48d7-a61d-478243b7a274",
+      "DisplayName": "Q1769_Multiple_of_3_S5",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
