@@ -19,38 +19,16 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int pri[1041] = {0,};
-	pri[0] = 1; // 1은 소수x 0은 소수
-	pri[1] = 0;
-	pri[2] = 0;
-	for (int i = 4; i <= 1040; i += 2) {
-		pri[i] = 1;
+	int n, temp;
+	cin >> n;
+
+	for (int i = 0; i < 9; i++) {
+		cin >> temp;
+		n -= temp;
 	}
 
-	for (int i = 3; i <= 1040; i += 2) {
-		if (pri[i] == 0) {
-			for (int j = i * 2; j <= 1040; j += i) {
-				pri[j] = 1;
-			}
-		}
-	}
+	cout << n;
 
-	string inp;
-	cin >> inp;
-
-	int idx = 0;
-
-	for (int i = 0; i < inp.length(); i++) {
-		if (inp[i] >= 'a')
-			idx += inp[i] - 'a' + 1;
-		else
-			idx += inp[i] - 'A' + 27;
-	}
-
-	if (pri[idx] == 0)
-		cout << "It is a prime word.";
-	else
-		cout << "It is not a prime word.";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

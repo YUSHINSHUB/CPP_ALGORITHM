@@ -260,7 +260,12 @@
       "ProjectGuid": "390279b4-0a00-48d7-a61d-478243b7a274",
       "DisplayName": "Q1769_Multiple_of_3_S5",
       "ColorIndex": 3
+    },
+    "44fce1e5-50cd-4aec-b50a-68733d5630ae": {
+      "ProjectGuid": "44fce1e5-50cd-4aec-b50a-68733d5630ae",
+      "DisplayName": "Q5598_CaesarCipher_B2",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
