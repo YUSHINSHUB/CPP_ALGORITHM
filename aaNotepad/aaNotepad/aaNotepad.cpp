@@ -19,15 +19,61 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	int n, temp;
+	int n;
 	cin >> n;
+	int res = 0;
+	int a, b, c, d;
+	for (int i = 0; i < n; i++) {
+		cin >> a >> b >> c >> d;
+		int pri;
+		if (a == b && a == c && a == d)
+			pri = 50000 + (a * 5000);
+		else if (a == b && a == c || a == b && a == d || a == c && a == d)
+			pri = 10000 + (a * 1000);
+		else if (b == c && b == d)
+			pri = 10000 + (b * 1000);
+		else if (a == b) {
+			if (c == d)
+				pri = 2000 + (a * 500) + (c * 500);
+			else
+				pri = 1000 + (a * 100);
+		}
+		else if (a == c) {
+			if (b == d)
+				pri = 2000 + (a * 500) + (b * 500);
+			else
+				pri = 1000 + (a * 100);
+		}
+		else if (a == d) {
+			if (b == c)
+				pri = 2000 + (a * 500) + (b * 500);
+			else
+				pri = 1000 + (a * 100);
+		}
+		else if (b == c)
+			pri = 1000 + (b * 100);
+		else if (b == d)
+			pri = 1000 + (b * 100);
+		else if (c == d)
+			pri = 1000 + (c * 100);
+		else {
+			int hig = 0;
+			if (a > hig)
+				hig = a;
+			if (b > hig)
+				hig = b;
+			if (c > hig)
+				hig = c;
+			if (d > hig)
+				hig = d;
+			pri = hig * 100;
+		}
 
-	for (int i = 0; i < 9; i++) {
-		cin >> temp;
-		n -= temp;
+		if (res < pri)
+			res = pri;
 	}
 
-	cout << n;
+	cout << res;
 
 }
 
