@@ -113,6 +113,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2511_Card_Game_B2", "Q2511
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11328_Strfry_B2", "Q11328_Strfry_B2\Q11328_Strfry_B2.vcxproj", "{BDE44526-F2B7-446D-A73B-F26D06619F13}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10812_Rearrange_Basket_B2", "Q10812_Rearrange_Basket_B2\Q10812_Rearrange_Basket_B2.vcxproj", "{C1856168-B35D-434D-BB73-0F7974580F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -561,6 +563,14 @@ Global
 		{BDE44526-F2B7-446D-A73B-F26D06619F13}.Release|x64.Build.0 = Release|x64
 		{BDE44526-F2B7-446D-A73B-F26D06619F13}.Release|x86.ActiveCfg = Release|Win32
 		{BDE44526-F2B7-446D-A73B-F26D06619F13}.Release|x86.Build.0 = Release|Win32
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Debug|x64.ActiveCfg = Debug|x64
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Debug|x64.Build.0 = Debug|x64
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Debug|x86.Build.0 = Debug|Win32
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Release|x64.ActiveCfg = Release|x64
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Release|x64.Build.0 = Release|x64
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Release|x86.ActiveCfg = Release|Win32
+		{C1856168-B35D-434D-BB73-0F7974580F01}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
