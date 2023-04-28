@@ -265,7 +265,17 @@
       "ProjectGuid": "44fce1e5-50cd-4aec-b50a-68733d5630ae",
       "DisplayName": "Q5598_CaesarCipher_B2",
       "ColorIndex": 4
+    },
+    "c1856168-b35d-434d-bb73-0f7974580f01": {
+      "ProjectGuid": "c1856168-b35d-434d-bb73-0f7974580f01",
+      "DisplayName": "Q10812_Rearrange_Basket_B2",
+      "ColorIndex": 5
+    },
+    "a1e67bb3-d95c-4f8b-b129-a1f7618ed832": {
+      "ProjectGuid": "a1e67bb3-d95c-4f8b-b129-a1f7618ed832",
+      "DisplayName": "Q4659_Pronounce_PW_S5",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
