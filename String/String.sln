@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q25501_Recursion_Genius_B2"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1251_Word_Segmentation_S5", "Q1251_Word_Segmentation_S5\Q1251_Word_Segmentation_S5.vcxproj", "{1B484528-A99B-4965-87A4-3489CB2AA74B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q6550_Substring_S5", "Q6550_Substring_S5\Q6550_Substring_S5.vcxproj", "{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{1B484528-A99B-4965-87A4-3489CB2AA74B}.Release|x64.Build.0 = Release|x64
 		{1B484528-A99B-4965-87A4-3489CB2AA74B}.Release|x86.ActiveCfg = Release|Win32
 		{1B484528-A99B-4965-87A4-3489CB2AA74B}.Release|x86.Build.0 = Release|Win32
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Debug|x64.ActiveCfg = Debug|x64
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Debug|x64.Build.0 = Debug|x64
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Debug|x86.Build.0 = Debug|Win32
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Release|x64.ActiveCfg = Release|x64
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Release|x64.Build.0 = Release|x64
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Release|x86.ActiveCfg = Release|Win32
+		{6F0B9E19-0542-4B2B-8AB5-51888A3BF8B8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

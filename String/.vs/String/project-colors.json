@@ -70,7 +70,12 @@
       "ProjectGuid": "a607256a-cd0e-4fca-89e4-442b93dedc6a",
       "DisplayName": "Q15829_Hashing_B2",
       "ColorIndex": 13
+    },
+    "6f0b9e19-0542-4b2b-8ab5-51888a3bf8b8": {
+      "ProjectGuid": "6f0b9e19-0542-4b2b-8ab5-51888a3bf8b8",
+      "DisplayName": "Q6550_Substring_S5",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }
