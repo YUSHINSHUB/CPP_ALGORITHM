@@ -75,7 +75,17 @@
       "ProjectGuid": "6f0b9e19-0542-4b2b-8ab5-51888a3bf8b8",
       "DisplayName": "Q6550_Substring_S5",
       "ColorIndex": 14
+    },
+    "5596474a-dcca-4c17-821d-b9dbc753ebb0": {
+      "ProjectGuid": "5596474a-dcca-4c17-821d-b9dbc753ebb0",
+      "DisplayName": "Q4378_QWERTY_S5",
+      "ColorIndex": 15
+    },
+    "1b484528-a99b-4965-87a4-3489cb2aa74b": {
+      "ProjectGuid": "1b484528-a99b-4965-87a4-3489cb2aa74b",
+      "DisplayName": "Q1251_Word_Segmentation_S5",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }

@@ -21,60 +21,38 @@ int main()
 
 	int n;
 	cin >> n;
-	int res = 0;
-	int a, b, c, d;
+	string inp;
+	bool b = true;
+
 	for (int i = 0; i < n; i++) {
-		cin >> a >> b >> c >> d;
-		int pri;
-		if (a == b && a == c && a == d)
-			pri = 50000 + (a * 5000);
-		else if (a == b && a == c || a == b && a == d || a == c && a == d)
-			pri = 10000 + (a * 1000);
-		else if (b == c && b == d)
-			pri = 10000 + (b * 1000);
-		else if (a == b) {
-			if (c == d)
-				pri = 2000 + (a * 500) + (c * 500);
-			else
-				pri = 1000 + (a * 100);
-		}
-		else if (a == c) {
-			if (b == d)
-				pri = 2000 + (a * 500) + (b * 500);
-			else
-				pri = 1000 + (a * 100);
-		}
-		else if (a == d) {
-			if (b == c)
-				pri = 2000 + (a * 500) + (b * 500);
-			else
-				pri = 1000 + (a * 100);
-		}
-		else if (b == c)
-			pri = 1000 + (b * 100);
-		else if (b == d)
-			pri = 1000 + (b * 100);
-		else if (c == d)
-			pri = 1000 + (c * 100);
-		else {
-			int hig = 0;
-			if (a > hig)
-				hig = a;
-			if (b > hig)
-				hig = b;
-			if (c > hig)
-				hig = c;
-			if (d > hig)
-				hig = d;
-			pri = hig * 100;
+		b = true;
+		cin >> inp;
+		int cnt[26] = { 0, };
+
+		for (int j = 0; j < inp.length(); j++) {
+			cnt[inp[j] - 'A']++;
+			if (cnt[inp[j] - 'A'] == 3) {
+				if (j != inp.length() - 1) {
+					if (inp[j] != inp[j + 1]) {
+						b = false;
+						break;
+					}
+					else {
+						cnt[inp[j] - 'A'] = -1;
+					}
+				}
+				else {
+					b = false;
+					break;
+				}
+			}
 		}
 
-		if (res < pri)
-			res = pri;
+		if (b)
+			cout << "OK\n";
+		else
+			cout << "FAKE\n";
 	}
-
-	cout << res;
-
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
