@@ -13,6 +13,7 @@ int main()
 	cin >> n;
 
 	vector<int> stick(n);
+	//C++에서 배열은 상수를 자릿수로 갖기 때문에 변수를 자릿수로 주기 위해서 vector를 사용한다
 	int hig = 0;
 	int res = 0;
 
