@@ -17,7 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q4344_Above_Average_B1", "Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2869_Snail_Go_Up_B1", "Q2869_Snail_Go_Up_B1\Q2869_Snail_Go_Up_B1.vcxproj", "{682EB4AA-441E-48E6-B420-A4B0BB394B40}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2738_Fibonacci_Number_2_B1", "Q2738_Fibonacci_Number_2_B1\Q2738_Fibonacci_Number_2_B1.vcxproj", "{102396AD-37CB-4B09-AAC8-C224C101B02E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2748_Fibonacci_Number_2_B1", "Q2738_Fibonacci_Number_2_B1\Q2738_Fibonacci_Number_2_B1.vcxproj", "{102396AD-37CB-4B09-AAC8-C224C101B02E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1037_Divisor_B1", "Q1037_Divisor_B1\Q1037_Divisor_B1.vcxproj", "{B94ABA73-29D6-4DEB-9879-8CB94B8BF783}"
 EndProject
@@ -64,6 +64,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1673_Chicken_Coupon_B2", "Q1673_Chicken_Coupon_B2\Q1673_Chicken_Coupon_B2.vcxproj", "{472CEFD8-2863-4A28-85C1-D171B7EEC474}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2592_Representative_Value_B2", "Q2592_Representative_Value_B2\Q2592_Representative_Value_B2.vcxproj", "{B7F98BA3-60FF-4F57-B933-046A50BECBBB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2033_Rounding_B1", "Q2033_Rounding_B1\Q2033_Rounding_B1.vcxproj", "{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,14 @@ Global
 		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x64.Build.0 = Release|x64
 		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x86.ActiveCfg = Release|Win32
 		{B7F98BA3-60FF-4F57-B933-046A50BECBBB}.Release|x86.Build.0 = Release|Win32
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Debug|x64.ActiveCfg = Debug|x64
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Debug|x64.Build.0 = Debug|x64
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Debug|x86.Build.0 = Debug|Win32
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Release|x64.ActiveCfg = Release|x64
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Release|x64.Build.0 = Release|x64
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Release|x86.ActiveCfg = Release|Win32
+		{2E3C228E-EE41-487E-B822-E7CB2CB07EA1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
