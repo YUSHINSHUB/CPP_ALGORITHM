@@ -20,39 +20,9 @@ int main()
 	cout.tie(NULL);
 
 	int n;
-	cin >> n;
-	string inp;
-	bool b = true;
+	
 
-	for (int i = 0; i < n; i++) {
-		b = true;
-		cin >> inp;
-		int cnt[26] = { 0, };
 
-		for (int j = 0; j < inp.length(); j++) {
-			cnt[inp[j] - 'A']++;
-			if (cnt[inp[j] - 'A'] == 3) {
-				if (j != inp.length() - 1) {
-					if (inp[j] != inp[j + 1]) {
-						b = false;
-						break;
-					}
-					else {
-						cnt[inp[j] - 'A'] = -1;
-					}
-				}
-				else {
-					b = false;
-					break;
-				}
-			}
-		}
-
-		if (b)
-			cout << "OK\n";
-		else
-			cout << "FAKE\n";
-	}
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

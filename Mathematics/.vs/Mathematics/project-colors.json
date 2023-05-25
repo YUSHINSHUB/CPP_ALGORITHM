@@ -155,7 +155,17 @@
       "ProjectGuid": "b7f98ba3-60ff-4f57-b933-046a50becbbb",
       "DisplayName": "Q2592_Representative_Value_B2",
       "ColorIndex": 14
+    },
+    "2e3c228e-ee41-487e-b822-e7cb2cb07ea1": {
+      "ProjectGuid": "2e3c228e-ee41-487e-b822-e7cb2cb07ea1",
+      "DisplayName": "Q2033_Rounding_B1",
+      "ColorIndex": 15
+    },
+    "3a96da87-c257-4267-a9ee-674f792c0226": {
+      "ProjectGuid": "3a96da87-c257-4267-a9ee-674f792c0226",
+      "DisplayName": "Q11070_Pythagorean_Expectation_B1",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }
