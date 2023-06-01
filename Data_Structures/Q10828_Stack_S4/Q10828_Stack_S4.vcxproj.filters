@@ -19,4 +19,7 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Q2810_Cup_Holder_B1\Q2810_Cup_Holder_B1.vcxproj.user" />
+  </ItemGroup>
 </Project>

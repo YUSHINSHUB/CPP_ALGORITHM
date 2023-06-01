@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Q10828_Stack_S4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Q2810_Cup_Holder_B1\Q2810_Cup_Holder_B1.vcxproj.user" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
