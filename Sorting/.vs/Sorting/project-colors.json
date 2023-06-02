@@ -45,6 +45,11 @@
       "ProjectGuid": "096cf1cc-1832-42ba-ad35-ee534fb1db25",
       "DisplayName": "Q3845_Mower_B1",
       "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 9

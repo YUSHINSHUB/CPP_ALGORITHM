@@ -85,7 +85,12 @@
       "ProjectGuid": "1b484528-a99b-4965-87a4-3489cb2aa74b",
       "DisplayName": "Q1251_Word_Segmentation_S5",
       "ColorIndex": 0
+    },
+    "c2ccbb96-d3b6-4d6e-be51-198dc2368929": {
+      "ProjectGuid": "c2ccbb96-d3b6-4d6e-be51-198dc2368929",
+      "DisplayName": "Q2596_Secret_Letter_B1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

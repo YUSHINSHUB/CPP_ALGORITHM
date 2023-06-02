@@ -60,7 +60,12 @@
       "ProjectGuid": "c691c9fa-985d-4b85-a1b6-f56b7404d83a",
       "DisplayName": "Q11279_Maximum_Heap_S2",
       "ColorIndex": 11
+    },
+    "8ae979cf-f4b1-467e-a798-1185d16ed0af": {
+      "ProjectGuid": "8ae979cf-f4b1-467e-a798-1185d16ed0af",
+      "DisplayName": "Q13414_Course_Registration_S3",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

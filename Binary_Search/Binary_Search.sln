@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2110_Install_Router_G4", "Q2110_Install_Router_G4\Q2110_Install_Router_G4.vcxproj", "{4EADA395-EBDD-414B-AF81-F87DD8E0A320}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2512_Budget_S3", "Q2512_Budget_S3\Q2512_Budget_S3.vcxproj", "{08FCF494-290A-4EAA-95CE-880C1E200386}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q18084_Expeditious_Cubing_S3", "Q18084_Expeditious_Cubing_S3\Q18084_Expeditious_Cubing_S3.vcxproj", "{38591F94-613E-4722-B3F8-0B2EBB3CF83E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1654_Cut_Lan_Cable_S2", "Q1654_Cut_Lan_Cable_S2\Q1654_Cut_Lan_Cable_S2.vcxproj", "{3AD61A97-67BA-40C6-BAA7-0620239AA704}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13777_Hunt_the_Rabbit_B1", "Q13777_Hunt_the_Rabbit_B1\Q13777_Hunt_the_Rabbit_B1.vcxproj", "{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,14 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Debug|x64.ActiveCfg = Debug|x64
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Debug|x64.Build.0 = Debug|x64
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Debug|x86.ActiveCfg = Debug|Win32
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Debug|x86.Build.0 = Debug|Win32
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Release|x64.ActiveCfg = Release|x64
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Release|x64.Build.0 = Release|x64
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Release|x86.ActiveCfg = Release|Win32
-		{4EADA395-EBDD-414B-AF81-F87DD8E0A320}.Release|x86.Build.0 = Release|Win32
 		{08FCF494-290A-4EAA-95CE-880C1E200386}.Debug|x64.ActiveCfg = Debug|x64
 		{08FCF494-290A-4EAA-95CE-880C1E200386}.Debug|x64.Build.0 = Debug|x64
 		{08FCF494-290A-4EAA-95CE-880C1E200386}.Debug|x86.ActiveCfg = Debug|Win32
@@ -41,6 +35,22 @@ Global
 		{38591F94-613E-4722-B3F8-0B2EBB3CF83E}.Release|x64.Build.0 = Release|x64
 		{38591F94-613E-4722-B3F8-0B2EBB3CF83E}.Release|x86.ActiveCfg = Release|Win32
 		{38591F94-613E-4722-B3F8-0B2EBB3CF83E}.Release|x86.Build.0 = Release|Win32
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Debug|x64.ActiveCfg = Debug|x64
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Debug|x64.Build.0 = Debug|x64
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Debug|x86.ActiveCfg = Debug|Win32
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Debug|x86.Build.0 = Debug|Win32
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Release|x64.ActiveCfg = Release|x64
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Release|x64.Build.0 = Release|x64
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Release|x86.ActiveCfg = Release|Win32
+		{3AD61A97-67BA-40C6-BAA7-0620239AA704}.Release|x86.Build.0 = Release|Win32
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Debug|x64.ActiveCfg = Debug|x64
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Debug|x64.Build.0 = Debug|x64
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Debug|x86.Build.0 = Debug|Win32
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Release|x64.ActiveCfg = Release|x64
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Release|x64.Build.0 = Release|x64
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Release|x86.ActiveCfg = Release|Win32
+		{9C7C6801-29DD-4AC5-AEDA-27C26DA39A94}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

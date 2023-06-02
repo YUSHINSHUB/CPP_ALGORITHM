@@ -275,6 +275,11 @@
       "ProjectGuid": "a1e67bb3-d95c-4f8b-b129-a1f7618ed832",
       "DisplayName": "Q4659_Pronounce_PW_S5",
       "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 7

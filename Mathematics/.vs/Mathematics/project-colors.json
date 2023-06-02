@@ -165,7 +165,22 @@
       "ProjectGuid": "3a96da87-c257-4267-a9ee-674f792c0226",
       "DisplayName": "Q11070_Pythagorean_Expectation_B1",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "928d2935-cda7-47bb-8160-350f380d3299": {
+      "ProjectGuid": "928d2935-cda7-47bb-8160-350f380d3299",
+      "DisplayName": "Q1312_Decimal",
+      "ColorIndex": 1
+    },
+    "e3f4be96-f572-4a1b-854b-12d74f2d5b66": {
+      "ProjectGuid": "e3f4be96-f572-4a1b-854b-12d74f2d5b66",
+      "DisplayName": "Q1312_Decimal_S5",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
