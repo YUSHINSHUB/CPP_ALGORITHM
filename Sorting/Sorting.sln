@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2750_Sort_Numbers_B2", "Q2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17224_Subtask_Competition_B1", "Q17224_Subtask_Competition_B1\Q17224_Subtask_Competition_B1.vcxproj", "{D0E8179E-92F8-4B86-BDF8-F6AB1CD27B32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11652_Card_S4", "Q11652_Card_S4\Q11652_Card_S4.vcxproj", "{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{D0E8179E-92F8-4B86-BDF8-F6AB1CD27B32}.Release|x64.Build.0 = Release|x64
 		{D0E8179E-92F8-4B86-BDF8-F6AB1CD27B32}.Release|x86.ActiveCfg = Release|Win32
 		{D0E8179E-92F8-4B86-BDF8-F6AB1CD27B32}.Release|x86.Build.0 = Release|Win32
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Debug|x64.ActiveCfg = Debug|x64
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Debug|x64.Build.0 = Debug|x64
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Debug|x86.Build.0 = Debug|Win32
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Release|x64.ActiveCfg = Release|x64
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Release|x64.Build.0 = Release|x64
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Release|x86.ActiveCfg = Release|Win32
+		{AA105AB1-ED5C-4517-8DB6-4EB57FB42AAF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
