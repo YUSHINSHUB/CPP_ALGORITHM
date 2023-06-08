@@ -50,7 +50,12 @@
       "ProjectGuid": "dbd07d88-679c-4b91-87c8-ee57824e4da1",
       "DisplayName": "Q1439_Flip_S5",
       "ColorIndex": 8
+    },
+    "8b01cefd-262c-4dab-8253-a7b73fe035a7": {
+      "ProjectGuid": "8b01cefd-262c-4dab-8253-a7b73fe035a7",
+      "DisplayName": "Q13305_Gas_Station_S3",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
