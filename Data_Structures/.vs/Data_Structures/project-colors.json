@@ -65,7 +65,12 @@
       "ProjectGuid": "8ae979cf-f4b1-467e-a798-1185d16ed0af",
       "DisplayName": "Q13414_Course_Registration_S3",
       "ColorIndex": 12
+    },
+    "9cd46ec3-7a77-4a78-b977-80981606e036": {
+      "ProjectGuid": "9cd46ec3-7a77-4a78-b977-80981606e036",
+      "DisplayName": "Q20923_HalliGalli_S1",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
