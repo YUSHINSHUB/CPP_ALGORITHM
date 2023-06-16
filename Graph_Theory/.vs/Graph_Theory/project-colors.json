@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "50da121d-d2ca-4e85-aa62-606b5461a3e3": {
+      "ProjectGuid": "50da121d-d2ca-4e85-aa62-606b5461a3e3",
+      "DisplayName": "Q11558_The_Game_of_Death_S4",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
