@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{203ea095-c922-4258-8cda-7b9a2a984448}</ProjectGuid>
-    <RootNamespace>Q2605LineB2</RootNamespace>
+    <ProjectGuid>{dc4197ba-0ecd-4ae6-8237-f7cedb31ac0f}</ProjectGuid>
+    <RootNamespace>Q2605LINEB2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Q2605_Line_B2.cpp" />
+    <ClCompile Include="Q2605_LINE_B2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

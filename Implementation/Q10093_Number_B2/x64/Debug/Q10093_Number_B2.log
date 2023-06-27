@@ -1,4 +1,0 @@
-﻿  Q10093_Number_B2.cpp
-C:\Users\New Serface pro\Desktop\C_WORKSPACE\Implementation\Q10093_Number_B2\Q10093_Number_B2.cpp(14,13): warning C4244: '초기화 중': '__int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\New Serface pro\Desktop\C_WORKSPACE\Implementation\Q10093_Number_B2\Q10093_Number_B2.cpp(24,15): warning C4244: '초기화 중': '__int64'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Q10093_Number_B2.vcxproj -> C:\Users\New Serface pro\Desktop\C_WORKSPACE\Implementation\x64\Debug\Q10093_Number_B2.exe

@@ -1,21 +1,46 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "07acb137-8472-43cc-a82d-9c60dd681d21": {
-      "ProjectGuid": "07acb137-8472-43cc-a82d-9c60dd681d21",
-      "DisplayName": "Q23814_Order_Fried_Rice_S3",
+    "2321a6f9-c9f7-4ed1-bbbe-49c4fb655b7d": {
+      "ProjectGuid": "2321a6f9-c9f7-4ed1-bbbe-49c4fb655b7d",
+      "DisplayName": "Q18108_From2541_B5",
       "ColorIndex": 0
     },
-    "450c7851-fdc5-4d23-8428-8eb99b2b653c": {
-      "ProjectGuid": "450c7851-fdc5-4d23-8428-8eb99b2b653c",
-      "DisplayName": "Q14551_Card_Game_Contest_B2",
+    "edc7c6bc-a30d-4624-99bf-e886427230d6": {
+      "ProjectGuid": "edc7c6bc-a30d-4624-99bf-e886427230d6",
+      "DisplayName": "Q2884_Alarm_B3",
       "ColorIndex": 1
     },
-    "fd588f81-0f23-4c68-b11e-19c267e7328e": {
-      "ProjectGuid": "fd588f81-0f23-4c68-b11e-19c267e7328e",
-      "DisplayName": "Q13987_Six_Sides",
+    "3aefa9bc-d06f-45f6-bef1-2ff8a42dcfc2": {
+      "ProjectGuid": "3aefa9bc-d06f-45f6-bef1-2ff8a42dcfc2",
+      "DisplayName": "Q2588_Multiplication_B3",
       "ColorIndex": 2
+    },
+    "3766707f-3738-48bc-adde-ee59dcd0f53a": {
+      "ProjectGuid": "3766707f-3738-48bc-adde-ee59dcd0f53a",
+      "DisplayName": "Q2525_Oven_B3",
+      "ColorIndex": 3
+    },
+    "9c343d6d-5969-4d9e-b008-79ba033a22d4": {
+      "ProjectGuid": "9c343d6d-5969-4d9e-b008-79ba033a22d4",
+      "DisplayName": "Q1712_Breakeven_B2",
+      "ColorIndex": 4
+    },
+    "8d90ca36-8ba6-4d2b-8762-54cdece41326": {
+      "ProjectGuid": "8d90ca36-8ba6-4d2b-8762-54cdece41326",
+      "DisplayName": "Q3052_Modulo_B2",
+      "ColorIndex": 5
+    },
+    "0b3c2a41-877b-4f96-8a00-0cfd177bdb9f": {
+      "ProjectGuid": "0b3c2a41-877b-4f96-8a00-0cfd177bdb9f",
+      "DisplayName": "Q4344_AVERAGE_B1",
+      "ColorIndex": 6
+    },
+    "a25ac111-05f1-4f8e-a154-0d1ddf72db22": {
+      "ProjectGuid": "a25ac111-05f1-4f8e-a154-0d1ddf72db22",
+      "DisplayName": "Q1546_AVERAGE_B1",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 8
 }

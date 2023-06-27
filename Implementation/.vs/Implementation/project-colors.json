@@ -1,286 +1,126 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "460931f8-79a9-46fd-b687-f98eca466f1b": {
-      "ProjectGuid": "460931f8-79a9-46fd-b687-f98eca466f1b",
-      "DisplayName": "Q2615_Omok_S1",
+    "aaf49941-1f39-4fda-a22e-5cbf0bb0b3fd": {
+      "ProjectGuid": "aaf49941-1f39-4fda-a22e-5cbf0bb0b3fd",
+      "DisplayName": "Q1008_AdivdeB_B5",
       "ColorIndex": 0
     },
-    "d2cc5144-13db-4024-a74c-05525d979020": {
-      "ProjectGuid": "d2cc5144-13db-4024-a74c-05525d979020",
-      "DisplayName": "Q18111_Minecraft_S2",
+    "60a8df23-d8ac-4e50-9e06-da5cd2a17f5c": {
+      "ProjectGuid": "60a8df23-d8ac-4e50-9e06-da5cd2a17f5c",
+      "DisplayName": "Q2557_Hello_World_B5",
       "ColorIndex": 1
     },
-    "795d8c75-b271-49fc-9a15-7c19fdb92d9c": {
-      "ProjectGuid": "795d8c75-b271-49fc-9a15-7c19fdb92d9c",
-      "DisplayName": "Q2108_Statistics_S3",
+    "4783d1c8-c877-482e-907b-5ebe1aa0ef93": {
+      "ProjectGuid": "4783d1c8-c877-482e-907b-5ebe1aa0ef93",
+      "DisplayName": "Q10869_Arithmetic_B5",
       "ColorIndex": 2
     },
-    "e0873592-abea-4093-bfa1-8cca397713b8": {
-      "ProjectGuid": "e0873592-abea-4093-bfa1-8cca397713b8",
-      "DisplayName": "Q1614_Finger_S3",
+    "f4e225fe-d21c-41d9-bfae-dd7f60a9dde3": {
+      "ProjectGuid": "f4e225fe-d21c-41d9-bfae-dd7f60a9dde3",
+      "DisplayName": "Q10926_qqe_B5",
       "ColorIndex": 3
     },
-    "fe2b95fc-688e-41cd-987f-e7837241bb0c": {
-      "ProjectGuid": "fe2b95fc-688e-41cd-987f-e7837241bb0c",
-      "DisplayName": "Q2491_Sequence_S4",
+    "841c2dcd-1487-45cd-a619-b4d016ebf8c3": {
+      "ProjectGuid": "841c2dcd-1487-45cd-a619-b4d016ebf8c3",
+      "DisplayName": "Q10171_Cat_B5",
       "ColorIndex": 4
     },
-    "4135a9c5-1eaf-4fbd-9437-c1493178190d": {
-      "ProjectGuid": "4135a9c5-1eaf-4fbd-9437-c1493178190d",
-      "DisplayName": "Q4673_Self_Number_S5",
+    "88c01f02-94fb-4bc2-a92e-549d28a918a6": {
+      "ProjectGuid": "88c01f02-94fb-4bc2-a92e-549d28a918a6",
+      "DisplayName": "Q10172_Dog_B5",
       "ColorIndex": 5
     },
-    "c2d1123b-8d12-44e1-aa32-fb06a2ce5ae2": {
-      "ProjectGuid": "c2d1123b-8d12-44e1-aa32-fb06a2ce5ae2",
-      "DisplayName": "Q11723_Set_S5",
+    "5afe9015-97ec-47c3-b19d-caccfced38c6": {
+      "ProjectGuid": "5afe9015-97ec-47c3-b19d-caccfced38c6",
+      "DisplayName": "Q1330_Compare_Two_Numbers_B5",
       "ColorIndex": 6
     },
-    "07dbb6b7-3388-4d20-902a-3a8f3b1fb7a3": {
-      "ProjectGuid": "07dbb6b7-3388-4d20-902a-3a8f3b1fb7a3",
-      "DisplayName": "Q1157_Word_Study_B1",
+    "19937560-03ec-4fa0-b413-bdd1e26ff728": {
+      "ProjectGuid": "19937560-03ec-4fa0-b413-bdd1e26ff728",
+      "DisplayName": "Q2438_Star_1_B5",
       "ColorIndex": 7
     },
-    "665e173f-03a4-4b3b-aeb2-8852116d037e": {
-      "ProjectGuid": "665e173f-03a4-4b3b-aeb2-8852116d037e",
-      "DisplayName": "Q1259_Palindrome_Number_B1",
+    "939854b5-17e6-4a98-8d12-18a05869593b": {
+      "ProjectGuid": "939854b5-17e6-4a98-8d12-18a05869593b",
+      "DisplayName": "Q2741_N_B5",
       "ColorIndex": 8
     },
-    "422bc21a-9c78-4a72-a446-1bffc921801f": {
-      "ProjectGuid": "422bc21a-9c78-4a72-a446-1bffc921801f",
-      "DisplayName": "Q1032_Command_Prompt_B1",
+    "7efd9137-e874-4ed4-a49a-b4b8c8b2e8b0": {
+      "ProjectGuid": "7efd9137-e874-4ed4-a49a-b4b8c8b2e8b0",
+      "DisplayName": "Q9498_Grade_B5",
       "ColorIndex": 9
     },
-    "8b70e0d7-cbcc-45e6-ac54-3f9bf1a2780a": {
-      "ProjectGuid": "8b70e0d7-cbcc-45e6-ac54-3f9bf1a2780a",
-      "DisplayName": "Q9093_Reverse_Words_B1",
+    "3fa3bc84-bdc5-40ed-99b2-a758b4ff3b9f": {
+      "ProjectGuid": "3fa3bc84-bdc5-40ed-99b2-a758b4ff3b9f",
+      "DisplayName": "Q10871_Smaller_B5",
       "ColorIndex": 10
     },
-    "70468e9c-f0a3-4f31-990c-69f0a6ef3cec": {
-      "ProjectGuid": "70468e9c-f0a3-4f31-990c-69f0a6ef3cec",
-      "DisplayName": "Q3985_Swiss_Roll_B1",
+    "98370d3e-06b2-4864-9acf-1a59642bdf2a": {
+      "ProjectGuid": "98370d3e-06b2-4864-9acf-1a59642bdf2a",
+      "DisplayName": "Q11654_ASCII_B5",
       "ColorIndex": 11
     },
-    "9c7c6801-29dd-4ac5-aeda-27c26da39a94": {
-      "ProjectGuid": "9c7c6801-29dd-4ac5-aeda-27c26da39a94",
-      "DisplayName": "Q13777_Hunt_the_Rabbit_B1",
+    "2f581983-63f9-485a-804d-b6000c4c766f": {
+      "ProjectGuid": "2f581983-63f9-485a-804d-b6000c4c766f",
+      "DisplayName": "Q25083_Sprout_B5",
       "ColorIndex": 12
     },
-    "7b8e6030-0346-4219-907c-616d462df93e": {
-      "ProjectGuid": "7b8e6030-0346-4219-907c-616d462df93e",
-      "DisplayName": "Q2577_Number_of_Numbers_B1",
+    "c41c72cd-f543-42b6-9764-630b5d7cb4c2": {
+      "ProjectGuid": "c41c72cd-f543-42b6-9764-630b5d7cb4c2",
+      "DisplayName": "Q2439_Star_2_B4",
       "ColorIndex": 13
     },
-    "9354b62c-d047-49d4-bb7b-79be96dc81ca": {
-      "ProjectGuid": "9354b62c-d047-49d4-bb7b-79be96dc81ca",
-      "DisplayName": "Q1152_Number_of_Words_B2",
+    "53421209-3dcc-4f5c-8194-656e9c0fa2f8": {
+      "ProjectGuid": "53421209-3dcc-4f5c-8194-656e9c0fa2f8",
+      "DisplayName": "Q2742_N_B4",
       "ColorIndex": 14
     },
-    "5969bd38-3b4a-47c2-ac5e-2692b3be30e4": {
-      "ProjectGuid": "5969bd38-3b4a-47c2-ac5e-2692b3be30e4",
-      "DisplayName": "Q10809_Search_Alphabet_B2",
+    "d4b1a73c-9dc0-49ba-a8ac-c36d391ed667": {
+      "ProjectGuid": "d4b1a73c-9dc0-49ba-a8ac-c36d391ed667",
+      "DisplayName": "Q2562_MAX_B3",
       "ColorIndex": 15
     },
-    "6bc6b040-9a4f-42db-8293-13aafffaf47a": {
-      "ProjectGuid": "6bc6b040-9a4f-42db-8293-13aafffaf47a",
-      "DisplayName": "Q2675_String_Repeater_B2",
+    "1b00eb53-977c-4a09-a947-c654a0a7b975": {
+      "ProjectGuid": "1b00eb53-977c-4a09-a947-c654a0a7b975",
+      "DisplayName": "Q25304_Receipt_B5",
       "ColorIndex": 0
     },
-    "7a2334b1-d6d3-4822-bea6-53e61e593371": {
-      "ProjectGuid": "7a2334b1-d6d3-4822-bea6-53e61e593371",
-      "DisplayName": "Q2750_Sort_Numbers_B2",
+    "512758e7-b25e-4ccd-8bb8-402034c03b33": {
+      "ProjectGuid": "512758e7-b25e-4ccd-8bb8-402034c03b33",
+      "DisplayName": "Q25314_Physic_B5",
       "ColorIndex": 1
     },
-    "a583eac4-bc0c-4bbe-bf20-0c2a66f516c9": {
-      "ProjectGuid": "a583eac4-bc0c-4bbe-bf20-0c2a66f516c9",
-      "DisplayName": "Q10988_Check_Palindrome_B2",
+    "7ad02209-d652-44b8-b4ac-cec90cd3d7de": {
+      "ProjectGuid": "7ad02209-d652-44b8-b4ac-cec90cd3d7de",
+      "DisplayName": "Q10807_Count_B5",
       "ColorIndex": 2
     },
-    "bda0024f-59d2-43c8-917d-c61e73c4f597": {
-      "ProjectGuid": "bda0024f-59d2-43c8-917d-c61e73c4f597",
-      "DisplayName": "Q2587_Mean_Value_2_B2",
+    "5146307b-2f3d-4e5a-a40d-12bba4a53fa5": {
+      "ProjectGuid": "5146307b-2f3d-4e5a-a40d-12bba4a53fa5",
+      "DisplayName": "Q5597_Not_Submitted_B5",
       "ColorIndex": 3
     },
-    "1fdde2a4-6b08-44a9-9a42-c6cbf80ad6c9": {
-      "ProjectGuid": "1fdde2a4-6b08-44a9-9a42-c6cbf80ad6c9",
-      "DisplayName": "Q1977_Perfect_Square_B2",
+    "39ae0ebe-47f8-4a8e-aaa4-319cb7b48c12": {
+      "ProjectGuid": "39ae0ebe-47f8-4a8e-aaa4-319cb7b48c12",
+      "DisplayName": "Q15596_SUM_B2",
       "ColorIndex": 4
     },
-    "d8e4fd65-030f-48c9-b7e7-809bf2c6a18b": {
-      "ProjectGuid": "d8e4fd65-030f-48c9-b7e7-809bf2c6a18b",
-      "DisplayName": "Q1212_Octal_to_Binary_B2",
+    "042640a7-6041-4c71-9467-d83ec5f1cd72": {
+      "ProjectGuid": "042640a7-6041-4c71-9467-d83ec5f1cd72",
+      "DisplayName": "Q10870_FIBONACCI_5_B2",
       "ColorIndex": 5
     },
-    "08528aac-08ac-48ab-93d4-aa937be1b1a0": {
-      "ProjectGuid": "08528aac-08ac-48ab-93d4-aa937be1b1a0",
-      "DisplayName": "Q10820_String_Analysis_B2",
+    "477d992c-c8ca-4679-8b27-0ffb06274074": {
+      "ProjectGuid": "477d992c-c8ca-4679-8b27-0ffb06274074",
+      "DisplayName": "Q2920_SCALE_B2",
       "ColorIndex": 6
     },
-    "38ad8018-fefb-49c4-9f58-8fd8ff19f768": {
-      "ProjectGuid": "38ad8018-fefb-49c4-9f58-8fd8ff19f768",
-      "DisplayName": "Q1159_Basketball_Game_B2",
+    "439145b0-1841-48b0-9a26-183cd9d45fac": {
+      "ProjectGuid": "439145b0-1841-48b0-9a26-183cd9d45fac",
+      "DisplayName": "Q2775_Women_President_B1",
       "ColorIndex": 7
-    },
-    "203ea095-c922-4258-8cda-7b9a2a984448": {
-      "ProjectGuid": "203ea095-c922-4258-8cda-7b9a2a984448",
-      "DisplayName": "Q2605_Line_B2",
-      "ColorIndex": 8
-    },
-    "3ce4a325-ced6-496c-a5af-40ea1efe938e": {
-      "ProjectGuid": "3ce4a325-ced6-496c-a5af-40ea1efe938e",
-      "DisplayName": "Q6359_Drunken_B2",
-      "ColorIndex": 9
-    },
-    "84834f94-ea3e-4cc9-b739-6f16f6bb88b9": {
-      "ProjectGuid": "84834f94-ea3e-4cc9-b739-6f16f6bb88b9",
-      "DisplayName": "Q1225_Strange_Multiplication_B2",
-      "ColorIndex": 10
-    },
-    "65926b17-7818-4343-ab75-6177c07c0e1b": {
-      "ProjectGuid": "65926b17-7818-4343-ab75-6177c07c0e1b",
-      "DisplayName": "Q2355_Sigma_B2",
-      "ColorIndex": 11
-    },
-    "575e5b17-f538-4a1f-9b57-12cbdcf730b1": {
-      "ProjectGuid": "575e5b17-f538-4a1f-9b57-12cbdcf730b1",
-      "DisplayName": "Q1173_Exercise_B2",
-      "ColorIndex": 12
-    },
-    "69fbe52f-5bb9-46ff-ab01-c644746d578a": {
-      "ProjectGuid": "69fbe52f-5bb9-46ff-ab01-c644746d578a",
-      "DisplayName": "Q6502_Pizza_B2",
-      "ColorIndex": 13
-    },
-    "f06ca5bb-1b1f-4b4d-9767-5796737d4062": {
-      "ProjectGuid": "f06ca5bb-1b1f-4b4d-9767-5796737d4062",
-      "DisplayName": "Q10250_ACM_Hotel_B3",
-      "ColorIndex": 14
-    },
-    "98c2ea70-9f96-45b0-ab31-594922fe88d5": {
-      "ProjectGuid": "98c2ea70-9f96-45b0-ab31-594922fe88d5",
-      "DisplayName": "Q11721_10_Char_per_Line_B3",
-      "ColorIndex": 15
-    },
-    "0c7a8d8d-0f54-4dc2-875d-75b59d09dd22": {
-      "ProjectGuid": "0c7a8d8d-0f54-4dc2-875d-75b59d09dd22",
-      "DisplayName": "Q11719_Keep_Input_B3",
-      "ColorIndex": 0
-    },
-    "929e6d1f-4c79-4c60-8898-d6da881e1f4c": {
-      "ProjectGuid": "929e6d1f-4c79-4c60-8898-d6da881e1f4c",
-      "DisplayName": "Q2442_Print_Star_5_B3",
-      "ColorIndex": 1
-    },
-    "30d6f117-7d0e-4ff5-bab7-ddf19bf72815": {
-      "ProjectGuid": "30d6f117-7d0e-4ff5-bab7-ddf19bf72815",
-      "DisplayName": "Q2446_Print_Star_9_B3",
-      "ColorIndex": 2
-    },
-    "9ea91016-6cb4-4bb3-b0e3-c687edc4ccd5": {
-      "ProjectGuid": "9ea91016-6cb4-4bb3-b0e3-c687edc4ccd5",
-      "DisplayName": "Q2445_Print_Star_8_B3",
-      "ColorIndex": 3
-    },
-    "2056ab70-4d77-4013-ae95-294b56cf092c": {
-      "ProjectGuid": "2056ab70-4d77-4013-ae95-294b56cf092c",
-      "DisplayName": "Q2443_Print_Star_6_B3",
-      "ColorIndex": 4
-    },
-    "5202bfaf-b98b-418a-a937-285a89e1acac": {
-      "ProjectGuid": "5202bfaf-b98b-418a-a937-285a89e1acac",
-      "DisplayName": "Q2523_Print_Star_13_B3",
-      "ColorIndex": 5
-    },
-    "e036bf2a-ec84-4925-9b57-707281f68ddc": {
-      "ProjectGuid": "e036bf2a-ec84-4925-9b57-707281f68ddc",
-      "DisplayName": "Q10162_Microwave_B3",
-      "ColorIndex": 6
-    },
-    "ec1b47b1-ab5d-4363-975d-65a574cd0922": {
-      "ProjectGuid": "ec1b47b1-ab5d-4363-975d-65a574cd0922",
-      "DisplayName": "Q10824_Four_Numb_B3",
-      "ColorIndex": 7
-    },
-    "0fe33bf8-c03a-4163-8264-3555b4fb0e9f": {
-      "ProjectGuid": "0fe33bf8-c03a-4163-8264-3555b4fb0e9f",
-      "DisplayName": "Q10810_Put_Ball_B3",
-      "ColorIndex": 8
-    },
-    "206dabcb-9140-499d-bdb6-b4c6fb4c5a85": {
-      "ProjectGuid": "206dabcb-9140-499d-bdb6-b4c6fb4c5a85",
-      "DisplayName": "Q1547_Ball_B3",
-      "ColorIndex": 9
-    },
-    "e49e4e5d-3cf5-45a5-95b4-8a2916aec27f": {
-      "ProjectGuid": "e49e4e5d-3cf5-45a5-95b4-8a2916aec27f",
-      "DisplayName": "Q5893_Seventeen_Times_B3",
-      "ColorIndex": 10
-    },
-    "f9e398ea-e5ae-4403-96e8-7259c6c53b25": {
-      "ProjectGuid": "f9e398ea-e5ae-4403-96e8-7259c6c53b25",
-      "DisplayName": "Q5355_Mars_Math_B2",
-      "ColorIndex": 11
-    },
-    "2acd963b-8174-4c17-9c1f-e537fad77684": {
-      "ProjectGuid": "2acd963b-8174-4c17-9c1f-e537fad77684",
-      "DisplayName": "Q2566_Max_Value_B3",
-      "ColorIndex": 12
-    },
-    "e05a5b80-4e82-4ea7-adf8-ee60ffa20ce1": {
-      "ProjectGuid": "e05a5b80-4e82-4ea7-adf8-ee60ffa20ce1",
-      "DisplayName": "Q1252_Binary_Addition_B2",
-      "ColorIndex": 13
-    },
-    "75daa0d9-af16-4f5d-bf6f-d4c69eaa04f6": {
-      "ProjectGuid": "75daa0d9-af16-4f5d-bf6f-d4c69eaa04f6",
-      "DisplayName": "Q2490_Yutnori_B3",
-      "ColorIndex": 14
-    },
-    "265c100e-129e-4798-b1ec-0accd6ba8f47": {
-      "ProjectGuid": "265c100e-129e-4798-b1ec-0accd6ba8f47",
-      "DisplayName": "Q10093_Number_B2",
-      "ColorIndex": 15
-    },
-    "43d95124-227a-4149-937a-1d08659d5a24": {
-      "ProjectGuid": "43d95124-227a-4149-937a-1d08659d5a24",
-      "DisplayName": "Q1652_Place_to_Lie_S5",
-      "ColorIndex": 0
-    },
-    "ba51103b-b966-4ee7-89b2-f20f78648c7d": {
-      "ProjectGuid": "ba51103b-b966-4ee7-89b2-f20f78648c7d",
-      "DisplayName": "Q16916_Substring_B2",
-      "ColorIndex": 1
-    },
-    "46590817-8b5a-4448-b090-8747d733f57b": {
-      "ProjectGuid": "46590817-8b5a-4448-b090-8747d733f57b",
-      "DisplayName": "Q10424_Algorithm_Final_Exam_S2",
-      "ColorIndex": 2
-    },
-    "390279b4-0a00-48d7-a61d-478243b7a274": {
-      "ProjectGuid": "390279b4-0a00-48d7-a61d-478243b7a274",
-      "DisplayName": "Q1769_Multiple_of_3_S5",
-      "ColorIndex": 3
-    },
-    "44fce1e5-50cd-4aec-b50a-68733d5630ae": {
-      "ProjectGuid": "44fce1e5-50cd-4aec-b50a-68733d5630ae",
-      "DisplayName": "Q5598_CaesarCipher_B2",
-      "ColorIndex": 4
-    },
-    "c1856168-b35d-434d-bb73-0f7974580f01": {
-      "ProjectGuid": "c1856168-b35d-434d-bb73-0f7974580f01",
-      "DisplayName": "Q10812_Rearrange_Basket_B2",
-      "ColorIndex": 5
-    },
-    "a1e67bb3-d95c-4f8b-b129-a1f7618ed832": {
-      "ProjectGuid": "a1e67bb3-d95c-4f8b-b129-a1f7618ed832",
-      "DisplayName": "Q4659_Pronounce_PW_S5",
-      "ColorIndex": 6
-    },
-    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
-      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
-      "DisplayName": "기타 파일",
-      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

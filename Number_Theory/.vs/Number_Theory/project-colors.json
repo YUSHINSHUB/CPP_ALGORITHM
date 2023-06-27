@@ -1,76 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "91aa82c7-9ac8-4d3b-b8ed-de1e73b19852": {
-      "ProjectGuid": "91aa82c7-9ac8-4d3b-b8ed-de1e73b19852",
-      "DisplayName": "Q6064_Chinese_Remainder_Theorem_S1",
+    "a327ba90-32ec-4807-984d-d8f8d12b8ae4": {
+      "ProjectGuid": "a327ba90-32ec-4807-984d-d8f8d12b8ae4",
+      "DisplayName": "Q1978_PRIME_B2",
       "ColorIndex": 0
     },
-    "7759ab16-771c-4d03-a902-a3fa6f1c3aa7": {
-      "ProjectGuid": "7759ab16-771c-4d03-a902-a3fa6f1c3aa7",
-      "DisplayName": "Q6588_Goldbach_Conjecture_S1",
-      "ColorIndex": 1
-    },
-    "3070c828-2a2a-445f-ab1e-273f6bf66733": {
-      "ProjectGuid": "3070c828-2a2a-445f-ab1e-273f6bf66733",
-      "DisplayName": "Q1850_GCD_S1",
-      "ColorIndex": 2
-    },
-    "bd1cec21-f88e-41ef-a92d-75c4cd6cd3be": {
-      "ProjectGuid": "bd1cec21-f88e-41ef-a92d-75c4cd6cd3be",
-      "DisplayName": "Q1747_Prime_Palindrome_S1",
-      "ColorIndex": 3
-    },
-    "7ec25341-8309-499a-83b0-4a7c1a232366": {
-      "ProjectGuid": "7ec25341-8309-499a-83b0-4a7c1a232366",
-      "DisplayName": "Q9020_Goldbach_Conjecture_S2",
-      "ColorIndex": 4
-    },
-    "bdd3fa1b-2736-40de-9e1e-0dbf66ba7180": {
-      "ProjectGuid": "bdd3fa1b-2736-40de-9e1e-0dbf66ba7180",
-      "DisplayName": "Q17103_Goldbach_Conjecture_S2",
-      "ColorIndex": 5
-    },
-    "b1238eee-7fe5-414c-98a8-765fe2f50e3e": {
-      "ProjectGuid": "b1238eee-7fe5-414c-98a8-765fe2f50e3e",
-      "DisplayName": "Q1929_Find_Prime_Number_S3",
-      "ColorIndex": 6
-    },
-    "d352d326-cd4b-4190-af4d-f2435080d9ad": {
-      "ProjectGuid": "d352d326-cd4b-4190-af4d-f2435080d9ad",
-      "DisplayName": "Q2960_Sieve_of_Eratosthenes_S4",
-      "ColorIndex": 7
-    },
-    "3e0d77bf-2790-4ef2-9282-7be80942982d": {
-      "ProjectGuid": "3e0d77bf-2790-4ef2-9282-7be80942982d",
-      "DisplayName": "Q9613_GCD_Sum_S4",
-      "ColorIndex": 8
-    },
-    "f3fb0d58-266e-4c42-9cfd-f4a1e305a0ca": {
-      "ProjectGuid": "f3fb0d58-266e-4c42-9cfd-f4a1e305a0ca",
-      "DisplayName": "Q2485_Street_Tree_S4",
-      "ColorIndex": 9
-    },
-    "f430b6f1-8073-4ca1-8f4b-645801570896": {
-      "ProjectGuid": "f430b6f1-8073-4ca1-8f4b-645801570896",
-      "DisplayName": "Q1934_LCM_B1",
-      "ColorIndex": 10
-    },
-    "1663e167-59cd-40a6-a04a-84a58600d6a0": {
-      "ProjectGuid": "1663e167-59cd-40a6-a04a-84a58600d6a0",
-      "DisplayName": "Q1978_Search_Prime_Number_B2",
-      "ColorIndex": 11
-    },
-    "b673fbcd-6306-480b-b208-04b37f13d671": {
-      "ProjectGuid": "b673fbcd-6306-480b-b208-04b37f13d671",
+    "9c98166c-235e-4a10-9a4c-9a8f34563082": {
+      "ProjectGuid": "9c98166c-235e-4a10-9a4c-9a8f34563082",
       "DisplayName": "Q2581_Prime_Number_B2",
-      "ColorIndex": 12
-    },
-    "8c084c58-e88f-42ba-8940-a436a6e7a086": {
-      "ProjectGuid": "8c084c58-e88f-42ba-8940-a436a6e7a086",
-      "DisplayName": "Q2981_Inspection_G4",
-      "ColorIndex": 13
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 2
 }

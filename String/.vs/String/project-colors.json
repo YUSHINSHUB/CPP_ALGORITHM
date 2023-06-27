@@ -1,96 +1,36 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "1172ac9d-ac17-4b97-9c0d-a0763543932e": {
-      "ProjectGuid": "1172ac9d-ac17-4b97-9c0d-a0763543932e",
-      "DisplayName": "Q5430_AC_G5",
+    "d54029ff-8483-45b8-be22-8f40f2bd233b": {
+      "ProjectGuid": "d54029ff-8483-45b8-be22-8f40f2bd233b",
+      "DisplayName": "Q27866_Character_And_String_B5",
       "ColorIndex": 0
     },
-    "46cee291-9f01-40ff-aa68-4329ae4b82a9": {
-      "ProjectGuid": "46cee291-9f01-40ff-aa68-4329ae4b82a9",
-      "DisplayName": "Q4358_Ecology_S2",
+    "6eaa3053-d10e-4bec-89fc-45c577c190d3": {
+      "ProjectGuid": "6eaa3053-d10e-4bec-89fc-45c577c190d3",
+      "DisplayName": "Q1152_WORDS_B2",
       "ColorIndex": 1
     },
-    "89fa73f1-52d2-415a-b5d6-698843b338df": {
-      "ProjectGuid": "89fa73f1-52d2-415a-b5d6-698843b338df",
-      "DisplayName": "Q1254_Make_Palindrome_S2",
+    "ccb44ccd-9baf-43b1-874f-2fde940ba39f": {
+      "ProjectGuid": "ccb44ccd-9baf-43b1-874f-2fde940ba39f",
+      "DisplayName": "Q8958_OX_B2",
       "ColorIndex": 2
     },
-    "e80facc4-e895-4ef0-beec-28bf19030da3": {
-      "ProjectGuid": "e80facc4-e895-4ef0-beec-28bf19030da3",
-      "DisplayName": "Q12891_DNA_Password_S2",
+    "f28b0bdb-2d5e-46e3-bae3-d749002c218b": {
+      "ProjectGuid": "f28b0bdb-2d5e-46e3-bae3-d749002c218b",
+      "DisplayName": "Q10809_APLPHABET_B2",
       "ColorIndex": 3
     },
-    "96fc65f1-1a93-49af-b01f-040555e18b24": {
-      "ProjectGuid": "96fc65f1-1a93-49af-b01f-040555e18b24",
-      "DisplayName": "Q14425_String_Set_S3",
+    "ddbc54c1-f085-4e37-8c66-49836f0ccccf": {
+      "ProjectGuid": "ddbc54c1-f085-4e37-8c66-49836f0ccccf",
+      "DisplayName": "Q2675_Repeat_String_B2",
       "ColorIndex": 4
     },
-    "5c20ba65-bae6-4645-a853-f087b13b4217": {
-      "ProjectGuid": "5c20ba65-bae6-4645-a853-f087b13b4217",
-      "DisplayName": "Q4949_Balanced_World_S4",
+    "30efdd42-79a1-4440-87d1-5a80eed8f8e2": {
+      "ProjectGuid": "30efdd42-79a1-4440-87d1-5a80eed8f8e2",
+      "DisplayName": "Q1157_Voca_Study_B1",
       "ColorIndex": 5
-    },
-    "389b0946-db3e-4b6e-8e38-c83474153f1a": {
-      "ProjectGuid": "389b0946-db3e-4b6e-8e38-c83474153f1a",
-      "DisplayName": "Q1181_Sort_Words_S5",
-      "ColorIndex": 6
-    },
-    "dbd07d88-679c-4b91-87c8-ee57824e4da1": {
-      "ProjectGuid": "dbd07d88-679c-4b91-87c8-ee57824e4da1",
-      "DisplayName": "Q1439_Flip_S5",
-      "ColorIndex": 7
-    },
-    "054acdf4-bcdf-4ce3-b5a4-d7bdeb28fe75": {
-      "ProjectGuid": "054acdf4-bcdf-4ce3-b5a4-d7bdeb28fe75",
-      "DisplayName": "Q2810_Cup_Holder_B1",
-      "ColorIndex": 8
-    },
-    "18f309b1-08f3-411c-a260-553d05780b53": {
-      "ProjectGuid": "18f309b1-08f3-411c-a260-553d05780b53",
-      "DisplayName": "Q6996_Anagram_B1",
-      "ColorIndex": 9
-    },
-    "fdca537c-7924-4afe-9245-4b6f069ee166": {
-      "ProjectGuid": "fdca537c-7924-4afe-9245-4b6f069ee166",
-      "DisplayName": "Q1356_Equidigital_Number_B1",
-      "ColorIndex": 10
-    },
-    "bc515bfe-ce61-4f21-abea-a19ba09ce4c5": {
-      "ProjectGuid": "bc515bfe-ce61-4f21-abea-a19ba09ce4c5",
-      "DisplayName": "Q27930_Believe_in_Destiny_B1",
-      "ColorIndex": 11
-    },
-    "db37b108-c552-4a40-8539-664c8ac8a084": {
-      "ProjectGuid": "db37b108-c552-4a40-8539-664c8ac8a084",
-      "DisplayName": "Q15098_No_Duplicates_B1",
-      "ColorIndex": 12
-    },
-    "a607256a-cd0e-4fca-89e4-442b93dedc6a": {
-      "ProjectGuid": "a607256a-cd0e-4fca-89e4-442b93dedc6a",
-      "DisplayName": "Q15829_Hashing_B2",
-      "ColorIndex": 13
-    },
-    "6f0b9e19-0542-4b2b-8ab5-51888a3bf8b8": {
-      "ProjectGuid": "6f0b9e19-0542-4b2b-8ab5-51888a3bf8b8",
-      "DisplayName": "Q6550_Substring_S5",
-      "ColorIndex": 14
-    },
-    "5596474a-dcca-4c17-821d-b9dbc753ebb0": {
-      "ProjectGuid": "5596474a-dcca-4c17-821d-b9dbc753ebb0",
-      "DisplayName": "Q4378_QWERTY_S5",
-      "ColorIndex": 15
-    },
-    "1b484528-a99b-4965-87a4-3489cb2aa74b": {
-      "ProjectGuid": "1b484528-a99b-4965-87a4-3489cb2aa74b",
-      "DisplayName": "Q1251_Word_Segmentation_S5",
-      "ColorIndex": 0
-    },
-    "c2ccbb96-d3b6-4d6e-be51-198dc2368929": {
-      "ProjectGuid": "c2ccbb96-d3b6-4d6e-be51-198dc2368929",
-      "DisplayName": "Q2596_Secret_Letter_B1",
-      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }

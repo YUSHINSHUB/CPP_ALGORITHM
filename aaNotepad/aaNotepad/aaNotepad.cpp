@@ -20,7 +20,16 @@ int main()
 	cout.tie(NULL);
 
 	int n;
-	
+	cin >> n;
+	string in;
+	cin.ignore();
+
+	for (int i = 1; i <= n; i++) {
+
+		getline(cin, in);
+		cout << i << ". " << in << "\n";
+	}
+
 
 
 }

@@ -1,4 +1,4 @@
-﻿// Q17608_Stick_B2.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
+﻿// Q17608_STICK_B2.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
 //
 
 #define _CRT_SECURE_NO_WARNINGS
@@ -13,7 +13,6 @@ int main()
 	cin >> n;
 
 	vector<int> stick(n);
-	//C++에서 배열은 상수를 자릿수로 갖기 때문에 변수를 자릿수로 주기 위해서 vector를 사용한다
 	int hig = 0;
 	int res = 0;
 
