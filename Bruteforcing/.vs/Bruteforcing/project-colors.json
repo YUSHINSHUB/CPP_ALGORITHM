@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "259bbb24-5ce6-4446-a6f2-0b4b5a1bece4": {
+      "ProjectGuid": "259bbb24-5ce6-4446-a6f2-0b4b5a1bece4",
+      "DisplayName": "Q2231_Decomposition_Sum_B2",
+      "ColorIndex": 0
+    },
+    "cfd45a14-f219-4320-89a5-3d694521803e": {
+      "ProjectGuid": "cfd45a14-f219-4320-89a5-3d694521803e",
+      "DisplayName": "Q2798_BLACKJACK_B2",
+      "ColorIndex": 1
+    },
+    "6763a232-936b-48d4-9354-7c0563d4bebb": {
+      "ProjectGuid": "6763a232-936b-48d4-9354-7c0563d4bebb",
+      "DisplayName": "Q7568_SIZE_S5",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

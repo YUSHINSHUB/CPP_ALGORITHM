@@ -5,7 +5,12 @@
       "ProjectGuid": "fa4206cf-95c5-4346-b56c-90588cb60fab",
       "DisplayName": "Q13450_Laszlo_Babai",
       "ColorIndex": 0
+    },
+    "2136489c-fff2-42e3-ba35-074d193d575c": {
+      "ProjectGuid": "2136489c-fff2-42e3-ba35-074d193d575c",
+      "DisplayName": "Q18097_UPHEAVAL_S5",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -5,7 +5,12 @@
       "ProjectGuid": "03571318-2638-4412-98e2-bd320e88fcc7",
       "DisplayName": "Q14681_Quadrant_B5",
       "ColorIndex": 0
+    },
+    "7d148424-ee38-49b1-997f-e2e207de299c": {
+      "ProjectGuid": "7d148424-ee38-49b1-997f-e2e207de299c",
+      "DisplayName": "Q4153_Right_Triangle_B3",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

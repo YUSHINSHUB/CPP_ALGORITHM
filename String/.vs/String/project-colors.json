@@ -30,7 +30,42 @@
       "ProjectGuid": "30efdd42-79a1-4440-87d1-5a80eed8f8e2",
       "DisplayName": "Q1157_Voca_Study_B1",
       "ColorIndex": 5
+    },
+    "ee63be18-3202-4d97-9364-965196fde9a0": {
+      "ProjectGuid": "ee63be18-3202-4d97-9364-965196fde9a0",
+      "DisplayName": "Q2743_String_Length_B5",
+      "ColorIndex": 6
+    },
+    "08fd11f1-ad3b-4b77-8976-86786b9a1f62": {
+      "ProjectGuid": "08fd11f1-ad3b-4b77-8976-86786b9a1f62",
+      "DisplayName": "Q11718_Output_Exactly_B5",
+      "ColorIndex": 7
+    },
+    "642b3aa5-adfb-42dc-abf5-6dfad5bca3ac": {
+      "ProjectGuid": "642b3aa5-adfb-42dc-abf5-6dfad5bca3ac",
+      "DisplayName": "Q10988_Check_Palindrome_B2",
+      "ColorIndex": 8
+    },
+    "8a826164-c544-4272-a37a-40a3c6ce74a6": {
+      "ProjectGuid": "8a826164-c544-4272-a37a-40a3c6ce74a6",
+      "DisplayName": "Q1259_PALINDROME_B1",
+      "ColorIndex": 9
+    },
+    "60f1bc1c-33e7-4233-94d2-5a20737816ca": {
+      "ProjectGuid": "60f1bc1c-33e7-4233-94d2-5a20737816ca",
+      "DisplayName": "Q15829_HASHING_B2",
+      "ColorIndex": 10
+    },
+    "c779f83f-c51a-4a93-acb2-cda888c2f5da": {
+      "ProjectGuid": "c779f83f-c51a-4a93-acb2-cda888c2f5da",
+      "DisplayName": "Q2941_Croatian_Alphabet_S5",
+      "ColorIndex": 11
+    },
+    "0dc5b683-9062-45ef-a7ec-9c942eb53e9d": {
+      "ProjectGuid": "0dc5b683-9062-45ef-a7ec-9c942eb53e9d",
+      "DisplayName": "Q1316_Group_Words_S5",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 13
 }

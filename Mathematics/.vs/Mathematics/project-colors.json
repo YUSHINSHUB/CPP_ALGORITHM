@@ -130,7 +130,27 @@
       "ProjectGuid": "1442f491-b5ee-4bbf-93e2-573f9c64eb1c",
       "DisplayName": "Q2869_SNAIL_B1",
       "ColorIndex": 9
+    },
+    "c7420bf3-298c-49ae-9c7a-dca53a12e6fc": {
+      "ProjectGuid": "c7420bf3-298c-49ae-9c7a-dca53a12e6fc",
+      "DisplayName": "Q3003_CHESS_B5",
+      "ColorIndex": 10
+    },
+    "486c5510-ed5a-4f25-8d7c-3dd9fc947797": {
+      "ProjectGuid": "486c5510-ed5a-4f25-8d7c-3dd9fc947797",
+      "DisplayName": "Q11050_Binomial_Coefficient_B1",
+      "ColorIndex": 11
+    },
+    "bcc4fbdd-3b7d-4ed0-97c0-12357fb2b97f": {
+      "ProjectGuid": "bcc4fbdd-3b7d-4ed0-97c0-12357fb2b97f",
+      "DisplayName": "Q1193_Find_Fraction_S5",
+      "ColorIndex": 12
+    },
+    "bf425b3b-3f9d-4da9-8823-34aaa064471f": {
+      "ProjectGuid": "bf425b3b-3f9d-4da9-8823-34aaa064471f",
+      "DisplayName": "Q1676_Factorial_Zero_S5",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 14
 }

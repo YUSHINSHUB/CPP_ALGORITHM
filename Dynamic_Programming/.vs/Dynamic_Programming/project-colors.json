@@ -10,7 +10,12 @@
       "ProjectGuid": "baf02fca-6352-4bc7-adf7-4bc1867bdb6d",
       "DisplayName": "Q2748_FIBONACCI_2_B1",
       "ColorIndex": 1
+    },
+    "d504c7b9-8cac-4eb7-bc4f-4cef23dcc6eb": {
+      "ProjectGuid": "d504c7b9-8cac-4eb7-bc4f-4cef23dcc6eb",
+      "DisplayName": "Q1010_Construct_Bridge_S5",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

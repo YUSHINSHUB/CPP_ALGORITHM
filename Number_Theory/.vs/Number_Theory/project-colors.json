@@ -10,7 +10,12 @@
       "ProjectGuid": "9c98166c-235e-4a10-9a4c-9a8f34563082",
       "DisplayName": "Q2581_Prime_Number_B2",
       "ColorIndex": 1
+    },
+    "37a843f0-7b79-4164-a594-341e8c558c67": {
+      "ProjectGuid": "37a843f0-7b79-4164-a594-341e8c558c67",
+      "DisplayName": "Q2609_GCD_LCM_B1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

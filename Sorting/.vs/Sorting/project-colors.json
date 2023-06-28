@@ -5,7 +5,12 @@
       "ProjectGuid": "f287c433-efb9-441c-a67c-865dce43d80b",
       "DisplayName": "Q2750_Sort_Numbers_B2",
       "ColorIndex": 0
+    },
+    "f970992e-6ab1-4759-a137-814479ead9d1": {
+      "ProjectGuid": "f970992e-6ab1-4759-a137-814479ead9d1",
+      "DisplayName": "Q10989_Sort_Numbers_3_B1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -120,7 +120,22 @@
       "ProjectGuid": "439145b0-1841-48b0-9a26-183cd9d45fac",
       "DisplayName": "Q2775_Women_President_B1",
       "ColorIndex": 7
+    },
+    "649ed2d6-e3cd-473c-892a-11f383d04fe1": {
+      "ProjectGuid": "649ed2d6-e3cd-473c-892a-11f383d04fe1",
+      "DisplayName": "Q5622_DIAL_B2",
+      "ColorIndex": 8
+    },
+    "9dd56c0a-099c-4166-b6a8-5c258be27314": {
+      "ProjectGuid": "9dd56c0a-099c-4166-b6a8-5c258be27314",
+      "DisplayName": "Q2444_STAR_7_B3",
+      "ColorIndex": 9
+    },
+    "cabba29a-15af-4840-8cc5-a44021edd6ff": {
+      "ProjectGuid": "cabba29a-15af-4840-8cc5-a44021edd6ff",
+      "DisplayName": "Q4673_Self_Number_S5",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

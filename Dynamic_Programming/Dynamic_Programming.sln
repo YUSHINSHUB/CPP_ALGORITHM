@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15841_Virus_Outbreak_B2", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2748_FIBONACCI_2_B1", "Q2748_FIBONACCI_2_B1\Q2748_FIBONACCI_2_B1.vcxproj", "{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1010_Construct_Bridge_S5", "Q1010_Construct_Bridge_S5\Q1010_Construct_Bridge_S5.vcxproj", "{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Release|x64.Build.0 = Release|x64
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Release|x86.ActiveCfg = Release|Win32
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Release|x86.Build.0 = Release|Win32
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Debug|x64.ActiveCfg = Debug|x64
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Debug|x64.Build.0 = Debug|x64
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Debug|x86.Build.0 = Debug|Win32
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Release|x64.ActiveCfg = Release|x64
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Release|x64.Build.0 = Release|x64
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Release|x86.ActiveCfg = Release|Win32
+		{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
