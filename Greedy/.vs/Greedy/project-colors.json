@@ -5,7 +5,12 @@
       "ProjectGuid": "4c0ee2f6-c842-492a-8eb8-2f6b5a58f569",
       "DisplayName": "Q1789_Sum_of_Numbers_S5",
       "ColorIndex": 0
+    },
+    "97b98c91-5b7a-4950-a6d2-3ab8ddcc867f": {
+      "ProjectGuid": "97b98c91-5b7a-4950-a6d2-3ab8ddcc867f",
+      "DisplayName": "Q1439_REVERSE_S5",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

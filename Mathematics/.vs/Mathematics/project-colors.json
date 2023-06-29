@@ -150,7 +150,12 @@
       "ProjectGuid": "bf425b3b-3f9d-4da9-8823-34aaa064471f",
       "DisplayName": "Q1676_Factorial_Zero_S5",
       "ColorIndex": 13
+    },
+    "666f37a6-dfb9-4135-b770-da7e006a537e": {
+      "ProjectGuid": "666f37a6-dfb9-4135-b770-da7e006a537e",
+      "DisplayName": "Q1769_Multiple_of_Three_S5",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 15
 }

@@ -135,7 +135,17 @@
       "ProjectGuid": "cabba29a-15af-4840-8cc5-a44021edd6ff",
       "DisplayName": "Q4673_Self_Number_S5",
       "ColorIndex": 10
+    },
+    "5d7f80b3-0c68-476a-941a-7fca69e7a9ae": {
+      "ProjectGuid": "5d7f80b3-0c68-476a-941a-7fca69e7a9ae",
+      "DisplayName": "Q10824_Four_Numbers_B3",
+      "ColorIndex": 11
+    },
+    "a9d2e46f-c9d6-473d-8d01-b75e300a28b0": {
+      "ProjectGuid": "a9d2e46f-c9d6-473d-8d01-b75e300a28b0",
+      "DisplayName": "Q25206_GRADE_S5",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }

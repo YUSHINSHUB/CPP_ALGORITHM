@@ -65,7 +65,27 @@
       "ProjectGuid": "0dc5b683-9062-45ef-a7ec-9c942eb53e9d",
       "DisplayName": "Q1316_Group_Words_S5",
       "ColorIndex": 12
+    },
+    "d02ba1c5-6620-4fbc-8978-2d5e79e6ae63": {
+      "ProjectGuid": "d02ba1c5-6620-4fbc-8978-2d5e79e6ae63",
+      "DisplayName": "Q11721_Output_Ten_B3",
+      "ColorIndex": 13
+    },
+    "985e3c9c-ada0-4af0-9059-45924e8fdbd4": {
+      "ProjectGuid": "985e3c9c-ada0-4af0-9059-45924e8fdbd4",
+      "DisplayName": "Q11719_Output_Exactly_2_B3",
+      "ColorIndex": 14
+    },
+    "18d991dc-ab53-4816-b9be-8e43af988714": {
+      "ProjectGuid": "18d991dc-ab53-4816-b9be-8e43af988714",
+      "DisplayName": "Q10953_AplusB_3_B3",
+      "ColorIndex": 15
+    },
+    "3769463c-1ad9-42dd-a26d-258de113f0af": {
+      "ProjectGuid": "3769463c-1ad9-42dd-a26d-258de113f0af",
+      "DisplayName": "Q1652_Lay_Down_S5",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }

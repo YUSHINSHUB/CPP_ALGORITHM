@@ -10,7 +10,22 @@
       "ProjectGuid": "f970992e-6ab1-4759-a137-814479ead9d1",
       "DisplayName": "Q10989_Sort_Numbers_3_B1",
       "ColorIndex": 1
+    },
+    "08d47d50-9b7d-4b21-9c94-8ae8a8702bc3": {
+      "ProjectGuid": "08d47d50-9b7d-4b21-9c94-8ae8a8702bc3",
+      "DisplayName": "Q10815_Number_Cards_S5",
+      "ColorIndex": 2
+    },
+    "305b5a25-4560-47c9-98c1-b6ea43a87a30": {
+      "ProjectGuid": "305b5a25-4560-47c9-98c1-b6ea43a87a30",
+      "DisplayName": "Q1181_Sort_Words_S5",
+      "ColorIndex": 3
+    },
+    "9cb81078-6a34-4f3d-a9c4-94f0b53cbfd1": {
+      "ProjectGuid": "9cb81078-6a34-4f3d-a9c4-94f0b53cbfd1",
+      "DisplayName": "Q1427_SORTINSIDE_S5",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

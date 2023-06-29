@@ -25,7 +25,12 @@
       "ProjectGuid": "ac51967f-ce29-42f7-84b6-661cd0b9338b",
       "DisplayName": "Q25593_WORK_B1",
       "ColorIndex": 4
+    },
+    "05e00511-b217-43b1-a4cb-0366400b5936": {
+      "ProjectGuid": "05e00511-b217-43b1-a4cb-0366400b5936",
+      "DisplayName": "Q11866_JOSEPHUS_0_S5",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }
