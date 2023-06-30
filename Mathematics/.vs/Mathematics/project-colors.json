@@ -155,7 +155,22 @@
       "ProjectGuid": "666f37a6-dfb9-4135-b770-da7e006a537e",
       "DisplayName": "Q1769_Multiple_of_Three_S5",
       "ColorIndex": 14
+    },
+    "3e0a331b-4696-4203-b900-0ce9b9287b9e": {
+      "ProjectGuid": "3e0a331b-4696-4203-b900-0ce9b9287b9e",
+      "DisplayName": "Q2745_Base_Conversion_B2",
+      "ColorIndex": 15
+    },
+    "ddaf4545-996f-43b9-9bdf-5329d1e8f0f7": {
+      "ProjectGuid": "ddaf4545-996f-43b9-9bdf-5329d1e8f0f7",
+      "DisplayName": "Q11005_Base_Conversion_2_B1",
+      "ColorIndex": 0
+    },
+    "4f527708-907f-4b0f-8879-6d0fd440261c": {
+      "ProjectGuid": "4f527708-907f-4b0f-8879-6d0fd440261c",
+      "DisplayName": "Q2903_Middle_Movement_B3",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 2
 }

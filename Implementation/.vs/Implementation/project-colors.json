@@ -145,7 +145,27 @@
       "ProjectGuid": "a9d2e46f-c9d6-473d-8d01-b75e300a28b0",
       "DisplayName": "Q25206_GRADE_S5",
       "ColorIndex": 12
+    },
+    "a507d986-3cc9-43eb-8246-29b3a8c14403": {
+      "ProjectGuid": "a507d986-3cc9-43eb-8246-29b3a8c14403",
+      "DisplayName": "Q2738_Matrix_Addition_B5",
+      "ColorIndex": 13
+    },
+    "7ca35904-05b1-4d49-8605-dd4f6e64fa81": {
+      "ProjectGuid": "7ca35904-05b1-4d49-8605-dd4f6e64fa81",
+      "DisplayName": "Q2566_MAXIMUM_B3",
+      "ColorIndex": 14
+    },
+    "9f7992b1-d236-4536-867f-935370547c05": {
+      "ProjectGuid": "9f7992b1-d236-4536-867f-935370547c05",
+      "DisplayName": "Q2563_Color_Paper_S5",
+      "ColorIndex": 15
+    },
+    "d4dc5c06-6fc2-4df2-9411-06ae7e34ac8c": {
+      "ProjectGuid": "d4dc5c06-6fc2-4df2-9411-06ae7e34ac8c",
+      "DisplayName": "Q10757_Big_AplusB_B5",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 1
 }

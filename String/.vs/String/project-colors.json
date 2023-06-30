@@ -85,7 +85,12 @@
       "ProjectGuid": "3769463c-1ad9-42dd-a26d-258de113f0af",
       "DisplayName": "Q1652_Lay_Down_S5",
       "ColorIndex": 0
+    },
+    "213ed7f0-bde1-4488-b8a0-71956281a38e": {
+      "ProjectGuid": "213ed7f0-bde1-4488-b8a0-71956281a38e",
+      "DisplayName": "Q10798_Vertical_Reading_B1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -10,7 +10,12 @@
       "ProjectGuid": "97b98c91-5b7a-4950-a6d2-3ab8ddcc867f",
       "DisplayName": "Q1439_REVERSE_S5",
       "ColorIndex": 1
+    },
+    "3fcccf1a-6104-42ba-be39-e96d82d26f6b": {
+      "ProjectGuid": "3fcccf1a-6104-42ba-be39-e96d82d26f6b",
+      "DisplayName": "Q2720_LAUNDRY_B3",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
