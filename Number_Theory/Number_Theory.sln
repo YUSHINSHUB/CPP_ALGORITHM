@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2581_Prime_Number_B2", "Q2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2609_GCD_LCM_B1", "Q2609_GCD_LCM_B1\Q2609_GCD_LCM_B1.vcxproj", "{37A843F0-7B79-4164-A594-341E8C558C67}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11653_Factorization_B1", "Q11653_Factorization_B1\Q11653_Factorization_B1.vcxproj", "{8379EE61-01A7-42D1-BDEC-160D64DAAD54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{37A843F0-7B79-4164-A594-341E8C558C67}.Release|x64.Build.0 = Release|x64
 		{37A843F0-7B79-4164-A594-341E8C558C67}.Release|x86.ActiveCfg = Release|Win32
 		{37A843F0-7B79-4164-A594-341E8C558C67}.Release|x86.Build.0 = Release|Win32
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Debug|x64.ActiveCfg = Debug|x64
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Debug|x64.Build.0 = Debug|x64
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Debug|x86.ActiveCfg = Debug|Win32
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Debug|x86.Build.0 = Debug|Win32
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Release|x64.ActiveCfg = Release|x64
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Release|x64.Build.0 = Release|x64
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Release|x86.ActiveCfg = Release|Win32
+		{8379EE61-01A7-42D1-BDEC-160D64DAAD54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
