@@ -73,6 +73,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9063_LAND_B3", "Q9063_LAND
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q14215_Three_Sticks_B3", "Q14215_Three_Sticks_B3\Q14215_Three_Sticks_B3.vcxproj", "{0CD52838-87EF-467B-978B-D37B7DBD1A4C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24265_Execution_Time_4_B3", "Q24265_Execution_Time_4_B3\Q24265_Execution_Time_4_B3.vcxproj", "{B728A2F9-632E-4BD1-8EEE-A55E7994F322}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +363,14 @@ Global
 		{0CD52838-87EF-467B-978B-D37B7DBD1A4C}.Release|x64.Build.0 = Release|x64
 		{0CD52838-87EF-467B-978B-D37B7DBD1A4C}.Release|x86.ActiveCfg = Release|Win32
 		{0CD52838-87EF-467B-978B-D37B7DBD1A4C}.Release|x86.Build.0 = Release|Win32
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Debug|x64.ActiveCfg = Debug|x64
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Debug|x64.Build.0 = Debug|x64
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Debug|x86.ActiveCfg = Debug|Win32
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Debug|x86.Build.0 = Debug|Win32
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Release|x64.ActiveCfg = Release|x64
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Release|x64.Build.0 = Release|x64
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Release|x86.ActiveCfg = Release|Win32
+		{B728A2F9-632E-4BD1-8EEE-A55E7994F322}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
