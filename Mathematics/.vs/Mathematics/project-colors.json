@@ -170,7 +170,22 @@
       "ProjectGuid": "4f527708-907f-4b0f-8879-6d0fd440261c",
       "DisplayName": "Q2903_Middle_Movement_B3",
       "ColorIndex": 1
+    },
+    "3a2e192a-d380-44d9-97f0-c043ccf43183": {
+      "ProjectGuid": "3a2e192a-d380-44d9-97f0-c043ccf43183",
+      "DisplayName": "Q24266_Execution_Time_5_B3",
+      "ColorIndex": 2
+    },
+    "79ac0017-b077-4b35-ae7a-7911abd6e91e": {
+      "ProjectGuid": "79ac0017-b077-4b35-ae7a-7911abd6e91e",
+      "DisplayName": "Q24264_Execution_Time_3_B3",
+      "ColorIndex": 3
+    },
+    "9bff7a91-2d75-43a6-b569-55b7dcfab23f": {
+      "ProjectGuid": "9bff7a91-2d75-43a6-b569-55b7dcfab23f",
+      "DisplayName": "Q24313_Asymptotic_Notation_S5",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

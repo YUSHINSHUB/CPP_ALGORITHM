@@ -165,7 +165,17 @@
       "ProjectGuid": "d4dc5c06-6fc2-4df2-9411-06ae7e34ac8c",
       "DisplayName": "Q10757_Big_AplusB_B5",
       "ColorIndex": 0
+    },
+    "b728a2f9-632e-4bd1-8eee-a55e7994f322": {
+      "ProjectGuid": "b728a2f9-632e-4bd1-8eee-a55e7994f322",
+      "DisplayName": "Q24265_Execution_Time_4_B3",
+      "ColorIndex": 1
+    },
+    "240d099f-9808-4755-9672-2b3df40eb49e": {
+      "ProjectGuid": "240d099f-9808-4755-9672-2b3df40eb49e",
+      "DisplayName": "Q24267_Execution_Time_6_B2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

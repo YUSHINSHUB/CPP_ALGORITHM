@@ -15,7 +15,22 @@
       "ProjectGuid": "6763a232-936b-48d4-9354-7c0563d4bebb",
       "DisplayName": "Q7568_SIZE_S5",
       "ColorIndex": 2
+    },
+    "bf09aa51-be6b-4337-b821-95d1bde18d66": {
+      "ProjectGuid": "bf09aa51-be6b-4337-b821-95d1bde18d66",
+      "DisplayName": "Q2501_Get_Divisor_B3",
+      "ColorIndex": 3
+    },
+    "c26f5112-0166-4562-a6de-83e965cc8ada": {
+      "ProjectGuid": "c26f5112-0166-4562-a6de-83e965cc8ada",
+      "DisplayName": "Q19532_Online_Class_B2",
+      "ColorIndex": 4
+    },
+    "850a4161-b806-4e57-b06f-09e86532bd7f": {
+      "ProjectGuid": "850a4161-b806-4e57-b06f-09e86532bd7f",
+      "DisplayName": "Q1436_Movie_Director_S5",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
