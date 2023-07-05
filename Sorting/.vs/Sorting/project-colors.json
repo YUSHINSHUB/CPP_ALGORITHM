@@ -25,7 +25,27 @@
       "ProjectGuid": "9cb81078-6a34-4f3d-a9c4-94f0b53cbfd1",
       "DisplayName": "Q1427_SORTINSIDE_S5",
       "ColorIndex": 4
+    },
+    "0fc97434-edc8-4216-a0bc-e06086e805f6": {
+      "ProjectGuid": "0fc97434-edc8-4216-a0bc-e06086e805f6",
+      "DisplayName": "Q2751_Sort_Numbers_2_S5",
+      "ColorIndex": 5
+    },
+    "ba76c84f-3f23-4bd6-9c1c-ade9eb98278b": {
+      "ProjectGuid": "ba76c84f-3f23-4bd6-9c1c-ade9eb98278b",
+      "DisplayName": "Q10814_Sort_by_Age_S5",
+      "ColorIndex": 6
+    },
+    "53c40f6d-a423-45ca-9869-8c89ac456009": {
+      "ProjectGuid": "53c40f6d-a423-45ca-9869-8c89ac456009",
+      "DisplayName": "Q11650_Sort_Coordinate_S5",
+      "ColorIndex": 7
+    },
+    "f74f8446-597b-4477-b30b-e2fa06bf6bb7": {
+      "ProjectGuid": "f74f8446-597b-4477-b30b-e2fa06bf6bb7",
+      "DisplayName": "Q11651_Sort_Coordinate_2_S5",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 9
 }

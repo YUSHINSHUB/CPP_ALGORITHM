@@ -10,7 +10,12 @@
       "ProjectGuid": "2136489c-fff2-42e3-ba35-074d193d575c",
       "DisplayName": "Q18097_UPHEAVAL_S5",
       "ColorIndex": 1
+    },
+    "601e7f4b-5d72-40ba-8937-c2846b26d6ce": {
+      "ProjectGuid": "601e7f4b-5d72-40ba-8937-c2846b26d6ce",
+      "DisplayName": "Q16173_Jump_King_Small_S4",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

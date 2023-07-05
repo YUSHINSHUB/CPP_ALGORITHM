@@ -30,7 +30,37 @@
       "ProjectGuid": "05e00511-b217-43b1-a4cb-0366400b5936",
       "DisplayName": "Q11866_JOSEPHUS_0_S5",
       "ColorIndex": 5
+    },
+    "79c47826-93d4-43cb-a2e7-4f9b7a94ebd5": {
+      "ProjectGuid": "79c47826-93d4-43cb-a2e7-4f9b7a94ebd5",
+      "DisplayName": "Q10828_STACK_S4",
+      "ColorIndex": 6
+    },
+    "55db166d-6d64-43dd-a5fe-0a500615d3e2": {
+      "ProjectGuid": "55db166d-6d64-43dd-a5fe-0a500615d3e2",
+      "DisplayName": "Q1920_Find_Number_S4",
+      "ColorIndex": 7
+    },
+    "eb774ddb-09e7-4d02-8f12-635c6ce8af93": {
+      "ProjectGuid": "eb774ddb-09e7-4d02-8f12-635c6ce8af93",
+      "DisplayName": "Q9012_BRACKET_S4",
+      "ColorIndex": 8
+    },
+    "6ec77609-c3f0-4a46-93a4-9e7a88e1e106": {
+      "ProjectGuid": "6ec77609-c3f0-4a46-93a4-9e7a88e1e106",
+      "DisplayName": "Q10816_Number_Card_2_S4",
+      "ColorIndex": 9
+    },
+    "c698418a-f252-4e30-a197-5cd0650d7b1f": {
+      "ProjectGuid": "c698418a-f252-4e30-a197-5cd0650d7b1f",
+      "DisplayName": "Q4949_Balanced_World_S4",
+      "ColorIndex": 10
+    },
+    "b68477c8-1200-4962-9356-7f670028daad": {
+      "ProjectGuid": "b68477c8-1200-4962-9356-7f670028daad",
+      "DisplayName": "Q1764_UNPOPULAR_S4",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 12
 }

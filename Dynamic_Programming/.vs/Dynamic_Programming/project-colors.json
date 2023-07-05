@@ -15,7 +15,17 @@
       "ProjectGuid": "d504c7b9-8cac-4eb7-bc4f-4cef23dcc6eb",
       "DisplayName": "Q1010_Construct_Bridge_S5",
       "ColorIndex": 2
+    },
+    "92ad5e49-9084-41b2-86e7-75f6dea7d19b": {
+      "ProjectGuid": "92ad5e49-9084-41b2-86e7-75f6dea7d19b",
+      "DisplayName": "Q2839_Sugar_Delivery_S4",
+      "ColorIndex": 3
+    },
+    "c8db905b-d0ee-4dc1-885b-ca055563d4f8": {
+      "ProjectGuid": "c8db905b-d0ee-4dc1-885b-ca055563d4f8",
+      "DisplayName": "Q2491_SEQUENCE_S4",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

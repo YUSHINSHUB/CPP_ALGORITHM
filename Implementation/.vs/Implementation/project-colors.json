@@ -175,7 +175,12 @@
       "ProjectGuid": "240d099f-9808-4755-9672-2b3df40eb49e",
       "DisplayName": "Q24267_Execution_Time_6_B2",
       "ColorIndex": 2
+    },
+    "ed663844-5f2b-43a0-ae67-ba0e9f0ce163": {
+      "ProjectGuid": "ed663844-5f2b-43a0-ae67-ba0e9f0ce163",
+      "DisplayName": "Q10162_MICROWAVE_B3",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

@@ -15,7 +15,22 @@
       "ProjectGuid": "3fcccf1a-6104-42ba-be39-e96d82d26f6b",
       "DisplayName": "Q2720_LAUNDRY_B3",
       "ColorIndex": 2
+    },
+    "70fa25ff-5d5c-4462-abf9-bc01bca96015": {
+      "ProjectGuid": "70fa25ff-5d5c-4462-abf9-bc01bca96015",
+      "DisplayName": "Q10610_30_S4",
+      "ColorIndex": 3
+    },
+    "30155bbb-9913-4acc-938e-eb9d18d90a70": {
+      "ProjectGuid": "30155bbb-9913-4acc-938e-eb9d18d90a70",
+      "DisplayName": "Q14720_Milk_Festival_B3",
+      "ColorIndex": 4
+    },
+    "c480636b-61f4-462f-80d3-cf8b4ef03f02": {
+      "ProjectGuid": "c480636b-61f4-462f-80d3-cf8b4ef03f02",
+      "DisplayName": "Q11034_KANGAROOS_2_B3",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
