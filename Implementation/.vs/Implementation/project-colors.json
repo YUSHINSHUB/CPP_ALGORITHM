@@ -180,7 +180,12 @@
       "ProjectGuid": "ed663844-5f2b-43a0-ae67-ba0e9f0ce163",
       "DisplayName": "Q10162_MICROWAVE_B3",
       "ColorIndex": 3
+    },
+    "1a24fa7c-5bba-4d02-944c-12fca4eb0d63": {
+      "ProjectGuid": "1a24fa7c-5bba-4d02-944c-12fca4eb0d63",
+      "DisplayName": "Q18110_SOLVEDAC_S4",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

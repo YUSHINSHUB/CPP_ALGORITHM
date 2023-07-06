@@ -45,7 +45,12 @@
       "ProjectGuid": "f74f8446-597b-4477-b30b-e2fa06bf6bb7",
       "DisplayName": "Q11651_Sort_Coordinate_2_S5",
       "ColorIndex": 8
+    },
+    "da1c18ae-fdc1-4092-b489-9e7661165c1f": {
+      "ProjectGuid": "da1c18ae-fdc1-4092-b489-9e7661165c1f",
+      "DisplayName": "Q25305_Cut_Line_B2",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }

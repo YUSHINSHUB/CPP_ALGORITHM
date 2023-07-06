@@ -25,7 +25,12 @@
       "ProjectGuid": "c8db905b-d0ee-4dc1-885b-ca055563d4f8",
       "DisplayName": "Q2491_SEQUENCE_S4",
       "ColorIndex": 4
+    },
+    "76c6bef0-62b2-4293-ab01-5a9177f1ba1c": {
+      "ProjectGuid": "76c6bef0-62b2-4293-ab01-5a9177f1ba1c",
+      "DisplayName": "Q14916_CHANGE_S5",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

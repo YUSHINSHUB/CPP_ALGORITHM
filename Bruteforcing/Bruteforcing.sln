@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q19532_Online_Class_B2", "Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1436_Movie_Director_S5", "Q1436_Movie_Director_S5\Q1436_Movie_Director_S5.vcxproj", "{850A4161-B806-4E57-B06F-09E86532BD7F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1018_Chess_Board_S4", "Q1018_Chess_Board_S4\Q1018_Chess_Board_S4.vcxproj", "{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{850A4161-B806-4E57-B06F-09E86532BD7F}.Release|x64.Build.0 = Release|x64
 		{850A4161-B806-4E57-B06F-09E86532BD7F}.Release|x86.ActiveCfg = Release|Win32
 		{850A4161-B806-4E57-B06F-09E86532BD7F}.Release|x86.Build.0 = Release|Win32
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Debug|x64.ActiveCfg = Debug|x64
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Debug|x64.Build.0 = Debug|x64
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Debug|x86.Build.0 = Debug|Win32
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Release|x64.ActiveCfg = Release|x64
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Release|x64.Build.0 = Release|x64
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Release|x86.ActiveCfg = Release|Win32
+		{EC62AF28-051B-4CFA-9E6E-2BEB029FC270}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

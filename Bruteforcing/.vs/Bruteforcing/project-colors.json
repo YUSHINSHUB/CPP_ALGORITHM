@@ -30,7 +30,12 @@
       "ProjectGuid": "850a4161-b806-4e57-b06f-09e86532bd7f",
       "DisplayName": "Q1436_Movie_Director_S5",
       "ColorIndex": 5
+    },
+    "ec62af28-051b-4cfa-9e6e-2beb029fc270": {
+      "ProjectGuid": "ec62af28-051b-4cfa-9e6e-2beb029fc270",
+      "DisplayName": "Q1018_Chess_Board_S4",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

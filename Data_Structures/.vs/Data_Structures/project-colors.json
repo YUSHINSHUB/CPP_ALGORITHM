@@ -60,7 +60,17 @@
       "ProjectGuid": "b68477c8-1200-4962-9356-7f670028daad",
       "DisplayName": "Q1764_UNPOPULAR_S4",
       "ColorIndex": 11
+    },
+    "90262c3d-6182-4f05-a2be-1f3935af1293": {
+      "ProjectGuid": "90262c3d-6182-4f05-a2be-1f3935af1293",
+      "DisplayName": "Q10773_ZERO_S4",
+      "ColorIndex": 12
+    },
+    "beb66be2-61c8-4ed4-8e7e-8367680dd8ae": {
+      "ProjectGuid": "beb66be2-61c8-4ed4-8e7e-8367680dd8ae",
+      "DisplayName": "Q10866_DEQUE_S4",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 14
 }

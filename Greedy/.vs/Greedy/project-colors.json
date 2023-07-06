@@ -30,7 +30,17 @@
       "ProjectGuid": "c480636b-61f4-462f-80d3-cf8b4ef03f02",
       "DisplayName": "Q11034_KANGAROOS_2_B3",
       "ColorIndex": 5
+    },
+    "8606a643-f756-4065-8834-77a6cd958439": {
+      "ProjectGuid": "8606a643-f756-4065-8834-77a6cd958439",
+      "DisplayName": "Q5585_CHANGE_B2",
+      "ColorIndex": 6
+    },
+    "e86dfc6c-b850-48b0-8aaf-112d93f4b411": {
+      "ProjectGuid": "e86dfc6c-b850-48b0-8aaf-112d93f4b411",
+      "DisplayName": "Q4796_CAMPING_B1",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
