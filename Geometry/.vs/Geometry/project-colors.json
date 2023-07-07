@@ -10,7 +10,17 @@
       "ProjectGuid": "7d148424-ee38-49b1-997f-e2e207de299c",
       "DisplayName": "Q4153_Right_Triangle_B3",
       "ColorIndex": 1
+    },
+    "b0924b60-153c-46af-b673-12a327f9c76d": {
+      "ProjectGuid": "b0924b60-153c-46af-b673-12a327f9c76d",
+      "DisplayName": "Q10101_Memorize_Triangle_B4",
+      "ColorIndex": 2
+    },
+    "73f01498-d849-4f72-9548-c1bd864ff7f9": {
+      "ProjectGuid": "73f01498-d849-4f72-9548-c1bd864ff7f9",
+      "DisplayName": "Q1002_TURRET_S3",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

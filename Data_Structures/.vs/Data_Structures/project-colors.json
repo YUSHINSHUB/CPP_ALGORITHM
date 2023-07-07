@@ -70,7 +70,22 @@
       "ProjectGuid": "beb66be2-61c8-4ed4-8e7e-8367680dd8ae",
       "DisplayName": "Q10866_DEQUE_S4",
       "ColorIndex": 13
+    },
+    "4247bf65-8a7e-43b1-a0f9-0b0b7ed19e00": {
+      "ProjectGuid": "4247bf65-8a7e-43b1-a0f9-0b0b7ed19e00",
+      "DisplayName": "Q1966_Printer_Queue_S3",
+      "ColorIndex": 14
+    },
+    "4a591967-f23f-46ed-ba54-6a398c5c8aec": {
+      "ProjectGuid": "4a591967-f23f-46ed-ba54-6a398c5c8aec",
+      "DisplayName": "Q14425_String_Array_S3",
+      "ColorIndex": 15
+    },
+    "dd660120-0581-4863-ac39-947bcf3a7d01": {
+      "ProjectGuid": "dd660120-0581-4863-ac39-947bcf3a7d01",
+      "DisplayName": "Q17413_Reverse_Words_2_S3",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 1
 }

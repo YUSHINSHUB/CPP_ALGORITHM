@@ -30,7 +30,27 @@
       "ProjectGuid": "76c6bef0-62b2-4293-ab01-5a9177f1ba1c",
       "DisplayName": "Q14916_CHANGE_S5",
       "ColorIndex": 5
+    },
+    "3c417ce4-c799-4977-b1e5-14d2b5a1f455": {
+      "ProjectGuid": "3c417ce4-c799-4977-b1e5-14d2b5a1f455",
+      "DisplayName": "Q1463_Become_One_S3",
+      "ColorIndex": 6
+    },
+    "cd75b257-a328-44b7-9fc9-3eb9dd59239e": {
+      "ProjectGuid": "cd75b257-a328-44b7-9fc9-3eb9dd59239e",
+      "DisplayName": "Q1003_Fibonacci_Method_S3",
+      "ColorIndex": 7
+    },
+    "3d10c8ef-59da-4a6c-ba04-e41e731f828c": {
+      "ProjectGuid": "3d10c8ef-59da-4a6c-ba04-e41e731f828c",
+      "DisplayName": "Q2579_UPSTAIRS_S3",
+      "ColorIndex": 8
+    },
+    "d918db1b-917c-4fdb-bcfe-dcf980250ebf": {
+      "ProjectGuid": "d918db1b-917c-4fdb-bcfe-dcf980250ebf",
+      "DisplayName": "Q11726_2xn_Tile_S3",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }

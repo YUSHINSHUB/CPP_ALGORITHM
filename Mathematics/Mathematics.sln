@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24313_Asymptotic_Notation_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2587_Representative_Value_2_B2", "Q2587_Representative_Value_2_B2\Q2587_Representative_Value_2_B2.vcxproj", "{CCD95EA4-7C4E-4B60-B5FA-B05EAA913BE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2108_STATISTICS_S3", "Q2108_STATISTICS_S3\Q2108_STATISTICS_S3.vcxproj", "{09654FBF-F83B-489B-858A-ED4B6BC95223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{CCD95EA4-7C4E-4B60-B5FA-B05EAA913BE6}.Release|x64.Build.0 = Release|x64
 		{CCD95EA4-7C4E-4B60-B5FA-B05EAA913BE6}.Release|x86.ActiveCfg = Release|Win32
 		{CCD95EA4-7C4E-4B60-B5FA-B05EAA913BE6}.Release|x86.Build.0 = Release|Win32
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Debug|x64.ActiveCfg = Debug|x64
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Debug|x64.Build.0 = Debug|x64
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Debug|x86.ActiveCfg = Debug|Win32
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Debug|x86.Build.0 = Debug|Win32
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x64.ActiveCfg = Release|x64
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x64.Build.0 = Release|x64
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x86.ActiveCfg = Release|Win32
+		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

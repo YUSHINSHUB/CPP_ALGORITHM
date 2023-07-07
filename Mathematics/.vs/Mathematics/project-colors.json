@@ -190,7 +190,12 @@
       "ProjectGuid": "ccd95ea4-7c4e-4b60-b5fa-b05eaa913be6",
       "DisplayName": "Q2587_Representative_Value_2_B2",
       "ColorIndex": 5
+    },
+    "09654fbf-f83b-489b-858a-ed4b6bc95223": {
+      "ProjectGuid": "09654fbf-f83b-489b-858a-ed4b6bc95223",
+      "DisplayName": "Q2108_STATISTICS_S3",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
