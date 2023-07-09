@@ -1,0 +1,4 @@
+﻿  Q9996_Missing_Korea_S3.cpp
+C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Regular_Expression\Q9996_Missing_Korea_S3\Q9996_Missing_Korea_S3.cpp(26,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Regular_Expression\Q9996_Missing_Korea_S3\Q9996_Missing_Korea_S3.cpp(27,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Q9996_Missing_Korea_S3.vcxproj -> C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Regular_Expression\x64\Debug\Q9996_Missing_Korea_S3.exe
