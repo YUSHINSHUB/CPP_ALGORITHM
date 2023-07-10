@@ -35,7 +35,17 @@
       "ProjectGuid": "ec62af28-051b-4cfa-9e6e-2beb029fc270",
       "DisplayName": "Q1018_Chess_Board_S4",
       "ColorIndex": 6
+    },
+    "7bf406f2-ad1c-4c4c-ba53-9b11be4b6421": {
+      "ProjectGuid": "7bf406f2-ad1c-4c4c-ba53-9b11be4b6421",
+      "DisplayName": "Q25494_Simple_Question_Small_B4",
+      "ColorIndex": 7
+    },
+    "59e0094d-b5a0-46fa-8c13-469d0542b882": {
+      "ProjectGuid": "59e0094d-b5a0-46fa-8c13-469d0542b882",
+      "DisplayName": "Q27590_Sun_Moon_B4",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }

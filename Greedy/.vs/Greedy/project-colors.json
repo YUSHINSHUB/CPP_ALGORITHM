@@ -40,7 +40,12 @@
       "ProjectGuid": "e86dfc6c-b850-48b0-8aaf-112d93f4b411",
       "DisplayName": "Q4796_CAMPING_B1",
       "ColorIndex": 7
+    },
+    "a070859e-905d-4d3d-ac68-7d7d40571966": {
+      "ProjectGuid": "a070859e-905d-4d3d-ac68-7d7d40571966",
+      "DisplayName": "Q13305_Gas_Station_S3",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
