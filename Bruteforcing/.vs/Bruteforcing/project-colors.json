@@ -45,7 +45,27 @@
       "ProjectGuid": "59e0094d-b5a0-46fa-8c13-469d0542b882",
       "DisplayName": "Q27590_Sun_Moon_B4",
       "ColorIndex": 8
+    },
+    "be3c5f90-004d-421d-b6b4-b987e85447b6": {
+      "ProjectGuid": "be3c5f90-004d-421d-b6b4-b987e85447b6",
+      "DisplayName": "Q1837_Create_PW_B3",
+      "ColorIndex": 9
+    },
+    "2c5efbb0-3c49-4c35-af85-5dbee210efc8": {
+      "ProjectGuid": "2c5efbb0-3c49-4c35-af85-5dbee210efc8",
+      "DisplayName": "Q2309_Seven_Dwarfs_B1",
+      "ColorIndex": 10
+    },
+    "92da36f2-06ab-48cc-a507-52197d25b322": {
+      "ProjectGuid": "92da36f2-06ab-48cc-a507-52197d25b322",
+      "DisplayName": "Q2851_Super_Mario_B1",
+      "ColorIndex": 11
+    },
+    "403ebdd7-5478-48ec-b027-3acda81c8b31": {
+      "ProjectGuid": "403ebdd7-5478-48ec-b027-3acda81c8b31",
+      "DisplayName": "Q1065_Arithmetical_Number_S4",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 13
 }
