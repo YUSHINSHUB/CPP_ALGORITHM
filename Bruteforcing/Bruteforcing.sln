@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2851_Super_Mario_B1", "Q28
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1065_Arithmetical_Number_S4", "Q1065_Arithmetical_Number_S4\Q1065_Arithmetical_Number_S4.vcxproj", "{403EBDD7-5478-48EC-B027-3ACDA81C8B31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1543_Search_Documents_S4", "Q1543_Search_Documents_S4\Q1543_Search_Documents_S4.vcxproj", "{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{403EBDD7-5478-48EC-B027-3ACDA81C8B31}.Release|x64.Build.0 = Release|x64
 		{403EBDD7-5478-48EC-B027-3ACDA81C8B31}.Release|x86.ActiveCfg = Release|Win32
 		{403EBDD7-5478-48EC-B027-3ACDA81C8B31}.Release|x86.Build.0 = Release|Win32
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Debug|x64.ActiveCfg = Debug|x64
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Debug|x64.Build.0 = Debug|x64
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Debug|x86.ActiveCfg = Debug|Win32
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Debug|x86.Build.0 = Debug|Win32
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Release|x64.ActiveCfg = Release|x64
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Release|x64.Build.0 = Release|x64
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Release|x86.ActiveCfg = Release|Win32
+		{74C1AAC8-E0B2-4952-9BC8-60AA3D8C660E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

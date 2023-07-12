@@ -50,7 +50,12 @@
       "ProjectGuid": "d918db1b-917c-4fdb-bcfe-dcf980250ebf",
       "DisplayName": "Q11726_2xn_Tile_S3",
       "ColorIndex": 9
+    },
+    "fc61c18b-81b3-4042-89f1-e9dcbeda1951": {
+      "ProjectGuid": "fc61c18b-81b3-4042-89f1-e9dcbeda1951",
+      "DisplayName": "Q14501_LEAVE_S3",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }

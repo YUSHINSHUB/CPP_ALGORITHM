@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2579_UPSTAIRS_S3", "Q2579_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11726_2xn_Tile_S3", "Q11726_2xn_Tile_S3\Q11726_2xn_Tile_S3.vcxproj", "{D918DB1B-917C-4FDB-BCFE-DCF980250EBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q14501_LEAVE_S3", "Q14501_LEAVE_S3\Q14501_LEAVE_S3.vcxproj", "{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{D918DB1B-917C-4FDB-BCFE-DCF980250EBF}.Release|x64.Build.0 = Release|x64
 		{D918DB1B-917C-4FDB-BCFE-DCF980250EBF}.Release|x86.ActiveCfg = Release|Win32
 		{D918DB1B-917C-4FDB-BCFE-DCF980250EBF}.Release|x86.Build.0 = Release|Win32
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Debug|x64.ActiveCfg = Debug|x64
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Debug|x64.Build.0 = Debug|x64
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Debug|x86.Build.0 = Debug|Win32
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Release|x64.ActiveCfg = Release|x64
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Release|x64.Build.0 = Release|x64
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Release|x86.ActiveCfg = Release|Win32
+		{FC61C18B-81B3-4042-89F1-E9DCBEDA1951}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

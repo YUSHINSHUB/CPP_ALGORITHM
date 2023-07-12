@@ -65,7 +65,12 @@
       "ProjectGuid": "403ebdd7-5478-48ec-b027-3acda81c8b31",
       "DisplayName": "Q1065_Arithmetical_Number_S4",
       "ColorIndex": 12
+    },
+    "74c1aac8-e0b2-4952-9bc8-60aa3d8c660e": {
+      "ProjectGuid": "74c1aac8-e0b2-4952-9bc8-60aa3d8c660e",
+      "DisplayName": "Q1543_Search_Documents_S4",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
