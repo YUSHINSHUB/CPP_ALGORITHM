@@ -55,7 +55,17 @@
       "ProjectGuid": "fc61c18b-81b3-4042-89f1-e9dcbeda1951",
       "DisplayName": "Q14501_LEAVE_S3",
       "ColorIndex": 10
+    },
+    "e1a37f74-fd31-4060-a13f-601b4eef3d9b": {
+      "ProjectGuid": "e1a37f74-fd31-4060-a13f-601b4eef3d9b",
+      "DisplayName": "Q11051_Binomial_Coefficient_2_S2",
+      "ColorIndex": 11
+    },
+    "92f41bc3-3610-450a-a10a-3765b2ece901": {
+      "ProjectGuid": "92f41bc3-3610-450a-a10a-3765b2ece901",
+      "DisplayName": "Q1699_Sum_of_Square_S2",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }

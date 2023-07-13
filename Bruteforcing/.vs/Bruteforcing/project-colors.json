@@ -70,7 +70,17 @@
       "ProjectGuid": "74c1aac8-e0b2-4952-9bc8-60aa3d8c660e",
       "DisplayName": "Q1543_Search_Documents_S4",
       "ColorIndex": 13
+    },
+    "10c519c5-c459-4ef5-9d9e-afe2f2ab7791": {
+      "ProjectGuid": "10c519c5-c459-4ef5-9d9e-afe2f2ab7791",
+      "DisplayName": "Q18111_MINECRAFT_S2",
+      "ColorIndex": 14
+    },
+    "89e3d484-af3d-4600-a4fc-ebad8bfe0b61": {
+      "ProjectGuid": "89e3d484-af3d-4600-a4fc-ebad8bfe0b61",
+      "DisplayName": "Q3085_Candy_Game_S2",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 0
 }

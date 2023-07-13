@@ -25,7 +25,22 @@
       "ProjectGuid": "6bb00b0d-9b13-41a3-9aef-c9d512cef571",
       "DisplayName": "Q1929_Get_Prime_S3",
       "ColorIndex": 4
+    },
+    "f68a608f-cec5-4bb3-83e9-af2a56e8a87f": {
+      "ProjectGuid": "f68a608f-cec5-4bb3-83e9-af2a56e8a87f",
+      "DisplayName": "Q4948_Bertrands_Postulate_S2",
+      "ColorIndex": 5
+    },
+    "c3ea8dbd-737e-4047-8f1e-b53395672d91": {
+      "ProjectGuid": "c3ea8dbd-737e-4047-8f1e-b53395672d91",
+      "DisplayName": "Q9020_Goldbachs_Conjecture_S2",
+      "ColorIndex": 6
+    },
+    "a1ad4269-5eb7-4182-97af-c2d668d44ac3": {
+      "ProjectGuid": "a1ad4269-5eb7-4182-97af-c2d668d44ac3",
+      "DisplayName": "Q2004_Number_of_Zero_S2",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
