@@ -65,7 +65,17 @@
       "ProjectGuid": "92f41bc3-3610-450a-a10a-3765b2ece901",
       "DisplayName": "Q1699_Sum_of_Square_S2",
       "ColorIndex": 12
+    },
+    "47039286-7d16-49bf-94b4-bc2627f6d8ea": {
+      "ProjectGuid": "47039286-7d16-49bf-94b4-bc2627f6d8ea",
+      "DisplayName": "Q11053_Longest_Increasing_Subsequence_S2",
+      "ColorIndex": 13
+    },
+    "4867c561-6b52-498e-934a-9cd0d7a9d3a6": {
+      "ProjectGuid": "4867c561-6b52-498e-934a-9cd0d7a9d3a6",
+      "DisplayName": "Q1912_Prefix_Sum_S2",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 15
 }

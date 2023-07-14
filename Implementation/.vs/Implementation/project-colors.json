@@ -185,7 +185,12 @@
       "ProjectGuid": "1a24fa7c-5bba-4d02-944c-12fca4eb0d63",
       "DisplayName": "Q18110_SOLVEDAC_S4",
       "ColorIndex": 4
+    },
+    "637cf16e-b7b4-4b32-be5f-2308986adcc3": {
+      "ProjectGuid": "637cf16e-b7b4-4b32-be5f-2308986adcc3",
+      "DisplayName": "Q2477_Korean_Melon_Field_S2",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

@@ -5,7 +5,17 @@
       "ProjectGuid": "eb3f4aec-3910-4e4b-9ebe-dea8ac5abe8a",
       "DisplayName": "Q2606_VIRUS_S3",
       "ColorIndex": 0
+    },
+    "4a6418a3-0c5a-488c-a046-12087f4529f8": {
+      "ProjectGuid": "4a6418a3-0c5a-488c-a046-12087f4529f8",
+      "DisplayName": "Q1260_DFS_BFS_S2",
+      "ColorIndex": 1
+    },
+    "5f345fb6-bce3-40c2-98f5-fc69f45c53ed": {
+      "ProjectGuid": "5f345fb6-bce3-40c2-98f5-fc69f45c53ed",
+      "DisplayName": "Q1012_Organic_Cabbage_S2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

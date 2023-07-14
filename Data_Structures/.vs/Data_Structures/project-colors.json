@@ -85,7 +85,17 @@
       "ProjectGuid": "dd660120-0581-4863-ac39-947bcf3a7d01",
       "DisplayName": "Q17413_Reverse_Words_2_S3",
       "ColorIndex": 0
+    },
+    "33db5a3f-c265-4614-8218-81ed578b352c": {
+      "ProjectGuid": "33db5a3f-c265-4614-8218-81ed578b352c",
+      "DisplayName": "Q11478_Number_of_Substring_S3",
+      "ColorIndex": 1
+    },
+    "a68996d7-c343-4cdf-84e5-16478cd6e486": {
+      "ProjectGuid": "a68996d7-c343-4cdf-84e5-16478cd6e486",
+      "DisplayName": "Q4358_ECOLOGY_S2",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

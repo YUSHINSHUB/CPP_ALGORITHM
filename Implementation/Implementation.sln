@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10162_MICROWAVE_B3", "Q101
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q18110_SOLVEDAC_S4", "Q18110_SOLVEDAC_S4\Q18110_SOLVEDAC_S4.vcxproj", "{1A24FA7C-5BBA-4D02-944C-12FCA4EB0D63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2477_Korean_Melon_Field_S2", "Q2477_Korean_Melon_Field_S2\Q2477_Korean_Melon_Field_S2.vcxproj", "{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{1A24FA7C-5BBA-4D02-944C-12FCA4EB0D63}.Release|x64.Build.0 = Release|x64
 		{1A24FA7C-5BBA-4D02-944C-12FCA4EB0D63}.Release|x86.ActiveCfg = Release|Win32
 		{1A24FA7C-5BBA-4D02-944C-12FCA4EB0D63}.Release|x86.Build.0 = Release|Win32
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Debug|x64.ActiveCfg = Debug|x64
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Debug|x64.Build.0 = Debug|x64
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Debug|x86.Build.0 = Debug|Win32
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Release|x64.ActiveCfg = Release|x64
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Release|x64.Build.0 = Release|x64
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Release|x86.ActiveCfg = Release|Win32
+		{637CF16E-B7B4-4B32-BE5F-2308986ADCC3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
