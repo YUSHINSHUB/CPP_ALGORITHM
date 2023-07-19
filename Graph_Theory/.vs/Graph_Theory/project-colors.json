@@ -15,7 +15,27 @@
       "ProjectGuid": "601e7f4b-5d72-40ba-8937-c2846b26d6ce",
       "DisplayName": "Q16173_Jump_King_Small_S4",
       "ColorIndex": 2
+    },
+    "025a4ae9-327e-4ad3-b0b7-4c9efa99ec5a": {
+      "ProjectGuid": "025a4ae9-327e-4ad3-b0b7-4c9efa99ec5a",
+      "DisplayName": "Q16953_AtoB_S2",
+      "ColorIndex": 3
+    },
+    "957cc168-8cbb-47b8-8898-2d372df0ece4": {
+      "ProjectGuid": "957cc168-8cbb-47b8-8898-2d372df0ece4",
+      "DisplayName": "Q17848_Flight_Turbulence_S5",
+      "ColorIndex": 4
+    },
+    "a278a507-edc4-469c-bcc8-0950fcf10a73": {
+      "ProjectGuid": "a278a507-edc4-469c-bcc8-0950fcf10a73",
+      "DisplayName": "Q1388_Floor_Deco_S4",
+      "ColorIndex": 5
+    },
+    "413ef0b3-b82c-4139-873d-e5e0e9c2476b": {
+      "ProjectGuid": "413ef0b3-b82c-4139-873d-e5e0e9c2476b",
+      "DisplayName": "Q11558_The_Game_of_Death_S4",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
