@@ -5,7 +5,17 @@
       "ProjectGuid": "30685c60-b1d8-4e03-870e-077ae6bfcf11",
       "DisplayName": "Q7785_In_Company_S5",
       "ColorIndex": 0
+    },
+    "bf3f7638-9330-4805-beee-0e0472d52280": {
+      "ProjectGuid": "bf3f7638-9330-4805-beee-0e0472d52280",
+      "DisplayName": "Q1620_Pokemon_Master_S4",
+      "ColorIndex": 1
+    },
+    "0c5de97b-f30e-4462-9e6e-d268c81f4f84": {
+      "ProjectGuid": "0c5de97b-f30e-4462-9e6e-d268c81f4f84",
+      "DisplayName": "Q1269_Symmetric_Difference_S4",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

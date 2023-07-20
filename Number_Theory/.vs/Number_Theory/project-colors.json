@@ -40,7 +40,12 @@
       "ProjectGuid": "a1ad4269-5eb7-4182-97af-c2d668d44ac3",
       "DisplayName": "Q2004_Number_of_Zero_S2",
       "ColorIndex": 7
+    },
+    "28faa221-32e8-43f2-b30d-269b39a51a9d": {
+      "ProjectGuid": "28faa221-32e8-43f2-b30d-269b39a51a9d",
+      "DisplayName": "Q1934_LCM_B1",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
