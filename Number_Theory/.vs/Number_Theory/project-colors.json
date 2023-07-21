@@ -45,7 +45,32 @@
       "ProjectGuid": "28faa221-32e8-43f2-b30d-269b39a51a9d",
       "DisplayName": "Q1934_LCM_B1",
       "ColorIndex": 8
+    },
+    "96739b4f-dc90-499c-96bd-92101b3cc217": {
+      "ProjectGuid": "96739b4f-dc90-499c-96bd-92101b3cc217",
+      "DisplayName": "Q13241_LCM_S5",
+      "ColorIndex": 9
+    },
+    "dfb5582a-01f3-4d9b-a170-085cd93e9b2e": {
+      "ProjectGuid": "dfb5582a-01f3-4d9b-a170-085cd93e9b2e",
+      "DisplayName": "Q1735_Fraction_Sum_S3",
+      "ColorIndex": 10
+    },
+    "ac2649e1-9a76-4243-ad1d-2c22b156d8f5": {
+      "ProjectGuid": "ac2649e1-9a76-4243-ad1d-2c22b156d8f5",
+      "DisplayName": "Q2485_Street_Tree_S4",
+      "ColorIndex": 11
+    },
+    "3f1741e5-ccf8-4eda-a7b0-3f2d7213220b": {
+      "ProjectGuid": "3f1741e5-ccf8-4eda-a7b0-3f2d7213220b",
+      "DisplayName": "Q17103_Goldbach_Partition_S2",
+      "ColorIndex": 12
+    },
+    "4848bd96-a509-4590-82a0-9d723c49dd46": {
+      "ProjectGuid": "4848bd96-a509-4590-82a0-9d723c49dd46",
+      "DisplayName": "Q13909_Close_Windows_S5",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 14
 }

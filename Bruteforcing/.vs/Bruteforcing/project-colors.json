@@ -80,7 +80,12 @@
       "ProjectGuid": "89e3d484-af3d-4600-a4fc-ebad8bfe0b61",
       "DisplayName": "Q3085_Candy_Game_S2",
       "ColorIndex": 15
+    },
+    "40457821-ba88-4123-a5b4-3384fbd8e420": {
+      "ProjectGuid": "40457821-ba88-4123-a5b4-3384fbd8e420",
+      "DisplayName": "Q4134_Next_Prime_S4",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }

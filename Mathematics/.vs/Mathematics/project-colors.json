@@ -195,7 +195,12 @@
       "ProjectGuid": "09654fbf-f83b-489b-858a-ed4b6bc95223",
       "DisplayName": "Q2108_STATISTICS_S3",
       "ColorIndex": 6
+    },
+    "3bea2814-57fc-47b7-a77b-62e9866cf54e": {
+      "ProjectGuid": "3bea2814-57fc-47b7-a77b-62e9866cf54e",
+      "DisplayName": "Q15439_FASHION_B4",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
