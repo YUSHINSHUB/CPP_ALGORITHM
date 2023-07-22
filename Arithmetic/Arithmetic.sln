@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q5086_Multiple_and_Divisor_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15894_Mathematic_is_B3", "Q15894_Mathematic_is_B3\Q15894_Mathematic_is_B3.vcxproj", "{B4E28F92-985E-40B1-8BB8-54DDF21D0D54}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24723_Green_Tower_B4", "Q24723_Green_Tower_B4\Q24723_Green_Tower_B4.vcxproj", "{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{B4E28F92-985E-40B1-8BB8-54DDF21D0D54}.Release|x64.Build.0 = Release|x64
 		{B4E28F92-985E-40B1-8BB8-54DDF21D0D54}.Release|x86.ActiveCfg = Release|Win32
 		{B4E28F92-985E-40B1-8BB8-54DDF21D0D54}.Release|x86.Build.0 = Release|Win32
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Debug|x64.ActiveCfg = Debug|x64
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Debug|x64.Build.0 = Debug|x64
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Debug|x86.Build.0 = Debug|Win32
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Release|x64.ActiveCfg = Release|x64
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Release|x64.Build.0 = Release|x64
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Release|x86.ActiveCfg = Release|Win32
+		{A73F1575-B02C-488A-83AA-D45DEDAC6ACE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

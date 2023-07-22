@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17103_Goldbach_Partition_S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13909_Close_Windows_S5", "Q13909_Close_Windows_S5\Q13909_Close_Windows_S5.vcxproj", "{4848BD96-A509-4590-82A0-9D723C49DD46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1037_DIVISOR_B1", "Q1037_DIVISOR_B1\Q1037_DIVISOR_B1.vcxproj", "{16C15A3D-080B-4D6E-929A-C708CCABFB5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{4848BD96-A509-4590-82A0-9D723C49DD46}.Release|x64.Build.0 = Release|x64
 		{4848BD96-A509-4590-82A0-9D723C49DD46}.Release|x86.ActiveCfg = Release|Win32
 		{4848BD96-A509-4590-82A0-9D723C49DD46}.Release|x86.Build.0 = Release|Win32
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Debug|x64.ActiveCfg = Debug|x64
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Debug|x64.Build.0 = Debug|x64
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Debug|x86.Build.0 = Debug|Win32
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Release|x64.ActiveCfg = Release|x64
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Release|x64.Build.0 = Release|x64
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Release|x86.ActiveCfg = Release|Win32
+		{16C15A3D-080B-4D6E-929A-C708CCABFB5C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
