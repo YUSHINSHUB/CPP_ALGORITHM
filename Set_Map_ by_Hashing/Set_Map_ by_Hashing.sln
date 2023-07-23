@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1620_Pokemon_Master_S4", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1269_Symmetric_Difference_S4", "Q1269_Symmetric_Difference_S4\Q1269_Symmetric_Difference_S4.vcxproj", "{0C5DE97B-F30E-4462-9E6E-D268C81F4F84}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q25192_GOMGOM_S4", "Q25192_GOMGOM_S4\Q25192_GOMGOM_S4.vcxproj", "{63E1DA7D-1596-4956-9CA3-3CBC843653EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{0C5DE97B-F30E-4462-9E6E-D268C81F4F84}.Release|x64.Build.0 = Release|x64
 		{0C5DE97B-F30E-4462-9E6E-D268C81F4F84}.Release|x86.ActiveCfg = Release|Win32
 		{0C5DE97B-F30E-4462-9E6E-D268C81F4F84}.Release|x86.Build.0 = Release|Win32
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Debug|x64.ActiveCfg = Debug|x64
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Debug|x64.Build.0 = Debug|x64
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Debug|x86.Build.0 = Debug|Win32
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Release|x64.ActiveCfg = Release|x64
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Release|x64.Build.0 = Release|x64
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Release|x86.ActiveCfg = Release|Win32
+		{63E1DA7D-1596-4956-9CA3-3CBC843653EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
