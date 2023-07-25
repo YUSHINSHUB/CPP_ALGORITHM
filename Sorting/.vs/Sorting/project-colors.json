@@ -50,7 +50,12 @@
       "ProjectGuid": "da1c18ae-fdc1-4092-b489-9e7661165c1f",
       "DisplayName": "Q25305_Cut_Line_B2",
       "ColorIndex": 9
+    },
+    "73572fbb-7793-48c6-9e88-53dcb3a6c1b7": {
+      "ProjectGuid": "73572fbb-7793-48c6-9e88-53dcb3a6c1b7",
+      "DisplayName": "Q20920_MEMORIZE_S3",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 11
 }

@@ -15,7 +15,17 @@
       "ProjectGuid": "0c5de97b-f30e-4462-9e6e-d268c81f4f84",
       "DisplayName": "Q1269_Symmetric_Difference_S4",
       "ColorIndex": 2
+    },
+    "63e1da7d-1596-4956-9ca3-3cbc843653ec": {
+      "ProjectGuid": "63e1da7d-1596-4956-9ca3-3cbc843653ec",
+      "DisplayName": "Q25192_GOMGOM_S4",
+      "ColorIndex": 3
+    },
+    "d4be9d7f-c545-4bab-8bde-ca50d69c2aa8": {
+      "ProjectGuid": "d4be9d7f-c545-4bab-8bde-ca50d69c2aa8",
+      "DisplayName": "Q26069_ChongChong_S4",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
