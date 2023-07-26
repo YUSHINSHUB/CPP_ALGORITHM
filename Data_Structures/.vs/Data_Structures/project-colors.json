@@ -95,7 +95,12 @@
       "ProjectGuid": "a68996d7-c343-4cdf-84e5-16478cd6e486",
       "DisplayName": "Q4358_ECOLOGY_S2",
       "ColorIndex": 2
+    },
+    "873737fb-6456-4557-8fc9-b552979b378a": {
+      "ProjectGuid": "873737fb-6456-4557-8fc9-b552979b378a",
+      "DisplayName": "Q2504_Bracket_Value_S1",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

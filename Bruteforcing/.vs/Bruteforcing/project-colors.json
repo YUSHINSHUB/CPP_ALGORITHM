@@ -85,7 +85,12 @@
       "ProjectGuid": "40457821-ba88-4123-a5b4-3384fbd8e420",
       "DisplayName": "Q4134_Next_Prime_S4",
       "ColorIndex": 0
+    },
+    "79be796e-dd9c-4f68-b176-40532bbdfa63": {
+      "ProjectGuid": "79be796e-dd9c-4f68-b176-40532bbdfa63",
+      "DisplayName": "Q2615_OMOK_S1",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11478_Number_of_Substring_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q4358_ECOLOGY_S2", "Q4358_ECOLOGY_S2\Q4358_ECOLOGY_S2.vcxproj", "{A68996D7-C343-4CDF-84E5-16478CD6E486}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2504_Bracket_Value_S1", "Q2504_Bracket_Value_S1\Q2504_Bracket_Value_S1.vcxproj", "{873737FB-6456-4557-8FC9-B552979B378A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{A68996D7-C343-4CDF-84E5-16478CD6E486}.Release|x64.Build.0 = Release|x64
 		{A68996D7-C343-4CDF-84E5-16478CD6E486}.Release|x86.ActiveCfg = Release|Win32
 		{A68996D7-C343-4CDF-84E5-16478CD6E486}.Release|x86.Build.0 = Release|Win32
+		{873737FB-6456-4557-8FC9-B552979B378A}.Debug|x64.ActiveCfg = Debug|x64
+		{873737FB-6456-4557-8FC9-B552979B378A}.Debug|x64.Build.0 = Debug|x64
+		{873737FB-6456-4557-8FC9-B552979B378A}.Debug|x86.ActiveCfg = Debug|Win32
+		{873737FB-6456-4557-8FC9-B552979B378A}.Debug|x86.Build.0 = Debug|Win32
+		{873737FB-6456-4557-8FC9-B552979B378A}.Release|x64.ActiveCfg = Release|x64
+		{873737FB-6456-4557-8FC9-B552979B378A}.Release|x64.Build.0 = Release|x64
+		{873737FB-6456-4557-8FC9-B552979B378A}.Release|x86.ActiveCfg = Release|Win32
+		{873737FB-6456-4557-8FC9-B552979B378A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,7 +10,12 @@
       "ProjectGuid": "ad6e348f-83bf-4f51-b43d-031d9f05dadb",
       "DisplayName": "Q10845_QUEUE_S4",
       "ColorIndex": 1
+    },
+    "210398f7-8224-44aa-a4a9-1517d88152fe": {
+      "ProjectGuid": "210398f7-8224-44aa-a4a9-1517d88152fe",
+      "DisplayName": "Q18258_QUEUE_2_S4",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

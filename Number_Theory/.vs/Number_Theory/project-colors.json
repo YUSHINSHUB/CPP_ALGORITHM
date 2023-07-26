@@ -70,7 +70,22 @@
       "ProjectGuid": "4848bd96-a509-4590-82a0-9d723c49dd46",
       "DisplayName": "Q13909_Close_Windows_S5",
       "ColorIndex": 13
+    },
+    "16c15a3d-080b-4d6e-929a-c708ccabfb5c": {
+      "ProjectGuid": "16c15a3d-080b-4d6e-929a-c708ccabfb5c",
+      "DisplayName": "Q1037_DIVISOR_B1",
+      "ColorIndex": 14
+    },
+    "7e50d51a-e6f7-4ee9-8cf4-60dc8436fb63": {
+      "ProjectGuid": "7e50d51a-e6f7-4ee9-8cf4-60dc8436fb63",
+      "DisplayName": "Q6588_Goldbachs_Conjecture_S1",
+      "ColorIndex": 15
+    },
+    "bcf636f8-fed1-4145-8468-174c6422e3b2": {
+      "ProjectGuid": "bcf636f8-fed1-4145-8468-174c6422e3b2",
+      "DisplayName": "Q6064_Khaying_Calendar_S1",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 1
 }
