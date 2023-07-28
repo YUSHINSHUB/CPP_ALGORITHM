@@ -85,7 +85,22 @@
       "ProjectGuid": "0b5162ce-ce85-499b-bc07-d68542e20a28",
       "DisplayName": "Q2156_Tasting_Wine_S1",
       "ColorIndex": 0
+    },
+    "6e239299-1dd1-4142-a6a5-0158c99e70eb": {
+      "ProjectGuid": "6e239299-1dd1-4142-a6a5-0158c99e70eb",
+      "DisplayName": "Q1149_RGB_Street_S1",
+      "ColorIndex": 1
+    },
+    "1bc39f63-da0c-4f3f-84bc-b0e7405d9b69": {
+      "ProjectGuid": "1bc39f63-da0c-4f3f-84bc-b0e7405d9b69",
+      "DisplayName": "Q1932_Integer_Triangle_S1",
+      "ColorIndex": 2
+    },
+    "3a1d1281-7fc0-49b7-ac0d-2adacca6bd84": {
+      "ProjectGuid": "3a1d1281-7fc0-49b7-ac0d-2adacca6bd84",
+      "DisplayName": "Q9465_STICKER_S1",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }

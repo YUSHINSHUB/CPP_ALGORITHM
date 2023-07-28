@@ -10,7 +10,12 @@
       "ProjectGuid": "0e9b3d13-235a-409a-b4fa-37a1215e16df",
       "DisplayName": "Q11279_Maximum_Heap_S2",
       "ColorIndex": 1
+    },
+    "4a84006c-f24d-4166-b943-c6fb5911bb32": {
+      "ProjectGuid": "4a84006c-f24d-4166-b943-c6fb5911bb32",
+      "DisplayName": "Q11286_Absolute_Heap_S1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
