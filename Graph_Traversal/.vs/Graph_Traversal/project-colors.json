@@ -15,7 +15,22 @@
       "ProjectGuid": "5f345fb6-bce3-40c2-98f5-fc69f45c53ed",
       "DisplayName": "Q1012_Organic_Cabbage_S2",
       "ColorIndex": 2
+    },
+    "93b6eabc-8d82-445a-a946-6a79da4e93a2": {
+      "ProjectGuid": "93b6eabc-8d82-445a-a946-6a79da4e93a2",
+      "DisplayName": "Q2178_Maze_Traversal_S1",
+      "ColorIndex": 3
+    },
+    "e56aac65-e679-4cc7-a866-567088387031": {
+      "ProjectGuid": "e56aac65-e679-4cc7-a866-567088387031",
+      "DisplayName": "Q2667_Numbering_Town_S1",
+      "ColorIndex": 4
+    },
+    "cbc0e4a0-066f-452d-a83c-244ebc73a18f": {
+      "ProjectGuid": "cbc0e4a0-066f-452d-a83c-244ebc73a18f",
+      "DisplayName": "Q2468_Safe_Area_S1",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

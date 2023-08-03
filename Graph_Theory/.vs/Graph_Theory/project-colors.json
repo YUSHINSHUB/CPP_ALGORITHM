@@ -35,7 +35,12 @@
       "ProjectGuid": "413ef0b3-b82c-4139-873d-e5e0e9c2476b",
       "DisplayName": "Q11558_The_Game_of_Death_S4",
       "ColorIndex": 6
+    },
+    "6925874d-5cba-469f-9984-87cf1821a48c": {
+      "ProjectGuid": "6925874d-5cba-469f-9984-87cf1821a48c",
+      "DisplayName": "Q1325_Efficient_Hacking_S1",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
