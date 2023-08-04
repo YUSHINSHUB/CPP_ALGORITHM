@@ -55,7 +55,12 @@
       "ProjectGuid": "73572fbb-7793-48c6-9e88-53dcb3a6c1b7",
       "DisplayName": "Q20920_MEMORIZE_S3",
       "ColorIndex": 10
+    },
+    "659f4112-94ba-4467-9378-2fd96647e0f9": {
+      "ProjectGuid": "659f4112-94ba-4467-9378-2fd96647e0f9",
+      "DisplayName": "Q2752_Three_Numbers_B4",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 12
 }

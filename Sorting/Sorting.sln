@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q25305_Cut_Line_B2", "Q2530
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q20920_MEMORIZE_S3", "Q20920_MEMORIZE_S3\Q20920_MEMORIZE_S3.vcxproj", "{73572FBB-7793-48C6-9E88-53DCB3A6C1B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2752_Three_Numbers_B4", "Q2752_Three_Numbers_B4\Q2752_Three_Numbers_B4.vcxproj", "{659F4112-94BA-4467-9378-2FD96647E0F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{73572FBB-7793-48C6-9E88-53DCB3A6C1B7}.Release|x64.Build.0 = Release|x64
 		{73572FBB-7793-48C6-9E88-53DCB3A6C1B7}.Release|x86.ActiveCfg = Release|Win32
 		{73572FBB-7793-48C6-9E88-53DCB3A6C1B7}.Release|x86.Build.0 = Release|Win32
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Debug|x64.ActiveCfg = Debug|x64
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Debug|x64.Build.0 = Debug|x64
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Debug|x86.Build.0 = Debug|Win32
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x64.ActiveCfg = Release|x64
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x64.Build.0 = Release|x64
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x86.ActiveCfg = Release|Win32
+		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

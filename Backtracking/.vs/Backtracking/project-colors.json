@@ -15,7 +15,12 @@
       "ProjectGuid": "1d39695f-c48c-48e4-8ec1-bea7af163d58",
       "DisplayName": "Q10971_TSP_2_S2",
       "ColorIndex": 2
+    },
+    "ae015e1f-cf1c-46ac-a371-255cc6fbf469": {
+      "ProjectGuid": "ae015e1f-cf1c-46ac-a371-255cc6fbf469",
+      "DisplayName": "Q14888_Insert_Operator_S1",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

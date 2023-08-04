@@ -45,7 +45,17 @@
       "ProjectGuid": "a070859e-905d-4d3d-ac68-7d7d40571966",
       "DisplayName": "Q13305_Gas_Station_S3",
       "ColorIndex": 8
+    },
+    "3db7fac3-276c-49bb-8881-a35d43398a42": {
+      "ProjectGuid": "3db7fac3-276c-49bb-8881-a35d43398a42",
+      "DisplayName": "Q15903_Merge_Cards_S1",
+      "ColorIndex": 9
+    },
+    "44751691-c584-451a-b32a-ff78385ed445": {
+      "ProjectGuid": "44751691-c584-451a-b32a-ff78385ed445",
+      "DisplayName": "Q1931_Meeting_Room_S1",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 11
 }

@@ -100,7 +100,12 @@
       "ProjectGuid": "20427649-4bb5-4355-80c7-b78bb2a1fcbb",
       "DisplayName": "Q1541_Lost_Bracket_S2",
       "ColorIndex": 3
+    },
+    "abe9e3c6-6c2c-4a4c-9096-7892acabcfbb": {
+      "ProjectGuid": "abe9e3c6-6c2c-4a4c-9096-7892acabcfbb",
+      "DisplayName": "Q5525_IOIOI_S1",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
