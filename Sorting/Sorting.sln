@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q20920_MEMORIZE_S3", "Q2092
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2752_Three_Numbers_B4", "Q2752_Three_Numbers_B4\Q2752_Three_Numbers_B4.vcxproj", "{659F4112-94BA-4467-9378-2FD96647E0F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10817_Three_Numbers_B3", "Q10817_Three_Numbers_B3\Q10817_Three_Numbers_B3.vcxproj", "{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x64.Build.0 = Release|x64
 		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x86.ActiveCfg = Release|Win32
 		{659F4112-94BA-4467-9378-2FD96647E0F9}.Release|x86.Build.0 = Release|Win32
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Debug|x64.ActiveCfg = Debug|x64
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Debug|x64.Build.0 = Debug|x64
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Debug|x86.Build.0 = Debug|Win32
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Release|x64.ActiveCfg = Release|x64
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Release|x64.Build.0 = Release|x64
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Release|x86.ActiveCfg = Release|Win32
+		{5CBF29B9-3DF4-4AC3-9818-8A8D53F8916C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
