@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1021_Rotating_Queue_S3", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q28279_DEQUE_2_S4", "Q28279_DEQUE_2_S4\Q28279_DEQUE_2_S4.vcxproj", "{7C950266-4A90-4CE2-A6B1-775F365BC256}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2346_BALOON_S3", "Q2346_BALOON_S3\Q2346_BALOON_S3.vcxproj", "{FCC198B1-7B87-4237-B8F6-1971201355E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7C950266-4A90-4CE2-A6B1-775F365BC256}.Release|x64.Build.0 = Release|x64
 		{7C950266-4A90-4CE2-A6B1-775F365BC256}.Release|x86.ActiveCfg = Release|Win32
 		{7C950266-4A90-4CE2-A6B1-775F365BC256}.Release|x86.Build.0 = Release|Win32
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Debug|x64.ActiveCfg = Debug|x64
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Debug|x64.Build.0 = Debug|x64
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Debug|x86.Build.0 = Debug|Win32
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Release|x64.ActiveCfg = Release|x64
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Release|x64.Build.0 = Release|x64
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Release|x86.ActiveCfg = Release|Win32
+		{FCC198B1-7B87-4237-B8F6-1971201355E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
