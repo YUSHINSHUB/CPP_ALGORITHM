@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11558_The_Game_of_Death_S4
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1325_Efficient_Hacking_S1", "Q1325_Efficient_Hacking_S1\Q1325_Efficient_Hacking_S1.vcxproj", "{6925874D-5CBA-469F-9984-87CF1821A48C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1389_Small_World_Effect_S1", "Q1389_Small_World_Effect_S1\Q1389_Small_World_Effect_S1.vcxproj", "{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{6925874D-5CBA-469F-9984-87CF1821A48C}.Release|x64.Build.0 = Release|x64
 		{6925874D-5CBA-469F-9984-87CF1821A48C}.Release|x86.ActiveCfg = Release|Win32
 		{6925874D-5CBA-469F-9984-87CF1821A48C}.Release|x86.Build.0 = Release|Win32
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Debug|x64.ActiveCfg = Debug|x64
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Debug|x64.Build.0 = Debug|x64
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Debug|x86.Build.0 = Debug|Win32
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Release|x64.ActiveCfg = Release|x64
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Release|x64.Build.0 = Release|x64
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Release|x86.ActiveCfg = Release|Win32
+		{5A938A47-C74F-4BF9-B6A4-D8FF94B463A8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
