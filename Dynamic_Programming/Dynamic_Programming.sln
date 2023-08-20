@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9095_Add_1_2_3_S3", "Q9095
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9461_Padovan_Sequence_S3", "Q9461_Padovan_Sequence_S3\Q9461_Padovan_Sequence_S3.vcxproj", "{D19DD1D8-1ACE-4A62-B57F-F30FB3F272D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11727_2xn_Tile_2_S3", "Q11727_2xn_Tile_2_S3\Q11727_2xn_Tile_2_S3.vcxproj", "{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{D19DD1D8-1ACE-4A62-B57F-F30FB3F272D4}.Release|x64.Build.0 = Release|x64
 		{D19DD1D8-1ACE-4A62-B57F-F30FB3F272D4}.Release|x86.ActiveCfg = Release|Win32
 		{D19DD1D8-1ACE-4A62-B57F-F30FB3F272D4}.Release|x86.Build.0 = Release|Win32
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Debug|x64.ActiveCfg = Debug|x64
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Debug|x64.Build.0 = Debug|x64
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Debug|x86.Build.0 = Debug|Win32
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Release|x64.ActiveCfg = Release|x64
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Release|x64.Build.0 = Release|x64
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Release|x86.ActiveCfg = Release|Win32
+		{5C2A1D86-8AF5-4349-935D-BEC1A36DAF9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

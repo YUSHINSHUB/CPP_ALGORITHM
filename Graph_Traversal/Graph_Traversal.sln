@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2468_Safe_Area_S1", "Q2468
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24479_DFS_1_S2", "Q24479_DFS_1_S2\Q24479_DFS_1_S2.vcxproj", "{EA9F4D17-266D-48A4-AA6F-C0132D85103F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11403_Find_Route_S1", "Q11403_Find_Route_S1\Q11403_Find_Route_S1.vcxproj", "{3647E526-2DA5-45EA-A0CD-67F95B974D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{EA9F4D17-266D-48A4-AA6F-C0132D85103F}.Release|x64.Build.0 = Release|x64
 		{EA9F4D17-266D-48A4-AA6F-C0132D85103F}.Release|x86.ActiveCfg = Release|Win32
 		{EA9F4D17-266D-48A4-AA6F-C0132D85103F}.Release|x86.Build.0 = Release|Win32
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Debug|x64.ActiveCfg = Debug|x64
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Debug|x64.Build.0 = Debug|x64
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Debug|x86.Build.0 = Debug|Win32
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Release|x64.ActiveCfg = Release|x64
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Release|x64.Build.0 = Release|x64
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Release|x86.ActiveCfg = Release|Win32
+		{3647E526-2DA5-45EA-A0CD-67F95B974D6E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
