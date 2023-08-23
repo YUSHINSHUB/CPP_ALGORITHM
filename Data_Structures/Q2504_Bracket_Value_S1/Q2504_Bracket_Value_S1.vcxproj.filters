@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q2504_Bracket_Value_S1.cpp">
+    <ClCompile Include="Q2504_Bracket_Value_G5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

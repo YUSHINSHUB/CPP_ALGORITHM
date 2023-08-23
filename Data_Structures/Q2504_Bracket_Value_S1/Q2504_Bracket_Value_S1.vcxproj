@@ -24,6 +24,7 @@
     <ProjectGuid>{873737fb-6456-4557-8fc9-b552979b378a}</ProjectGuid>
     <RootNamespace>Q2504BracketValueS1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Q2504_Bracket_Value_G5</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Q2504_Bracket_Value_S1.cpp" />
+    <ClCompile Include="Q2504_Bracket_Value_G5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
