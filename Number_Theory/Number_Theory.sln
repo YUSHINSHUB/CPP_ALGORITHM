@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q6588_Goldbachs_Conjecture_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q6064_Khaying_Calendar_S1", "Q6064_Khaying_Calendar_S1\Q6064_Khaying_Calendar_S1.vcxproj", "{BCF636F8-FED1-4145-8468-174C6422E3B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2436_Common_Divisor_G5", "Q2436_Common_Divisor_G5\Q2436_Common_Divisor_G5.vcxproj", "{84935770-23F6-41F1-91A3-779DA0BD3E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{BCF636F8-FED1-4145-8468-174C6422E3B2}.Release|x64.Build.0 = Release|x64
 		{BCF636F8-FED1-4145-8468-174C6422E3B2}.Release|x86.ActiveCfg = Release|Win32
 		{BCF636F8-FED1-4145-8468-174C6422E3B2}.Release|x86.Build.0 = Release|Win32
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Debug|x64.ActiveCfg = Debug|x64
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Debug|x64.Build.0 = Debug|x64
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Debug|x86.ActiveCfg = Debug|Win32
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Debug|x86.Build.0 = Debug|Win32
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Release|x64.ActiveCfg = Release|x64
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Release|x64.Build.0 = Release|x64
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Release|x86.ActiveCfg = Release|Win32
+		{84935770-23F6-41F1-91A3-779DA0BD3E65}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
