@@ -24,6 +24,7 @@
     <ProjectGuid>{dcbd34d9-cc12-4cc0-8bd6-5d0322c9d012}</ProjectGuid>
     <RootNamespace>Q17609PALINDROME</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Q17609_PALINDROME_G5</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Q17609_PALINDROME.cpp" />
+    <ClCompile Include="Q17609_PALINDROME_G5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q17609_PALINDROME.cpp">
+    <ClCompile Include="Q17609_PALINDROME_G5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
