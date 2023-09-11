@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2477_Korean_Melon_Field_S2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10872_FACTORIAL_B5", "Q10872_FACTORIAL_B5\Q10872_FACTORIAL_B5.vcxproj", "{C0D16829-22A7-4523-B4DB-4A01631A8575}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q6502_PIZZA_B2", "Q6502_PIZZA_B2\Q6502_PIZZA_B2.vcxproj", "{D1D1551C-E496-492E-9789-D09963A8665F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -421,6 +423,14 @@ Global
 		{C0D16829-22A7-4523-B4DB-4A01631A8575}.Release|x64.Build.0 = Release|x64
 		{C0D16829-22A7-4523-B4DB-4A01631A8575}.Release|x86.ActiveCfg = Release|Win32
 		{C0D16829-22A7-4523-B4DB-4A01631A8575}.Release|x86.Build.0 = Release|Win32
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Debug|x64.ActiveCfg = Debug|x64
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Debug|x64.Build.0 = Debug|x64
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Debug|x86.Build.0 = Debug|Win32
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Release|x64.ActiveCfg = Release|x64
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Release|x64.Build.0 = Release|x64
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Release|x86.ActiveCfg = Release|Win32
+		{D1D1551C-E496-492E-9789-D09963A8665F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
