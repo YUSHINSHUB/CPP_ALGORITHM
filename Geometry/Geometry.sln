@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11880_ANT_B2", "Q11880_ANT
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17247_Taxi_Distance_B1", "Q17247_Taxi_Distance_B1\Q17247_Taxi_Distance_B1.vcxproj", "{FB7D3918-F780-4562-88D9-AA34FE9531CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1894_Fourth_Point_B1", "Q1894_Fourth_Point_B1\Q1894_Fourth_Point_B1.vcxproj", "{5825542F-3A2E-43CB-8151-7090E68CD5C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{FB7D3918-F780-4562-88D9-AA34FE9531CC}.Release|x64.Build.0 = Release|x64
 		{FB7D3918-F780-4562-88D9-AA34FE9531CC}.Release|x86.ActiveCfg = Release|Win32
 		{FB7D3918-F780-4562-88D9-AA34FE9531CC}.Release|x86.Build.0 = Release|Win32
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Debug|x64.ActiveCfg = Debug|x64
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Debug|x64.Build.0 = Debug|x64
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Debug|x86.Build.0 = Debug|Win32
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Release|x64.ActiveCfg = Release|x64
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Release|x64.Build.0 = Release|x64
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Release|x86.ActiveCfg = Release|Win32
+		{5825542F-3A2E-43CB-8151-7090E68CD5C9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
