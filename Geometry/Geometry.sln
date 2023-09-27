@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1064_PARALLELOGRAM_S4", "Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2527_RECTANGLE_S1", "Q2527_RECTANGLE_S1\Q2527_RECTANGLE_S1.vcxproj", "{4F6B9F19-EB3E-4FA1-98A4-EC76BAAD2B35}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15973_Two_Box_S1", "Q15973_Two_Box_S1\Q15973_Two_Box_S1.vcxproj", "{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{4F6B9F19-EB3E-4FA1-98A4-EC76BAAD2B35}.Release|x64.Build.0 = Release|x64
 		{4F6B9F19-EB3E-4FA1-98A4-EC76BAAD2B35}.Release|x86.ActiveCfg = Release|Win32
 		{4F6B9F19-EB3E-4FA1-98A4-EC76BAAD2B35}.Release|x86.Build.0 = Release|Win32
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Debug|x64.ActiveCfg = Debug|x64
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Debug|x64.Build.0 = Debug|x64
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Debug|x86.ActiveCfg = Debug|Win32
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Debug|x86.Build.0 = Debug|Win32
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Release|x64.ActiveCfg = Release|x64
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Release|x64.Build.0 = Release|x64
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Release|x86.ActiveCfg = Release|Win32
+		{73BBF5E6-8B0D-4661-B6F5-27E9C307807F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
