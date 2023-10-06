@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13549_Hide_Seek_3_G5", "Q1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7569_TOMATO_G5", "Q7569_TOMATO_G5\Q7569_TOMATO_G5.vcxproj", "{89B2AAD5-D1DB-494B-BAD9-1C4DF5CC9944}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10026_Color_Blindness_G5", "Q10026_Color_Blindness_G5\Q10026_Color_Blindness_G5.vcxproj", "{F9A2EE3A-96B2-482C-9BEF-FB975045135A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{89B2AAD5-D1DB-494B-BAD9-1C4DF5CC9944}.Release|x64.Build.0 = Release|x64
 		{89B2AAD5-D1DB-494B-BAD9-1C4DF5CC9944}.Release|x86.ActiveCfg = Release|Win32
 		{89B2AAD5-D1DB-494B-BAD9-1C4DF5CC9944}.Release|x86.Build.0 = Release|Win32
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Debug|x64.ActiveCfg = Debug|x64
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Debug|x64.Build.0 = Debug|x64
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Debug|x86.Build.0 = Debug|Win32
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Release|x64.ActiveCfg = Release|x64
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Release|x64.Build.0 = Release|x64
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Release|x86.ActiveCfg = Release|Win32
+		{F9A2EE3A-96B2-482C-9BEF-FB975045135A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
