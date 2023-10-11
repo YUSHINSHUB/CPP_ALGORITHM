@@ -27,7 +27,8 @@ queue<int> yq;
 void bfs(int y, int x, int idx) {
 	if (idx == 3) {
 		int temp = 0;
-		int tgrp[8][8];
+		int
+			tgrp[8][8];
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
 				tgrp[i][j] = grp[i][j];
