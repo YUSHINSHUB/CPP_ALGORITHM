@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q21736_Need_Friends_S2", "Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2589_Treasure_Island_G5", "Q2589_Treasure_Island_G5\Q2589_Treasure_Island_G5.vcxproj", "{35B8251D-5997-4E69-BB76-EB63B485F7C0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1753_Shortest_Route_G4", "Q1753_Shortest_Route_G4\Q1753_Shortest_Route_G4.vcxproj", "{61520B38-504D-4F40-AA39-1EDBB6CCF080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{35B8251D-5997-4E69-BB76-EB63B485F7C0}.Release|x64.Build.0 = Release|x64
 		{35B8251D-5997-4E69-BB76-EB63B485F7C0}.Release|x86.ActiveCfg = Release|Win32
 		{35B8251D-5997-4E69-BB76-EB63B485F7C0}.Release|x86.Build.0 = Release|Win32
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Debug|x64.ActiveCfg = Debug|x64
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Debug|x64.Build.0 = Debug|x64
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Debug|x86.ActiveCfg = Debug|Win32
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Debug|x86.Build.0 = Debug|Win32
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Release|x64.ActiveCfg = Release|x64
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Release|x64.Build.0 = Release|x64
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Release|x86.ActiveCfg = Release|Win32
+		{61520B38-504D-4F40-AA39-1EDBB6CCF080}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
