@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11399_ATM_S4", "Q11399_ATM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11000_Lecture_Room_G5", "Q11000_Lecture_Room_G5\Q11000_Lecture_Room_G5.vcxproj", "{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1715_Sort_Cards_G4", "Q1715_Sort_Cards_G4\Q1715_Sort_Cards_G4.vcxproj", "{EBC37669-879D-476D-A167-3D9B6FF36ED7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Release|x64.Build.0 = Release|x64
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Release|x86.ActiveCfg = Release|Win32
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Release|x86.Build.0 = Release|Win32
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Debug|x64.ActiveCfg = Debug|x64
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Debug|x64.Build.0 = Debug|x64
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Debug|x86.Build.0 = Debug|Win32
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x64.ActiveCfg = Release|x64
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x64.Build.0 = Release|x64
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x86.ActiveCfg = Release|Win32
+		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
