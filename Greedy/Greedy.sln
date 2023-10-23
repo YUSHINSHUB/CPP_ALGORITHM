@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11000_Lecture_Room_G5", "Q
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1715_Sort_Cards_G4", "Q1715_Sort_Cards_G4\Q1715_Sort_Cards_G4.vcxproj", "{EBC37669-879D-476D-A167-3D9B6FF36ED7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1339_Word_Math_G4", "Q1339_Word_Math_G4\Q1339_Word_Math_G4.vcxproj", "{6490B86E-4203-4EAB-89D4-1F8304D79414}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x64.Build.0 = Release|x64
 		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x86.ActiveCfg = Release|Win32
 		{EBC37669-879D-476D-A167-3D9B6FF36ED7}.Release|x86.Build.0 = Release|Win32
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Debug|x64.ActiveCfg = Debug|x64
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Debug|x64.Build.0 = Debug|x64
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Debug|x86.ActiveCfg = Debug|Win32
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Debug|x86.Build.0 = Debug|Win32
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x64.ActiveCfg = Release|x64
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x64.Build.0 = Release|x64
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x86.ActiveCfg = Release|Win32
+		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
