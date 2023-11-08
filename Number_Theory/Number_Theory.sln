@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2960_Sieve_of_Eratosthenes
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1456_Almost_Prime_G5", "Q1456_Almost_Prime_G5\Q1456_Almost_Prime_G5.vcxproj", "{4539EE98-D594-439C-B590-265AD8FFC1F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1644_Prime_Continuous_Sum_G3", "Q1644_Prime_Continuous_Sum_G3\Q1644_Prime_Continuous_Sum_G3.vcxproj", "{1CB9DE80-9637-4F39-98DF-179AD911683F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{4539EE98-D594-439C-B590-265AD8FFC1F3}.Release|x64.Build.0 = Release|x64
 		{4539EE98-D594-439C-B590-265AD8FFC1F3}.Release|x86.ActiveCfg = Release|Win32
 		{4539EE98-D594-439C-B590-265AD8FFC1F3}.Release|x86.Build.0 = Release|Win32
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Debug|x64.ActiveCfg = Debug|x64
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Debug|x64.Build.0 = Debug|x64
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Debug|x86.Build.0 = Debug|Win32
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Release|x64.ActiveCfg = Release|x64
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Release|x64.Build.0 = Release|x64
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Release|x86.ActiveCfg = Release|Win32
+		{1CB9DE80-9637-4F39-98DF-179AD911683F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2573_ICEBERG_G4", "Q2573_I
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1707_Bipartite_Graph_G4", "Q1707_Bipartite_Graph_G4\Q1707_Bipartite_Graph_G4.vcxproj", "{72ECC9BF-4FBF-49C8-BB6D-EC17F1F181BB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9019_DSLR_G4", "Q9019_DSLR_G4\Q9019_DSLR_G4.vcxproj", "{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{72ECC9BF-4FBF-49C8-BB6D-EC17F1F181BB}.Release|x64.Build.0 = Release|x64
 		{72ECC9BF-4FBF-49C8-BB6D-EC17F1F181BB}.Release|x86.ActiveCfg = Release|Win32
 		{72ECC9BF-4FBF-49C8-BB6D-EC17F1F181BB}.Release|x86.Build.0 = Release|Win32
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Debug|x64.ActiveCfg = Debug|x64
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Debug|x64.Build.0 = Debug|x64
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Debug|x86.Build.0 = Debug|Win32
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Release|x64.ActiveCfg = Release|x64
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Release|x64.Build.0 = Release|x64
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Release|x86.ActiveCfg = Release|Win32
+		{A6F8E4F7-7270-4998-A212-E4C85E6D44BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
