@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15652_NM_4_S3", "Q15652_NM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2580_SUDOKU_G4", "Q2580_SUDOKU_G4\Q2580_SUDOKU_G4.vcxproj", "{13E7B9CE-6EA2-4230-BE75-7DF08A2F1DA3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15684_Ladder_Control_G3", "Q15684_Ladder_Control_G3\Q15684_Ladder_Control_G3.vcxproj", "{04492056-C59E-48D8-8F9E-8D811AE45F09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{13E7B9CE-6EA2-4230-BE75-7DF08A2F1DA3}.Release|x64.Build.0 = Release|x64
 		{13E7B9CE-6EA2-4230-BE75-7DF08A2F1DA3}.Release|x86.ActiveCfg = Release|Win32
 		{13E7B9CE-6EA2-4230-BE75-7DF08A2F1DA3}.Release|x86.Build.0 = Release|Win32
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Debug|x64.ActiveCfg = Debug|x64
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Debug|x64.Build.0 = Debug|x64
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Debug|x86.ActiveCfg = Debug|Win32
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Debug|x86.Build.0 = Debug|Win32
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Release|x64.ActiveCfg = Release|x64
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Release|x64.Build.0 = Release|x64
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Release|x86.ActiveCfg = Release|Win32
+		{04492056-C59E-48D8-8F9E-8D811AE45F09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
