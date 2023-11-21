@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9019_DSLR_G4", "Q9019_DSLR
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q16236_Baby_Shark_G3", "Q16236_Baby_Shark_G3\Q16236_Baby_Shark_G3.vcxproj", "{2168C96B-3D75-402A-97EC-002DE1766C76}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1939_Weight_Limit_G3", "Q1939_Weight_Limit_G3\Q1939_Weight_Limit_G3.vcxproj", "{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{2168C96B-3D75-402A-97EC-002DE1766C76}.Release|x64.Build.0 = Release|x64
 		{2168C96B-3D75-402A-97EC-002DE1766C76}.Release|x86.ActiveCfg = Release|Win32
 		{2168C96B-3D75-402A-97EC-002DE1766C76}.Release|x86.Build.0 = Release|Win32
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Debug|x64.ActiveCfg = Debug|x64
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Debug|x64.Build.0 = Debug|x64
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Debug|x86.Build.0 = Debug|Win32
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x64.ActiveCfg = Release|x64
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x64.Build.0 = Release|x64
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x86.ActiveCfg = Release|Win32
+		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
