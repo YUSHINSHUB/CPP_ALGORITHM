@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1715_Sort_Cards_G4", "Q171
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1339_Word_Math_G4", "Q1339_Word_Math_G4\Q1339_Word_Math_G4.vcxproj", "{6490B86E-4203-4EAB-89D4-1F8304D79414}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2812_BIGGER_G3", "Q2812_BIGGER_G3\Q2812_BIGGER_G3.vcxproj", "{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x64.Build.0 = Release|x64
 		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x86.ActiveCfg = Release|Win32
 		{6490B86E-4203-4EAB-89D4-1F8304D79414}.Release|x86.Build.0 = Release|Win32
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Debug|x64.ActiveCfg = Debug|x64
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Debug|x64.Build.0 = Debug|x64
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Debug|x86.Build.0 = Debug|Win32
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x64.ActiveCfg = Release|x64
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x64.Build.0 = Release|x64
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x86.ActiveCfg = Release|Win32
+		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
