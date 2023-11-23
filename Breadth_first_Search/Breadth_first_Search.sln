@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q16236_Baby_Shark_G3", "Q16
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1939_Weight_Limit_G3", "Q1939_Weight_Limit_G3\Q1939_Weight_Limit_G3.vcxproj", "{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2206_Break_Wall_G3", "Q2206_Break_Wall_G3\Q2206_Break_Wall_G3.vcxproj", "{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x64.Build.0 = Release|x64
 		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x86.ActiveCfg = Release|Win32
 		{A39CBC56-7E95-428D-AC7A-563DDB2C83A2}.Release|x86.Build.0 = Release|Win32
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Debug|x64.ActiveCfg = Debug|x64
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Debug|x64.Build.0 = Debug|x64
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Debug|x86.ActiveCfg = Debug|Win32
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Debug|x86.Build.0 = Debug|Win32
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Release|x64.ActiveCfg = Release|x64
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Release|x64.Build.0 = Release|x64
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Release|x86.ActiveCfg = Release|Win32
+		{6DCB5B20-5E5D-401A-82B2-F83EEEC6F735}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
