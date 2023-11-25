@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1339_Word_Math_G4", "Q1339
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2812_BIGGER_G3", "Q2812_BIGGER_G3\Q2812_BIGGER_G3.vcxproj", "{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2457_Princess_Garden_G3", "Q2457_Princess_Garden_G3\Q2457_Princess_Garden_G3.vcxproj", "{06DB20CA-2818-4C97-A31F-51392347AAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x64.Build.0 = Release|x64
 		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x86.ActiveCfg = Release|Win32
 		{3F9DAFF1-A4CC-42CE-BEB0-04AB723AB86D}.Release|x86.Build.0 = Release|Win32
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Debug|x64.ActiveCfg = Debug|x64
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Debug|x64.Build.0 = Debug|x64
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Debug|x86.Build.0 = Debug|Win32
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Release|x64.ActiveCfg = Release|x64
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Release|x64.Build.0 = Release|x64
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Release|x86.ActiveCfg = Release|Win32
+		{06DB20CA-2818-4C97-A31F-51392347AAAC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
