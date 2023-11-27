@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q12891_DNA_PW_S2", "Q12891_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9996_Missing_Korea_S3", "Q9996_Missing_Korea_S3\Q9996_Missing_Korea_S3.vcxproj", "{F9CC233B-E43D-4449-AA87-B2125CCCCC8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1701_CUBEDITOR_G3", "Q1701_CUBEDITOR_G3\Q1701_CUBEDITOR_G3.vcxproj", "{0080C669-3819-4921-BDAE-EC29F067F4F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{F9CC233B-E43D-4449-AA87-B2125CCCCC8A}.Release|x64.Build.0 = Release|x64
 		{F9CC233B-E43D-4449-AA87-B2125CCCCC8A}.Release|x86.ActiveCfg = Release|Win32
 		{F9CC233B-E43D-4449-AA87-B2125CCCCC8A}.Release|x86.Build.0 = Release|Win32
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Debug|x64.ActiveCfg = Debug|x64
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Debug|x64.Build.0 = Debug|x64
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Debug|x86.Build.0 = Debug|Win32
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Release|x64.ActiveCfg = Release|x64
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Release|x64.Build.0 = Release|x64
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Release|x86.ActiveCfg = Release|Win32
+		{0080C669-3819-4921-BDAE-EC29F067F4F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
