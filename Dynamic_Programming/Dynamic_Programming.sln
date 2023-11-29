@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15841_Virus_Outbreak_B2", "Q15841_Virus_Outbreak_B2\Q15841_Virus_Outbreak_B2.vcxproj", "{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2748_FIBONACCI_2_B1", "Q2748_FIBONACCI_2_B1\Q2748_FIBONACCI_2_B1.vcxproj", "{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1010_Construct_Bridge_S5", "Q1010_Construct_Bridge_S5\Q1010_Construct_Bridge_S5.vcxproj", "{D504C7B9-8CAC-4EB7-BC4F-4CEF23DCC6EB}"
@@ -73,14 +71,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Debug|x64.ActiveCfg = Debug|x64
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Debug|x64.Build.0 = Debug|x64
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Debug|x86.ActiveCfg = Debug|Win32
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Debug|x86.Build.0 = Debug|Win32
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Release|x64.ActiveCfg = Release|x64
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Release|x64.Build.0 = Release|x64
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Release|x86.ActiveCfg = Release|Win32
-		{8D3EEA9C-65A4-4CC8-9D8A-B2C6C95B40F5}.Release|x86.Build.0 = Release|Win32
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Debug|x64.ActiveCfg = Debug|x64
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Debug|x64.Build.0 = Debug|x64
 		{BAF02FCA-6352-4BC7-ADF7-4BC1867BDB6D}.Debug|x86.ActiveCfg = Debug|Win32

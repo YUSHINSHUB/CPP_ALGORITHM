@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13450_Laszlo_Babai", "Q13450_Laszlo_Babai\Q13450_Laszlo_Babai.vcxproj", "{FA4206CF-95C5-4346-B56C-90588CB60FAB}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q18097_UPHEAVAL_S5", "Q18097_UPHEAVAL_S5\Q18097_UPHEAVAL_S5.vcxproj", "{2136489C-FFF2-42E3-BA35-074D193D575C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q16173_Jump_King_Small_S4", "Q16173_Jump_King_Small_S4\Q16173_Jump_King_Small_S4.vcxproj", "{601E7F4B-5D72-40BA-8937-C2846B26D6CE}"
@@ -39,14 +37,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Debug|x64.ActiveCfg = Debug|x64
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Debug|x64.Build.0 = Debug|x64
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Debug|x86.ActiveCfg = Debug|Win32
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Debug|x86.Build.0 = Debug|Win32
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Release|x64.ActiveCfg = Release|x64
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Release|x64.Build.0 = Release|x64
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Release|x86.ActiveCfg = Release|Win32
-		{FA4206CF-95C5-4346-B56C-90588CB60FAB}.Release|x86.Build.0 = Release|Win32
 		{2136489C-FFF2-42E3-BA35-074D193D575C}.Debug|x64.ActiveCfg = Debug|x64
 		{2136489C-FFF2-42E3-BA35-074D193D575C}.Debug|x64.Build.0 = Debug|x64
 		{2136489C-FFF2-42E3-BA35-074D193D575C}.Debug|x86.ActiveCfg = Debug|Win32
