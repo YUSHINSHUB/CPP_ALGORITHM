@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10810_BALL_B3", "Q10810_BALL_B3\Q10810_BALL_B3.vcxproj", "{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10813_Ball_Swap_B2", "Q10813_Ball_Swap_B2\Q10813_Ball_Swap_B2.vcxproj", "{71FF12AC-6258-4065-B721-048484996715}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10811_BASKET_B2", "Q10811_BASKET_B2\Q10811_BASKET_B2.vcxproj", "{044FE627-9BCB-4464-BA30-8D868BC44286}"
@@ -21,14 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Debug|x64.ActiveCfg = Debug|x64
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Debug|x64.Build.0 = Debug|x64
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Debug|x86.ActiveCfg = Debug|Win32
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Debug|x86.Build.0 = Debug|Win32
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Release|x64.ActiveCfg = Release|x64
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Release|x64.Build.0 = Release|x64
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Release|x86.ActiveCfg = Release|Win32
-		{D19E0DBE-BB8F-40CA-BB95-C817BBC40B17}.Release|x86.Build.0 = Release|Win32
 		{71FF12AC-6258-4065-B721-048484996715}.Debug|x64.ActiveCfg = Debug|x64
 		{71FF12AC-6258-4065-B721-048484996715}.Debug|x64.Build.0 = Debug|x64
 		{71FF12AC-6258-4065-B721-048484996715}.Debug|x86.ActiveCfg = Debug|Win32
