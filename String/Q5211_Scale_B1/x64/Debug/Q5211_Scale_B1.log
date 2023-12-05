@@ -1,4 +1,0 @@
-﻿  Q5211_Scale_B1.cpp
-C:\Users\dbtls\Desktop\CPP WORKSPACE\String\Q5211_Scale_B1\Q5211_Scale_B1.cpp(17,17): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
-C:\Users\dbtls\Desktop\CPP WORKSPACE\String\Q5211_Scale_B1\Q5211_Scale_B1.cpp(17,19): warning C4309: '초기화 중': 상수 값이 잘립니다.
-  Q5211_Scale_B1.vcxproj -> C:\Users\dbtls\Desktop\CPP WORKSPACE\String\x64\Debug\Q5211_Scale_B1.exe
