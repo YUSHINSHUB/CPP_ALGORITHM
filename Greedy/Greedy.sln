@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13305_Gas_Station_S3", "Q13305_Gas_Station_S3\Q13305_Gas_Station_S3.vcxproj", "{A070859E-905D-4D3D-AC68-7D7D40571966}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11501_STOCK_S2", "Q11501_STOCK_S2\Q11501_STOCK_S2.vcxproj", "{2A09D9AE-9D05-49C8-86FF-AAE02CF1D05C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15903_Merge_Cards_S1", "Q15903_Merge_Cards_S1\Q15903_Merge_Cards_S1.vcxproj", "{3DB7FAC3-276C-49BB-8881-A35D43398A42}"
@@ -29,14 +27,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Debug|x64.ActiveCfg = Debug|x64
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Debug|x64.Build.0 = Debug|x64
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Debug|x86.ActiveCfg = Debug|Win32
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Debug|x86.Build.0 = Debug|Win32
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Release|x64.ActiveCfg = Release|x64
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Release|x64.Build.0 = Release|x64
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Release|x86.ActiveCfg = Release|Win32
-		{A070859E-905D-4D3D-AC68-7D7D40571966}.Release|x86.Build.0 = Release|Win32
 		{2A09D9AE-9D05-49C8-86FF-AAE02CF1D05C}.Debug|x64.ActiveCfg = Debug|x64
 		{2A09D9AE-9D05-49C8-86FF-AAE02CF1D05C}.Debug|x64.Build.0 = Debug|x64
 		{2A09D9AE-9D05-49C8-86FF-AAE02CF1D05C}.Debug|x86.ActiveCfg = Debug|Win32
