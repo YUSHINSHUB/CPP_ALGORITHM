@@ -1,8 +1,0 @@
-﻿  Q16953_AtoB_S2.cpp
-C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Graph_Theory\Q16953_AtoB_S2\Q16953_AtoB_S2.cpp(23,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Graph_Theory\Q16953_AtoB_S2\Q16953_AtoB_S2.cpp(25,14): warning C4244: '초기화 중': '_Ty'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-          with
-          [
-              _Ty=__int64
-          ]
-  Q16953_AtoB_S2.vcxproj -> C:\Users\dbtls\Desktop\Develop\CPP_WORKSPACE\Graph_Theory\x64\Debug\Q16953_AtoB_S2.exe
