@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q15903_Merge_Cards_S1", "Q15903_Merge_Cards_S1\Q15903_Merge_Cards_S1.vcxproj", "{3DB7FAC3-276C-49BB-8881-A35D43398A42}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1931_Meeting_Room_S1", "Q1931_Meeting_Room_S1\Q1931_Meeting_Room_S1.vcxproj", "{44751691-C584-451A-B32A-FF78385ED445}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11000_Lecture_Room_G5", "Q11000_Lecture_Room_G5\Q11000_Lecture_Room_G5.vcxproj", "{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1715_Sort_Cards_G4", "Q1715_Sort_Cards_G4\Q1715_Sort_Cards_G4.vcxproj", "{EBC37669-879D-476D-A167-3D9B6FF36ED7}"
@@ -27,22 +23,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Debug|x64.ActiveCfg = Debug|x64
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Debug|x64.Build.0 = Debug|x64
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Debug|x86.ActiveCfg = Debug|Win32
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Debug|x86.Build.0 = Debug|Win32
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Release|x64.ActiveCfg = Release|x64
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Release|x64.Build.0 = Release|x64
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Release|x86.ActiveCfg = Release|Win32
-		{3DB7FAC3-276C-49BB-8881-A35D43398A42}.Release|x86.Build.0 = Release|Win32
-		{44751691-C584-451A-B32A-FF78385ED445}.Debug|x64.ActiveCfg = Debug|x64
-		{44751691-C584-451A-B32A-FF78385ED445}.Debug|x64.Build.0 = Debug|x64
-		{44751691-C584-451A-B32A-FF78385ED445}.Debug|x86.ActiveCfg = Debug|Win32
-		{44751691-C584-451A-B32A-FF78385ED445}.Debug|x86.Build.0 = Debug|Win32
-		{44751691-C584-451A-B32A-FF78385ED445}.Release|x64.ActiveCfg = Release|x64
-		{44751691-C584-451A-B32A-FF78385ED445}.Release|x64.Build.0 = Release|x64
-		{44751691-C584-451A-B32A-FF78385ED445}.Release|x86.ActiveCfg = Release|Win32
-		{44751691-C584-451A-B32A-FF78385ED445}.Release|x86.Build.0 = Release|Win32
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Debug|x64.ActiveCfg = Debug|x64
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Debug|x64.Build.0 = Debug|x64
 		{20E537F6-B8E7-45C2-95DB-D1721B80C7C8}.Debug|x86.ActiveCfg = Debug|Win32
