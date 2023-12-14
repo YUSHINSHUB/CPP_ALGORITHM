@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Q14502_LAB_G4.cpp">
+    <ClCompile Include="Q14502_Lab_G4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

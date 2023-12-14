@@ -1,4 +1,0 @@
-﻿  Q1339_Word_Math_G4.cpp
-C:\Users\dbtls\Desktop\CPP WORKSPACE\Greedy\Q1339_Word_Math_G4\Q1339_Word_Math_G4.cpp(25,31): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dbtls\Desktop\CPP WORKSPACE\Greedy\Q1339_Word_Math_G4\Q1339_Word_Math_G4.cpp(47,44): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Q1339_Word_Math_G4.vcxproj -> C:\Users\dbtls\Desktop\CPP WORKSPACE\Greedy\x64\Debug\Q1339_Word_Math_G4.exe

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{21ccbaee-eaf8-43d2-bfcc-6945c5070b71}</ProjectGuid>
-    <RootNamespace>Q7576TOMATOG5</RootNamespace>
+    <ProjectGuid>{abf0fcf7-bb5e-4567-b172-5454a2e503f1}</ProjectGuid>
+    <RootNamespace>Q7576TomatoG5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Q7576_TOMATO_G5.cpp" />
+    <ClCompile Include="Q7576_Tomato_G5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

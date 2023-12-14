@@ -1,3 +1,0 @@
-﻿  Q10986_Modulo_Sum_G3.cpp
-C:\Users\dbtls\Desktop\CPP WORKSPACE\Prefix_Sum\Q10986_Modulo_Sum_G3\Q10986_Modulo_Sum_G3.cpp(45,21): warning C4244: '+=': 'll'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Q10986_Modulo_Sum_G3.vcxproj -> C:\Users\dbtls\Desktop\CPP WORKSPACE\Prefix_Sum\x64\Debug\Q10986_Modulo_Sum_G3.exe
