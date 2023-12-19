@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11650_Coordinates_S5", "Q1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2108_Statistics_S3", "Q2108_Statistics_S3\Q2108_Statistics_S3.vcxproj", "{09654FBF-F83B-489B-858A-ED4B6BC95223}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q25305_Cutline_B2", "Q25305_Cutline_B2\Q25305_Cutline_B2.vcxproj", "{D3A2738C-929D-4A6F-89CA-39F99FC96007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x64.Build.0 = Release|x64
 		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x86.ActiveCfg = Release|Win32
 		{09654FBF-F83B-489B-858A-ED4B6BC95223}.Release|x86.Build.0 = Release|Win32
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Debug|x64.ActiveCfg = Debug|x64
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Debug|x64.Build.0 = Debug|x64
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Debug|x86.Build.0 = Debug|Win32
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Release|x64.ActiveCfg = Release|x64
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Release|x64.Build.0 = Release|x64
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Release|x86.ActiveCfg = Release|Win32
+		{D3A2738C-929D-4A6F-89CA-39F99FC96007}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
