@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2580_Sudoku_G4", "Q2580_Su
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q12100_2048_Easy_G2", "Q12100_2048_Easy_G2\Q12100_2048_Easy_G2.vcxproj", "{0DF70018-5146-4C34-8B33-0B109EAF2239}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10819_Gap_S2", "Q10819_Gap_S2\Q10819_Gap_S2.vcxproj", "{F63540E7-1C33-40CA-9569-B9583808D370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{0DF70018-5146-4C34-8B33-0B109EAF2239}.Release|x64.Build.0 = Release|x64
 		{0DF70018-5146-4C34-8B33-0B109EAF2239}.Release|x86.ActiveCfg = Release|Win32
 		{0DF70018-5146-4C34-8B33-0B109EAF2239}.Release|x86.Build.0 = Release|Win32
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Debug|x64.ActiveCfg = Debug|x64
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Debug|x64.Build.0 = Debug|x64
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Debug|x86.ActiveCfg = Debug|Win32
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Debug|x86.Build.0 = Debug|Win32
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Release|x64.ActiveCfg = Release|x64
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Release|x64.Build.0 = Release|x64
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Release|x86.ActiveCfg = Release|Win32
+		{F63540E7-1C33-40CA-9569-B9583808D370}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
