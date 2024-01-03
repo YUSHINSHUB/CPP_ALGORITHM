@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2133_Tiling_G4", "Q2133_Ti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2225_Dissolution_G5", "Q2225_Dissolution_G5\Q2225_Dissolution_G5.vcxproj", "{1B62991F-60EB-48C1-AEC6-4950256CC13A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2565_Wire_G5", "Q2565_Wire_G5\Q2565_Wire_G5.vcxproj", "{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{1B62991F-60EB-48C1-AEC6-4950256CC13A}.Release|x64.Build.0 = Release|x64
 		{1B62991F-60EB-48C1-AEC6-4950256CC13A}.Release|x86.ActiveCfg = Release|Win32
 		{1B62991F-60EB-48C1-AEC6-4950256CC13A}.Release|x86.Build.0 = Release|Win32
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Debug|x64.ActiveCfg = Debug|x64
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Debug|x64.Build.0 = Debug|x64
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Debug|x86.Build.0 = Debug|Win32
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Release|x64.ActiveCfg = Release|x64
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Release|x64.Build.0 = Release|x64
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Release|x86.ActiveCfg = Release|Win32
+		{A5C03DF2-40C9-4E9F-99BA-46E9F27C8B39}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
