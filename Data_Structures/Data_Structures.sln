@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17413_Word_S3", "Q17413_Wo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2504_Bracket_G5", "Q2504_Bracket_G5\Q2504_Bracket_G5.vcxproj", "{C7FF0563-2D30-4156-85FB-A9135F1B4DE0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1966_Printer_S3", "Q1966_Printer_S3\Q1966_Printer_S3.vcxproj", "{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{C7FF0563-2D30-4156-85FB-A9135F1B4DE0}.Release|x64.Build.0 = Release|x64
 		{C7FF0563-2D30-4156-85FB-A9135F1B4DE0}.Release|x86.ActiveCfg = Release|Win32
 		{C7FF0563-2D30-4156-85FB-A9135F1B4DE0}.Release|x86.Build.0 = Release|Win32
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Debug|x64.ActiveCfg = Debug|x64
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Debug|x64.Build.0 = Debug|x64
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Debug|x86.Build.0 = Debug|Win32
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Release|x64.ActiveCfg = Release|x64
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Release|x64.Build.0 = Release|x64
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Release|x86.ActiveCfg = Release|Win32
+		{DF66D1AD-BBE4-4C65-977F-2413A9C6C0CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
