@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10813_Swap_B2", "Q10813_Sw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10811_Basket_B2", "Q10811_Basket_B2\Q10811_Basket_B2.vcxproj", "{A294F77C-9097-4D40-92DF-C8F672EDAD54}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24263_Time_2_B4", "Q24263_Time_2_B4\Q24263_Time_2_B4.vcxproj", "{DB728184-47A7-4DB2-AA32-099D5DC54F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{A294F77C-9097-4D40-92DF-C8F672EDAD54}.Release|x64.Build.0 = Release|x64
 		{A294F77C-9097-4D40-92DF-C8F672EDAD54}.Release|x86.ActiveCfg = Release|Win32
 		{A294F77C-9097-4D40-92DF-C8F672EDAD54}.Release|x86.Build.0 = Release|Win32
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Debug|x64.ActiveCfg = Debug|x64
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Debug|x64.Build.0 = Debug|x64
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Debug|x86.Build.0 = Debug|Win32
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Release|x64.ActiveCfg = Release|x64
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Release|x64.Build.0 = Release|x64
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Release|x86.ActiveCfg = Release|Win32
+		{DB728184-47A7-4DB2-AA32-099D5DC54F27}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
