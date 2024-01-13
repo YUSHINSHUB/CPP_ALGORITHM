@@ -6,7 +6,7 @@
 using namespace std;
 
 int main()
-{
+{s
 	int n; // Number of key-value pairs
 	int m; // Number of keys to look up
 

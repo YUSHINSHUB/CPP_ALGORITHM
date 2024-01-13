@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q10816_Card_2_S4", "Q10816_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17219_Password_S4", "Q17219_Password_S4\Q17219_Password_S4.vcxproj", "{0FCA74B1-8B2D-48EE-8C8B-6CC544BFF082}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7785_Company_S5", "Q7785_Company_S5\Q7785_Company_S5.vcxproj", "{61CC886F-157B-4E59-A530-122B6496816D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{0FCA74B1-8B2D-48EE-8C8B-6CC544BFF082}.Release|x64.Build.0 = Release|x64
 		{0FCA74B1-8B2D-48EE-8C8B-6CC544BFF082}.Release|x86.ActiveCfg = Release|Win32
 		{0FCA74B1-8B2D-48EE-8C8B-6CC544BFF082}.Release|x86.Build.0 = Release|Win32
+		{61CC886F-157B-4E59-A530-122B6496816D}.Debug|x64.ActiveCfg = Debug|x64
+		{61CC886F-157B-4E59-A530-122B6496816D}.Debug|x64.Build.0 = Debug|x64
+		{61CC886F-157B-4E59-A530-122B6496816D}.Debug|x86.ActiveCfg = Debug|Win32
+		{61CC886F-157B-4E59-A530-122B6496816D}.Debug|x86.Build.0 = Debug|Win32
+		{61CC886F-157B-4E59-A530-122B6496816D}.Release|x64.ActiveCfg = Release|x64
+		{61CC886F-157B-4E59-A530-122B6496816D}.Release|x64.Build.0 = Release|x64
+		{61CC886F-157B-4E59-A530-122B6496816D}.Release|x86.ActiveCfg = Release|Win32
+		{61CC886F-157B-4E59-A530-122B6496816D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
