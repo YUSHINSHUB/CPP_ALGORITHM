@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11478_Substring_S3", "Q114
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q20920_Memorization_S3", "Q20920_Memorization_S3\Q20920_Memorization_S3.vcxproj", "{88D5F329-2EAB-4D98-B57A-5815CA5D4F9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q14425_String_S4", "Q14425_String_S4\Q14425_String_S4.vcxproj", "{08306971-766F-4FD9-A058-F230696C4474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{88D5F329-2EAB-4D98-B57A-5815CA5D4F9D}.Release|x64.Build.0 = Release|x64
 		{88D5F329-2EAB-4D98-B57A-5815CA5D4F9D}.Release|x86.ActiveCfg = Release|Win32
 		{88D5F329-2EAB-4D98-B57A-5815CA5D4F9D}.Release|x86.Build.0 = Release|Win32
+		{08306971-766F-4FD9-A058-F230696C4474}.Debug|x64.ActiveCfg = Debug|x64
+		{08306971-766F-4FD9-A058-F230696C4474}.Debug|x64.Build.0 = Debug|x64
+		{08306971-766F-4FD9-A058-F230696C4474}.Debug|x86.ActiveCfg = Debug|Win32
+		{08306971-766F-4FD9-A058-F230696C4474}.Debug|x86.Build.0 = Debug|Win32
+		{08306971-766F-4FD9-A058-F230696C4474}.Release|x64.ActiveCfg = Release|x64
+		{08306971-766F-4FD9-A058-F230696C4474}.Release|x64.Build.0 = Release|x64
+		{08306971-766F-4FD9-A058-F230696C4474}.Release|x86.ActiveCfg = Release|Win32
+		{08306971-766F-4FD9-A058-F230696C4474}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

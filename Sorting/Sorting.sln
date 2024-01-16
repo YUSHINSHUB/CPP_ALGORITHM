@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11651_Coordinates_2_S5", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q18110_solvedac_S4", "Q18110_solvedac_S4\Q18110_solvedac_S4.vcxproj", "{168437D2-7C76-44A8-A902-A1DC774B7311}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24060_Merge_1_S3", "Q24060_Merge_1_S3\Q24060_Merge_1_S3.vcxproj", "{A452A4E1-B3CE-4059-9274-5867C109DFAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{168437D2-7C76-44A8-A902-A1DC774B7311}.Release|x64.Build.0 = Release|x64
 		{168437D2-7C76-44A8-A902-A1DC774B7311}.Release|x86.ActiveCfg = Release|Win32
 		{168437D2-7C76-44A8-A902-A1DC774B7311}.Release|x86.Build.0 = Release|Win32
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Debug|x64.ActiveCfg = Debug|x64
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Debug|x64.Build.0 = Debug|x64
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Debug|x86.Build.0 = Debug|Win32
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Release|x64.ActiveCfg = Release|x64
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Release|x64.Build.0 = Release|x64
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Release|x86.ActiveCfg = Release|Win32
+		{A452A4E1-B3CE-4059-9274-5867C109DFAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
