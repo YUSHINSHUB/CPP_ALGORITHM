@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1167_Diameter_G2", "Q1167_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9372_Travel_S4", "Q9372_Travel_S4\Q9372_Travel_S4.vcxproj", "{F4CE739D-CDA7-4032-8A4E-1125AB4172CD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q5639_BST_G5", "Q5639_BST_G5\Q5639_BST_G5.vcxproj", "{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{F4CE739D-CDA7-4032-8A4E-1125AB4172CD}.Release|x64.Build.0 = Release|x64
 		{F4CE739D-CDA7-4032-8A4E-1125AB4172CD}.Release|x86.ActiveCfg = Release|Win32
 		{F4CE739D-CDA7-4032-8A4E-1125AB4172CD}.Release|x86.Build.0 = Release|Win32
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Debug|x64.ActiveCfg = Debug|x64
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Debug|x64.Build.0 = Debug|x64
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Debug|x86.Build.0 = Debug|Win32
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Release|x64.ActiveCfg = Release|x64
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Release|x64.Build.0 = Release|x64
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Release|x86.ActiveCfg = Release|Win32
+		{E3BCE3AA-6475-48B4-901B-15CFD08AB0C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
