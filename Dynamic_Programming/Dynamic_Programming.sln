@@ -67,6 +67,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q24416_Fibonacci_1_B1", "Q2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1904_01Tile_S3", "Q1904_01Tile_S3\Q1904_01Tile_S3.vcxproj", "{F089063A-EB16-4CD1-A457-099D5720DBC2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9252_LCS_2_G4", "Q9252_LCS_2_G4\Q9252_LCS_2_G4.vcxproj", "{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -331,6 +333,14 @@ Global
 		{F089063A-EB16-4CD1-A457-099D5720DBC2}.Release|x64.Build.0 = Release|x64
 		{F089063A-EB16-4CD1-A457-099D5720DBC2}.Release|x86.ActiveCfg = Release|Win32
 		{F089063A-EB16-4CD1-A457-099D5720DBC2}.Release|x86.Build.0 = Release|Win32
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Debug|x64.ActiveCfg = Debug|x64
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Debug|x64.Build.0 = Debug|x64
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Debug|x86.Build.0 = Debug|Win32
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Release|x64.ActiveCfg = Release|x64
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Release|x64.Build.0 = Release|x64
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Release|x86.ActiveCfg = Release|Win32
+		{FCA3EE8A-FBFC-4EFE-9409-130375DC408D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
