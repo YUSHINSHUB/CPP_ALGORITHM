@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2501_Divisor_B3", "Q2501_D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q19532_Online_B2", "Q19532_Online_B2\Q19532_Online_B2.vcxproj", "{03475BAC-2F55-4239-B115-7FC4E48A9A0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q3085_Candy_S2", "Q3085_Candy_S2\Q3085_Candy_S2.vcxproj", "{450B213E-151B-4010-8B65-6DA967FD4AFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{03475BAC-2F55-4239-B115-7FC4E48A9A0E}.Release|x64.Build.0 = Release|x64
 		{03475BAC-2F55-4239-B115-7FC4E48A9A0E}.Release|x86.ActiveCfg = Release|Win32
 		{03475BAC-2F55-4239-B115-7FC4E48A9A0E}.Release|x86.Build.0 = Release|Win32
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Debug|x64.ActiveCfg = Debug|x64
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Debug|x64.Build.0 = Debug|x64
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Debug|x86.Build.0 = Debug|Win32
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x64.ActiveCfg = Release|x64
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x64.Build.0 = Release|x64
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x86.ActiveCfg = Release|Win32
+		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
