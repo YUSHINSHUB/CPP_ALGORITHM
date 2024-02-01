@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7662_Double_G4", "Q7662_Do
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1202_Jewel_G2", "Q1202_Jewel_G2\Q1202_Jewel_G2.vcxproj", "{4ADAC51F-3303-4784-A88D-2B627C7132AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11000_Classroom_G5", "Q11000_Classroom_G5\Q11000_Classroom_G5.vcxproj", "{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{4ADAC51F-3303-4784-A88D-2B627C7132AB}.Release|x64.Build.0 = Release|x64
 		{4ADAC51F-3303-4784-A88D-2B627C7132AB}.Release|x86.ActiveCfg = Release|Win32
 		{4ADAC51F-3303-4784-A88D-2B627C7132AB}.Release|x86.Build.0 = Release|Win32
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Debug|x64.ActiveCfg = Debug|x64
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Debug|x64.Build.0 = Debug|x64
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Debug|x86.Build.0 = Debug|Win32
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Release|x64.ActiveCfg = Release|x64
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Release|x64.Build.0 = Release|x64
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Release|x86.ActiveCfg = Release|Win32
+		{EBCB327C-3A27-492E-AAEB-7C1A000FCA3C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q13913_Seek_4_G4", "Q13913_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q12851_Seek_2_G4", "Q12851_Seek_2_G4\Q12851_Seek_2_G4.vcxproj", "{C466911A-9E5A-4316-8F26-00B710E8DB95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2146_Bridge_G3", "Q2146_Bridge_G3\Q2146_Bridge_G3.vcxproj", "{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{C466911A-9E5A-4316-8F26-00B710E8DB95}.Release|x64.Build.0 = Release|x64
 		{C466911A-9E5A-4316-8F26-00B710E8DB95}.Release|x86.ActiveCfg = Release|Win32
 		{C466911A-9E5A-4316-8F26-00B710E8DB95}.Release|x86.Build.0 = Release|Win32
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Debug|x64.ActiveCfg = Debug|x64
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Debug|x64.Build.0 = Debug|x64
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Debug|x86.Build.0 = Debug|Win32
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Release|x64.ActiveCfg = Release|x64
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Release|x64.Build.0 = Release|x64
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Release|x86.ActiveCfg = Release|Win32
+		{4C848260-B9AA-4F54-BAEC-121A8A5DDBCF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

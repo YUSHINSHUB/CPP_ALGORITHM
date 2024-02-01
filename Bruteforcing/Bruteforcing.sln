@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q19532_Online_B2", "Q19532_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q3085_Candy_S2", "Q3085_Candy_S2\Q3085_Candy_S2.vcxproj", "{450B213E-151B-4010-8B65-6DA967FD4AFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q3040_Dwarfs_B2", "Q3040_Dwarfs_B2\Q3040_Dwarfs_B2.vcxproj", "{B310BE22-619F-4B01-90B4-8B6B0A1336D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x64.Build.0 = Release|x64
 		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x86.ActiveCfg = Release|Win32
 		{450B213E-151B-4010-8B65-6DA967FD4AFE}.Release|x86.Build.0 = Release|Win32
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Debug|x64.ActiveCfg = Debug|x64
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Debug|x64.Build.0 = Debug|x64
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Debug|x86.Build.0 = Debug|Win32
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Release|x64.ActiveCfg = Release|x64
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Release|x64.Build.0 = Release|x64
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Release|x86.ActiveCfg = Release|Win32
+		{B310BE22-619F-4B01-90B4-8B6B0A1336D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
