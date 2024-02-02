@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q28278_Stack_2_S4", "Q28278
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q12789_Snack_S3", "Q12789_Snack_S3\Q12789_Snack_S3.vcxproj", "{95D52E1E-D010-4AB6-90FF-5A9F6F790A8F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1935_Postfix_2_S3", "Q1935_Postfix_2_S3\Q1935_Postfix_2_S3.vcxproj", "{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{95D52E1E-D010-4AB6-90FF-5A9F6F790A8F}.Release|x64.Build.0 = Release|x64
 		{95D52E1E-D010-4AB6-90FF-5A9F6F790A8F}.Release|x86.ActiveCfg = Release|Win32
 		{95D52E1E-D010-4AB6-90FF-5A9F6F790A8F}.Release|x86.Build.0 = Release|Win32
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Debug|x64.ActiveCfg = Debug|x64
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Debug|x64.Build.0 = Debug|x64
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Debug|x86.Build.0 = Debug|Win32
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Release|x64.ActiveCfg = Release|x64
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Release|x64.Build.0 = Release|x64
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Release|x86.ActiveCfg = Release|Win32
+		{AFDF7F8D-60CD-4391-9E24-C73B0FB9D883}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
