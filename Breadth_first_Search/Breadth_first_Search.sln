@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2146_Bridge_G3", "Q2146_Br
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q9205_Bear_G5", "Q9205_Bear_G5\Q9205_Bear_G5.vcxproj", "{93874587-08D7-48C3-B639-E8759217ABB8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2638_Cheese_G3", "Q2638_Cheese_G3\Q2638_Cheese_G3.vcxproj", "{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{93874587-08D7-48C3-B639-E8759217ABB8}.Release|x64.Build.0 = Release|x64
 		{93874587-08D7-48C3-B639-E8759217ABB8}.Release|x86.ActiveCfg = Release|Win32
 		{93874587-08D7-48C3-B639-E8759217ABB8}.Release|x86.Build.0 = Release|Win32
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Debug|x64.Build.0 = Debug|x64
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Debug|x86.Build.0 = Debug|Win32
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Release|x64.ActiveCfg = Release|x64
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Release|x64.Build.0 = Release|x64
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Release|x86.ActiveCfg = Release|Win32
+		{EE6B295E-1DA6-4DC9-B925-D1CDD2B2B72A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
