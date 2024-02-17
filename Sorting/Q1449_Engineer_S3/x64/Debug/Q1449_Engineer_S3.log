@@ -1,0 +1,3 @@
+﻿  Q1449_Engineer_S3.cpp
+C:\Users\dbtls\Desktop\CPP WORKSPACE\Sorting\Q1449_Engineer_S3\Q1449_Engineer_S3.cpp(29,10): warning C4834: 'nodiscard' 특성이 포함된 함수의 반환 값을 버리는 중
+  Q1449_Engineer_S3.vcxproj -> C:\Users\dbtls\Desktop\CPP WORKSPACE\Sorting\x64\Debug\Q1449_Engineer_S3.exe
