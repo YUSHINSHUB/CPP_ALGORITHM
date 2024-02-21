@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1600_Horse_Monkey_G3", "Q1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1325_Hacking_S1", "Q1325_Hacking_S1\Q1325_Hacking_S1.vcxproj", "{E4F8CB95-EECA-481C-B62F-099F76602952}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q4179_Fire_G4", "Q4179_Fire_G4\Q4179_Fire_G4.vcxproj", "{79E4664A-2A6F-4ACE-9B45-97538A1E169C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{E4F8CB95-EECA-481C-B62F-099F76602952}.Release|x64.Build.0 = Release|x64
 		{E4F8CB95-EECA-481C-B62F-099F76602952}.Release|x86.ActiveCfg = Release|Win32
 		{E4F8CB95-EECA-481C-B62F-099F76602952}.Release|x86.Build.0 = Release|Win32
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Debug|x64.ActiveCfg = Debug|x64
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Debug|x64.Build.0 = Debug|x64
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Debug|x86.ActiveCfg = Debug|Win32
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Debug|x86.Build.0 = Debug|Win32
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x64.ActiveCfg = Release|x64
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x64.Build.0 = Release|x64
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x86.ActiveCfg = Release|Win32
+		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
