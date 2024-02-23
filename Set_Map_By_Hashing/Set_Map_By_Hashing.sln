@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q7785_Company_S5", "Q7785_C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q11652_Card_S4", "Q11652_Card_S4\Q11652_Card_S4.vcxproj", "{703F3E9D-699E-403B-80DC-80778D19EFFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q4195_FriendsNetwork_G2", "Q4195_FriendsNetwork_G2\Q4195_FriendsNetwork_G2.vcxproj", "{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{703F3E9D-699E-403B-80DC-80778D19EFFF}.Release|x64.Build.0 = Release|x64
 		{703F3E9D-699E-403B-80DC-80778D19EFFF}.Release|x86.ActiveCfg = Release|Win32
 		{703F3E9D-699E-403B-80DC-80778D19EFFF}.Release|x86.Build.0 = Release|Win32
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Debug|x64.ActiveCfg = Debug|x64
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Debug|x64.Build.0 = Debug|x64
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Debug|x86.ActiveCfg = Debug|Win32
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Debug|x86.Build.0 = Debug|Win32
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Release|x64.ActiveCfg = Release|x64
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Release|x64.Build.0 = Release|x64
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Release|x86.ActiveCfg = Release|Win32
+		{530424A0-A934-4CE9-BB2D-1D2E4D1AA70F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
