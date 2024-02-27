@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17070_Pipe_1_G5", "Q17070_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1915_Square_G4", "Q1915_Square_G4\Q1915_Square_G4.vcxproj", "{BCADA137-B94D-4EAB-A3F8-44C3CE73DC6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2011_Password_G5", "Q2011_Password_G5\Q2011_Password_G5.vcxproj", "{8F4DDA08-A093-40EA-965A-BD60F9089B5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{BCADA137-B94D-4EAB-A3F8-44C3CE73DC6C}.Release|x64.Build.0 = Release|x64
 		{BCADA137-B94D-4EAB-A3F8-44C3CE73DC6C}.Release|x86.ActiveCfg = Release|Win32
 		{BCADA137-B94D-4EAB-A3F8-44C3CE73DC6C}.Release|x86.Build.0 = Release|Win32
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Debug|x64.ActiveCfg = Debug|x64
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Debug|x64.Build.0 = Debug|x64
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Debug|x86.Build.0 = Debug|Win32
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Release|x64.ActiveCfg = Release|x64
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Release|x64.Build.0 = Release|x64
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Release|x86.ActiveCfg = Release|Win32
+		{8F4DDA08-A093-40EA-965A-BD60F9089B5F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
