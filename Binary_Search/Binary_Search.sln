@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q12015_LIS_2_G2", "Q12015_L
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q14003_LIS_5_P5", "Q14003_LIS_5_P5\Q14003_LIS_5_P5.vcxproj", "{D6D39932-46AA-41A2-A3D8-FA354012E84D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1253_Good_G4", "Q1253_Good_G4\Q1253_Good_G4.vcxproj", "{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{D6D39932-46AA-41A2-A3D8-FA354012E84D}.Release|x64.Build.0 = Release|x64
 		{D6D39932-46AA-41A2-A3D8-FA354012E84D}.Release|x86.ActiveCfg = Release|Win32
 		{D6D39932-46AA-41A2-A3D8-FA354012E84D}.Release|x86.Build.0 = Release|Win32
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Debug|x64.ActiveCfg = Debug|x64
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Debug|x64.Build.0 = Debug|x64
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Debug|x86.Build.0 = Debug|Win32
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Release|x64.ActiveCfg = Release|x64
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Release|x64.Build.0 = Release|x64
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Release|x86.ActiveCfg = Release|Win32
+		{D16B9201-66F1-4F15-89A8-F8F0C778C6B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

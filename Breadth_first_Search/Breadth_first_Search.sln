@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1325_Hacking_S1", "Q1325_H
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q4179_Fire_G4", "Q4179_Fire_G4\Q4179_Fire_G4.vcxproj", "{79E4664A-2A6F-4ACE-9B45-97538A1E169C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17135_CastleDefense_G3", "Q17135_CastleDefense_G3\Q17135_CastleDefense_G3.vcxproj", "{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x64.Build.0 = Release|x64
 		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x86.ActiveCfg = Release|Win32
 		{79E4664A-2A6F-4ACE-9B45-97538A1E169C}.Release|x86.Build.0 = Release|Win32
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Debug|x64.ActiveCfg = Debug|x64
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Debug|x64.Build.0 = Debug|x64
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Debug|x86.Build.0 = Debug|Win32
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Release|x64.ActiveCfg = Release|x64
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Release|x64.Build.0 = Release|x64
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Release|x86.ActiveCfg = Release|Win32
+		{AEEFA602-7D52-4995-A6B1-7D5B03DEEA8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

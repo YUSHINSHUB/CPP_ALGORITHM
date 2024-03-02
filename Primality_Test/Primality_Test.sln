@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q17103_Goldbach_S2", "Q1710
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q1016_NoneSquare_G1", "Q1016_NoneSquare_G1\Q1016_NoneSquare_G1.vcxproj", "{CC8CFC4D-1E61-46C3-926C-E24619FD2304}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q2032_AmazingPrime_G5", "Q2032_AmazingPrime_G5\Q2032_AmazingPrime_G5.vcxproj", "{8BCF89A9-AB59-4C80-81A5-894501BC5705}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{CC8CFC4D-1E61-46C3-926C-E24619FD2304}.Release|x64.Build.0 = Release|x64
 		{CC8CFC4D-1E61-46C3-926C-E24619FD2304}.Release|x86.ActiveCfg = Release|Win32
 		{CC8CFC4D-1E61-46C3-926C-E24619FD2304}.Release|x86.Build.0 = Release|Win32
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Debug|x64.ActiveCfg = Debug|x64
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Debug|x64.Build.0 = Debug|x64
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Debug|x86.ActiveCfg = Debug|Win32
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Debug|x86.Build.0 = Debug|Win32
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Release|x64.ActiveCfg = Release|x64
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Release|x64.Build.0 = Release|x64
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Release|x86.ActiveCfg = Release|Win32
+		{8BCF89A9-AB59-4C80-81A5-894501BC5705}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
